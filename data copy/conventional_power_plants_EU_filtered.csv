@@ -1,0 +1,1120 @@
+name,company,street,postcode,city,country,capacity,energy_source,technology,chp,commissioned,type,lat,lon,eic_code,energy_source_level_1,energy_source_level_2,energy_source_level_3,additional_info,comment,source
+"Marcinelle Energie (Carsid)","DIRECT ENERGIE",,,,BE,413,"Natural gas","Combined cycle",,,,50.41396,4.40645,22WMARCIN000179H,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Aalst Syral GT",Electrabel,,,,BE,43,"Natural gas","Gas turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Aalst Syral ST",Electrabel,,,,BE,5,"Natural gas","Steam turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"AALTER TJ",Electrabel,,,,BE,18,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Amercoeur 1 R TGV",Electrabel,,,,BE,451,"Natural gas","Combined cycle",,,,50.43004,4.39518,22WAMERCO000010Y,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"AWIRS 4",Electrabel,,,,BE,95,"Biomass and biogas","Steam turbine",,,,50.58508,5.41886,,"Renewable energy",Bioenergy,"Biomass and biogas",,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"BEERSE TJ",Electrabel,,,,BE,32,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Beveren Ineos Phenolchemie",Electrabel,,,,BE,23.8,"Natural gas",,Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+BUTGENBACH,Electrabel,,,,BE,1.8,Hydro,,,,,,,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"CIERREUX TJ",Electrabel,,,,BE,18,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"COO I T",Electrabel,,,,BE,474,Hydro,,,,,50.38254,5.84414,22WCOOXIX000067T,"Renewable energy",Hydro,,,Basin,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"COO II T",Electrabel,,,,BE,690,Hydro,,,,,50.38254,5.84414,22WCOOXII000070C,"Renewable energy",Hydro,,,Basin,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DOEL 1",Electrabel,,,,BE,445,Nuclear,"Steam turbine",,,,51.32481,4.25889,22WDOELX1000076X,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DOEL 2",Electrabel,,,,BE,433,Nuclear,"Steam turbine",,,,51.32481,4.25889,22WDOELX2000077N,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DOEL 3",Electrabel,,,,BE,1006,Nuclear,"Steam turbine",,,,51.32481,4.25889,22WDOELX3000078D,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DOEL 4",Electrabel,,,,BE,1039,Nuclear,"Steam turbine",,,,51.32481,4.25889,22WDOELX40000793,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DROGENBOS DM 51",Electrabel,,,,BE,2.5,Oil,,,,,50.80244,4.30072,,"Fossil fuels",Oil,,,NoMetering,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DROGENBOS DM 52",Electrabel,,,,BE,2.5,Oil,,,,,50.80244,4.30072,,"Fossil fuels",Oil,,,NoMetering,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DROGENBOS GT1",Electrabel,,,,BE,150,"Natural gas","Gas turbine",,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DROGENBOS GT2",Electrabel,,,,BE,150,"Natural gas","Gas turbine",,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"DROGENBOS ST",Electrabel,,,,BE,160,"Natural gas","Steam turbine",,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HERDERSBRUG STEG",Electrabel,,,,BE,465,"Natural gas","Combined cycle",,,,51.26307,3.21121,22WHERDER0001288,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"IXELLES TJ",Electrabel,,,,BE,18,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"La Vierre",Electrabel,,,,BE,1.9,Hydro,,,,,,,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Lanaken Sappi",Electrabel,,,,BE,43,"Natural gas",,Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"LANGERBRUGGE STORA ST 1",Electrabel,,,,BE,11,"Non-renewable waste","Steam turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"LANGERBRUGGE STORA ST 2",Electrabel,,,,BE,44.7,"Non-renewable waste","Steam turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Lillo Degussa GT1",Electrabel,,,,BE,43,"Natural gas","Gas turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Lillo Degussa GT2",Electrabel,,,,BE,32,"Natural gas","Gas turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Lillo Degussa ST",Electrabel,,,,BE,10,"Natural gas","Steam turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Noordschote TJ",Electrabel,,,,BE,18,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Oorderen Bayer",Electrabel,,,,BE,43,"Natural gas",,Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Oud-Lillo Monsanto",Electrabel,,,,BE,43,"Natural gas",,Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"RODENHUIZE 4",Electrabel,,,,BE,268,"Biomass and biogas","Steam turbine",,,,51.13421,3.77598,22WRODENH000213L,"Renewable energy",Bioenergy,"Biomass and biogas",,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"SAINT-GHISLAIN STEG",Electrabel,,,,BE,350,"Natural gas","Combined cycle",,,,50.47167,3.82521,22WSAINT-000221B,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Schaerbeek Siomab ST1",Electrabel,,,,BE,15,"Non-renewable waste","Steam turbine",,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Schaerbeek Siomab ST2",Electrabel,,,,BE,15,"Non-renewable waste","Steam turbine",,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Schaerbeek Siomab ST3",Electrabel,,,,BE,15,"Non-renewable waste","Steam turbine",,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Scheldelaan Exxonmobil",Electrabel,,,,BE,140,"Natural gas",,Yes,,CHP/IPP,,,22WSCHELD0002261,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"TIHANGE 1N",Electrabel,,,,BE,481,Nuclear,"Steam turbine",,,,50.53464,5.27121,22WTIHANG000239G,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"TIHANGE 1S",Electrabel,,,,BE,481,Nuclear,"Steam turbine",,,,50.53464,5.27121,22WTIHANG000240V,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"TIHANGE 2",Electrabel,,,,BE,1008,Nuclear,"Steam turbine",,,,50.53464,5.27121,22WTIHANG000241T,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"TIHANGE 3",Electrabel,,,,BE,1038,Nuclear,"Steam turbine",,,,50.53464,5.27121,22WTIHANG000242R,Nuclear,,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Turon TJ",Electrabel,,,,BE,18.6,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"VILVOORDE GT",Electrabel,,,,BE,255,"Natural gas","Gas turbine",,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Wilmarsdonk Total GT1",Electrabel,,,,BE,43,"Natural gas","Gas turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Wilmarsdonk Total GT2",Electrabel,,,,BE,43,"Natural gas","Gas turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Wilmarsdonk Total GT3",Electrabel,,,,BE,43,"Natural gas","Gas turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Wilrijk Isvag",Electrabel,,,,BE,12,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zandvliet Power",Electrabel,,,,BE,386.2,"Natural gas","Combined cycle",,,,51.36977,4.26667,22WZANDVL000255D,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zedelgem TJ",Electrabel,,,,BE,18,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zeebrugge 2 Fluxys",Electrabel,,,,BE,40,"Natural gas",,Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zeebrugge TJ",Electrabel,,,,BE,18,Oil,"Gas turbine",,,,,,,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zelzate 2 Knippegroen",Electrabel,,,,BE,315,"Mixed fossil fuels","Steam turbine",,,,51.15861,3.80746,22WZELZAT0002618,"Fossil fuels","Mixed fossil fuels",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zelzate TJ",Electrabel,,,,BE,18,Oil,"Gas turbine",,,,51.15879,3.80815,22WZELZAT0002618,"Fossil fuels",Oil,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zwijndrecht Lanxess GT",Electrabel,,,,BE,43,"Natural gas","Gas turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Zwijndrecht Lanxess ST",Electrabel,,,,BE,15,"Natural gas","Steam turbine",Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Electrawinds biomassa Oostende","Electrawinds Distributie",,,,BE,18,"Non-renewable waste",,Yes,,CHP/IPP,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Greenpower Oostende","Electrawinds Distributie",,,,BE,20,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+Eurosilo,Lampiris,,,,BE,12.9,"Natural gas",,Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Incinerateur THUMAIDE (IPALLE)",Lampiris,,,,BE,34,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Intradel Herstal",Lampiris,,,,BE,34,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+IVBO,Lampiris,,,,BE,16,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"PLATE-TAILLE T",Lampiris,,,,BE,144,Hydro,,,,,,,22WPLATEX000208N,"Renewable energy",Hydro,,,Basin,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"ANGLEUR TG 41",Luminus,,,,BE,64,"Natural gas","Gas turbine",,,,50.61775,5.58267,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"ANGLEUR TG 42",Luminus,,,,BE,64,"Natural gas","Gas turbine",,,,50.61775,5.58267,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"ANGLEUR TG31",Luminus,,,,BE,25,"Natural gas",,,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"ANGLEUR TG32",Luminus,,,,BE,25,"Natural gas",,,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Beveren 2 Indaver",Luminus,,,,BE,21,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Beveren 3 Indaver",Luminus,,,,BE,24,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Beveren Sleco",Luminus,,,,BE,41,"Non-renewable waste",,,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"EDF Luminus Izegem WKK",Luminus,,,,BE,20,"Natural gas",,Yes,,CHP/IPP,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"EDF Luminus Seraing GT1",Luminus,,,,BE,150,"Natural gas","Gas turbine",,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"EDF Luminus Seraing GT2",Luminus,,,,BE,150,"Natural gas","Gas turbine",,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+HAM31,Luminus,,,,BE,58,"Natural gas","Gas turbine",,,,51.05942,3.73646,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+HAM32,Luminus,,,,BE,58,"Natural gas","Gas turbine",,,,51.05942,3.73646,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HU AMPSIN-NEUVILLE",Luminus,,,,BE,9.9,Hydro,,,,,50.53381,5.29636,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HU ANDENNE",Luminus,,,,BE,9,Hydro,,,,,50.49179,5.06975,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HU FLORIFFOUX",Luminus,,,,BE,0.8,Hydro,,,,,50.44663,4.77389,,"Renewable energy",Hydro,,,NoMetering,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HU GRAND-MALADES",Luminus,,,,BE,5,Hydro,,,,,50.46595,4.89928,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HU IVOZ-RAMET",Luminus,,,,BE,10,Hydro,,,,,50.59349,5.46137,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HU LIXHE",Luminus,,,,BE,20,Hydro,,,,,50.75178,5.6878,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"HU MONSIN",Luminus,,,,BE,19.7,Hydro,,,,,50.65317,5.63137,,"Renewable energy",Hydro,,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Jemeppe-sur-Sambre GT1",Luminus,,,,BE,48,"Natural gas","Gas turbine",,,,50.44746,4.66339,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Jemeppe-sur-Sambre GT2",Luminus,,,,BE,48,"Natural gas","Gas turbine",,,,50.44746,4.66339,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Jemeppe-sur-Sambre ST",Luminus,,,,BE,10,"Natural gas","Steam turbine",,,,50.44746,4.66339,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"RINGVAART STEG",Luminus,,,,BE,385,"Natural gas","Combined cycle",,,,51.10496,3.72567,22WRINGVA000209C,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"SERAING TV",Luminus,,,,BE,170,"Natural gas",,,,,,,,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"Biostoom Oostende","RWE Supply & Trading",,,,BE,19.4,"Non-renewable waste","Combined cycle",,,,,,,"Fossil fuels","Non-renewable waste",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"INESCO WKK","RWE Supply & Trading",,,,BE,138,"Natural gas","Combined cycle",Yes,,CHP/IPP,51.24256,4.32481,22WINESCO000149P,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"T-power Beringen",T-Power,,,,BE,422,"Natural gas","Combined cycle",,,,,,22WT-POWE000244W,"Fossil fuels","Natural gas",,,,https://www.elia.be/en/grid-data/power-generation/generating-facilities#
+"PROVENCE 4 BIOMASSE",,,,,FR,150,"Biomass and biogas",,,2018,,,,17W100P100P03647,"Renewable energy",Bioenergy,"Biomass and biogas",,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+AMFARD14,,,,,FR,130,"Natural gas",,,2004,,,,17W100P100P0353C,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+AMFARD15,,,,,FR,130,"Natural gas",,,2004,,,,17W100P100P03493,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BLENOD 5",,,,,FR,427,"Natural gas",,,,,48.86959,6.08377,17W100P100P0243J,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BOUCHAIN 7",,,,,FR,585,"Natural gas",,,2017,,50.29774,3.31429,17W100P100P0244H,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+COMBIGOLFE,,,,,FR,425,"Natural gas",,,2010,,43.41616,4.86974,17W100P100P0337A,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+CYCOFOS,,,,,FR,428,"Natural gas",,,2009,,43.42801,4.88652,17W100P100P0351G,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+Croix-de-Metz,,,,,FR,413,"Natural gas",,,2019,,48.69336,5.91468,17W100P100P0340L,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+DK6,,,,,FR,796,"Natural gas",,,2005,,51.04628,2.31835,17W100P100P0350I,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"EMILE HUCHET 7",,,,,FR,413,"Natural gas",,,2010,,49.15412,6.7047,17W100P100P0344D,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"EMILE HUCHET 8",,,,,FR,413,"Natural gas",,,2010,,49.15412,6.7047,17W100P100P0345B,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+FR-GA-MORANT1,,,,,FR,401,"Natural gas",,,2016,,46.27282,3.30095,17W100P100P0318E,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GENNEVILLIERS 1",,,,,FR,203,"Natural gas",,,,,48.93699,2.26144,17W100P100P02667,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"MARTIGUES PONTEAU 5",,,,,FR,465,"Natural gas",,,,,43.35822,5.02112,17W100P100P0245F,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"MARTIGUES PONTEAU 6",,,,,FR,465,"Natural gas",,,,,43.35822,5.02112,17W100P100P0246D,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+Pont-sur-Sambre,,,,,FR,412,"Natural gas",,,2019,,50.22915,3.86807,17W100P100P0341J,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+SPEM,,,,,FR,435,"Natural gas",,,2010,,47.30265,-2.14028,17W100P100P0334G,"Fossil fuels","Natural gas",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CORDEMAIS 4",,,,,FR,580,"Hard coal","Steam turbine",,,,47.27712,-1.88012,17W100P100P0236G,"Fossil fuels","Hard coal",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CORDEMAIS 5",,,,,FR,580,"Hard coal","Steam turbine",,,,47.27712,-1.88012,17W100P100P0237E,"Fossil fuels","Hard coal",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"EMILE HUCHET 6",,,,,FR,595,"Hard coal","Steam turbine",,1981,,49.15412,6.7047,17W100P100P0343F,"Fossil fuels","Hard coal",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"HAVRE 4",,,,,FR,580,"Hard coal","Steam turbine",,,,49.47553,0.14711,17W100P100P0238C,"Fossil fuels","Hard coal",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PROVENCE 5",,,,,FR,595,"Hard coal","Steam turbine",,1984,,46.46883,5.48957,17W100P100P03469,"Fossil fuels","Hard coal",,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"ARRIGHI 1",,,,,FR,125,Oil,,,,,48.79151,2.41593,17W100P100P0255C,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"ARRIGHI 2",,,,,FR,129,Oil,,,,,48.79151,2.41593,17W100P100P0256A,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BRENNILIS 1",,,,,FR,85,Oil,,,,,48.35702,-3.87053,17W100P100P02586,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BRENNILIS 2",,,,,FR,85,Oil,,,,,48.35702,-3.87053,17W100P100P0260J,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BRENNILIS 3",,,,,FR,134,Oil,,,,,48.35702,-3.87053,17W100P100P0261H,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"DIRINON 1",,,,,FR,85,Oil,,,,,48.39036,-4.26373,17W100P100P0263D,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"DIRINON 2",,,,,FR,85,Oil,,,,,48.39036,-4.26373,17W100P100P02659,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"MONTEREAU 5",,,,,FR,185,Oil,,,,,48.38045,2.85108,17W100P100P0270G,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"MONTEREAU 6",,,,,FR,185,Oil,,,,,48.38045,2.85108,17W100P100P0271E,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"VAIRES 1",,,,,FR,181,Oil,,,,,48.87349,2.65533,17W100P100P02675,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"VAIRES 2",,,,,FR,179,Oil,,,,,48.87349,2.65533,17W100P100P02683,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"VAIRES 3",,,,,FR,182,Oil,,,,,48.87349,2.65533,17W100P100P02691,"Fossil fuels",Oil,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+CHEYLAS,,,,,FR,485,Hydro,"Pumped storage",,,,45.3846,6.00207,17W100P100P0273A,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+COCHE,,,,,FR,384,Hydro,"Pumped storage",,2019,,45.49667,6.51038,17W100P100P02748,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GRAND MAISON",,,,,FR,1700,Hydro,"Pumped storage",,2017,,45.20597,6.11719,17W100P100P02756,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+MONTEZIC,,,,,FR,910,Hydro,"Pumped storage",,,,44.73766,2.64342,17W100P100P02772,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+REVIN,,,,,FR,808,Hydro,"Pumped storage",,,,49.92556,4.61331,17W100P100P02780,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"SUPER BISSORTE",,,,,FR,742.3,Hydro,"Pumped storage",,,,45.1803,6.5797,17W100P100P02764,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+ASTON,,,,,FR,104,Hydro,Run-of-river,,,,42.77668,1.67671,17W100P100P0315K,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+AVIGNON,,,,,FR,126,Hydro,Run-of-river,,1973,,43.97606,4.81721,17W100P100P0326F,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BAIX LOGIS NEUF 1",,,,,FR,140,Hydro,Run-of-river,,1960,,44.67605,4.78827,17W100P100P0322N,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+BEAUCHASTEL,,,,,FR,198,Hydro,Run-of-river,,1963,,44.82397,4.81049,17W100P100P0321P,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BOURG les VALENCE",,,,,FR,180,Hydro,Run-of-river,,1968,,44.96128,4.87221,17W100P100P0320R,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+CADEROUSSE,,,,,FR,156,Hydro,Run-of-river,,1975,,44.09606,4.72329,17W100P100P0325H,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+CHASTANG,,,,,FR,293,Hydro,Run-of-river,,,,45.15185,2.00985,17W100P100P0302T,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+COUESQUE,,,,,FR,119,Hydro,Run-of-river,,,,44.69609,2.58555,17W100P100P0313O,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"DONZERE MONDRAGON",,,,,FR,348,Hydro,Run-of-river,,1952,,44.30368,4.74217,17W100P100P0324J,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+FESSENHEIM,,,,,FR,175,Hydro,Run-of-river,,,,47.91466,7.57067,17W100P100P0303R,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+FR_LA-MAREGES-P,,,,,FR,150,Hydro,Run-of-river,,2018,,,,,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+FR_LA-STPIERRE-P,,,,,FR,122,Hydro,Run-of-river,,2018,,,,,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+GENISSIAT,,,,,FR,420,Hydro,Run-of-river,,1948,,46.05271,5.81285,17W100P100P0319C,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+GERSTHEIM,,,,,FR,140.5,Hydro,Run-of-river,,,,48.40385,7.72775,17W100P100P0310U,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+HERMILLON,,,,,FR,115.6,Hydro,Run-of-river,,,,45.28424,6.35799,17W100P100P0314M,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+KEMBS,,,,,FR,162.1,Hydro,Run-of-river,,2016,,47.65534,7.51959,17W100P100P0307J,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+MARCKOLSHEIM,,,,,FR,156.2,Hydro,Run-of-river,,,,48.15371,7.5898,17W100P100P0305N,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+MONTELIMAR,,,,,FR,295,Hydro,Run-of-river,,1957,,44.59281,4.72593,17W100P100P0323L,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+OTTMARSHEIM,,,,,FR,156,Hydro,Run-of-river,,,,47.77399,7.52246,17W100P100P0306L,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+PASSY,,,,,FR,104,Hydro,Run-of-river,,,,45.91642,6.72592,17W100P100P0316I,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+RANDENS,,,,,FR,124.2,Hydro,Run-of-river,,,,45.52711,6.31996,17W100P100P0312Q,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+RHINAU,,,,,FR,152,Hydro,Run-of-river,,2016,,48.28412,7.67728,17W100P100P0304P,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"SAINT PIERRE COGNET",,,,,FR,101,Hydro,Run-of-river,,,,44.87249,5.77319,17W100P100P0317G,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+SAUSSAZ,,,,,FR,145.4,Hydro,Run-of-river,,,,45.20992,6.47663,17W100P100P0309F,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+STRASBOURG,,,,,FR,147.8,Hydro,Run-of-river,,2016,,48.52561,7.79456,17W100P100P0308H,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+VALLABREGUES,,,,,FR,210,Hydro,Run-of-river,,1970,,43.82415,4.64349,17W100P100P0327D,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+VOGELGRUN,,,,,FR,140.5,Hydro,Run-of-river,,,,48.0203,7.57393,17W100P100P0311S,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+AIGLE,,,,,FR,360,Hydro,Reservoir,,,,45.24373,2.22483,17W100P100P0279Z,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+BATHIE,,,,,FR,592,Hydro,Reservoir,,2018,,45.68545,6.62249,17W100P100P0280D,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+BORT,,,,,FR,235,Hydro,Reservoir,,,,45.41269,2.49862,17W100P100P0281B,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+BROMMAT,,,,,FR,406,Hydro,Reservoir,,,,44.76793,2.68415,17W100P100P02829,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"COMBE D'AVRIEUX",,,,,FR,123,Hydro,Reservoir,,,,45.21348,6.72053,17W100P100P02837,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+CURBANS,,,,,FR,139,Hydro,Reservoir,,,,44.42078,6.02016,17W100P100P02845,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+MALGOVERT,,,,,FR,297,Hydro,Reservoir,,,,45.61787,6.79074,17W100P100P02853,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+MONTEYNARD,,,,,FR,366,Hydro,Reservoir,,,,44.96118,5.68874,17W100P100P02861,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+MONTPEZAT,,,,,FR,131.8,Hydro,Reservoir,,,,44.69026,4.27215,17W100B100P0287S,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+ORAISON,,,,,FR,187,Hydro,Reservoir,,,,43.92101,5.92438,17W100P100P0288Y,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PIED DE BORNE",,,,,FR,109.4,Hydro,Reservoir,,,,44.47198,3.98867,17W100P100P0289W,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+POUGET,,,,,FR,446.9,Hydro,Reservoir,,,,43.65604,3.40178,17W100P100P0290A,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+PRAGNERES,,,,,FR,189.2,Hydro,Reservoir,,,,42.8211,0.01033,17W100P100P02918,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"SAINT CHAMAS",,,,,FR,159,Hydro,Reservoir,,,,43.52741,5.07342,17W100P100P0296Z,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"SAINT ESTEVE",,,,,FR,141,Hydro,Reservoir,,,,43.69049,5.38489,17W100P100P0298V,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"SAINT GUILLERME",,,,,FR,116,Hydro,Reservoir,,,,45.03048,6.07914,17W100P100P0299T,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"SAINTE CROIX",,,,,FR,132.3,Hydro,Reservoir,,,,43.73687,6.13423,17W100P100P0297X,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+SARRANS,,,,,FR,183,Hydro,Reservoir,,,,44.82942,2.74042,17W100P100P02934,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"SERRE PONCON",,,,,FR,384,Hydro,Reservoir,,,,44.47095,6.26967,17W100P100P02926,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+SISTERON,,,,,FR,240,Hydro,Reservoir,,2017,,44.17517,5.95215,17W100P100P02942,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"ST ETIENNE CANTALES",,,,,FR,103.3,Hydro,Reservoir,,2016,,44.94516,2.21906,17W100P100P02950,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+VILLARODIN,,,,,FR,357,Hydro,Reservoir,,,,45.21466,6.71208,17W100P100P0300X,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+VOUGLANS,,,,,FR,285,Hydro,Reservoir,,,,46.39734,5.66556,17W100P100P0301V,"Renewable energy",Hydro,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BELLEVILLE 1",,,,,FR,1310,Nuclear,"Steam turbine",,,,47.50879,2.87574,17W100P100P01857,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BELLEVILLE 2",,,,,FR,1310,Nuclear,"Steam turbine",,,,47.50879,2.87574,17W100P100P01865,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BLAYAIS 1",,,,,FR,910,Nuclear,"Steam turbine",,,,45.25742,-0.69065,17W100P100P01776,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BLAYAIS 2",,,,,FR,910,Nuclear,"Steam turbine",,,,45.25742,-0.69065,17W100P100P01784,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BLAYAIS 3",,,,,FR,910,Nuclear,"Steam turbine",,,,45.25742,-0.69065,17W100P100P01792,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BLAYAIS 4",,,,,FR,910,Nuclear,"Steam turbine",,,,45.25742,-0.69065,17W100P100P0180H,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BUGEY 2",,,,,FR,910,Nuclear,"Steam turbine",,,,45.80141,5.26614,17W100P100P0181F,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BUGEY 3",,,,,FR,910,Nuclear,"Steam turbine",,,,45.80141,5.26614,17W100P100P0182D,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BUGEY 4",,,,,FR,880,Nuclear,"Steam turbine",,,,45.80141,5.26614,17W100P100P0183B,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"BUGEY 5",,,,,FR,880,Nuclear,"Steam turbine",,,,45.80141,5.26614,17W100P100P01849,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CATTENOM 1",,,,,FR,1300,Nuclear,"Steam turbine",,,,49.41579,6.2181,17W100P100P01873,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CATTENOM 2",,,,,FR,1300,Nuclear,"Steam turbine",,,,49.41579,6.2181,17W100P100P01881,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CATTENOM 3",,,,,FR,1300,Nuclear,"Steam turbine",,,,49.41579,6.2181,17W100B100P0189S,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CATTENOM 4",,,,,FR,1300,Nuclear,"Steam turbine",,,,49.41579,6.2181,17W100P100P0190E,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CHINON 1",,,,,FR,905,Nuclear,"Steam turbine",,,,47.22856,0.16824,17W100P100P0191C,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CHINON 2",,,,,FR,905,Nuclear,"Steam turbine",,,,47.22856,0.16824,17W100P100P0192A,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CHINON 3",,,,,FR,905,Nuclear,"Steam turbine",,,,47.22856,0.16824,17W100P100P01938,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CHINON 4",,,,,FR,905,Nuclear,"Steam turbine",,,,47.22856,0.16824,17W100P100P01946,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CHOOZ 1",,,,,FR,1500,Nuclear,"Steam turbine",,,,50.09136,4.79242,17W100P100P01954,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CHOOZ 2",,,,,FR,1500,Nuclear,"Steam turbine",,,,50.09136,4.79242,17W100P100P01962,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CIVAUX 1",,,,,FR,1495,Nuclear,"Steam turbine",,,,46.45614,0.6524,17W100P100P01970,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CIVAUX 2",,,,,FR,1495,Nuclear,"Steam turbine",,,,46.45614,0.6524,17W100P100P0198Z,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CRUAS 1",,,,,FR,915,Nuclear,"Steam turbine",,,,44.63251,4.75105,17W100P100P0199X,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CRUAS 2",,,,,FR,915,Nuclear,"Steam turbine",,,,44.63251,4.75105,17W100P100P02000,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CRUAS 3",,,,,FR,915,Nuclear,"Steam turbine",,,,44.63251,4.75105,17W100P100P0201Z,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CRUAS 4",,,,,FR,915,Nuclear,"Steam turbine",,,,44.63251,4.75105,17W100P100P0202X,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"DAMPIERRE 1",,,,,FR,890,Nuclear,"Steam turbine",,,,47.73252,2.51772,17W100P100P0203V,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"DAMPIERRE 2",,,,,FR,890,Nuclear,"Steam turbine",,,,47.73252,2.51772,17W100P100P0204T,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"DAMPIERRE 3",,,,,FR,890,Nuclear,"Steam turbine",,,,47.73252,2.51772,17W100P100P0205R,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"DAMPIERRE 4",,,,,FR,890,Nuclear,"Steam turbine",,,,47.73252,2.51772,17W100P100P0206P,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"FESSENHEIM 1",,,,,FR,880,Nuclear,"Steam turbine",,,,47.90303,7.56308,17W100P100P0207N,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"FESSENHEIM 2",,,,,FR,880,Nuclear,"Steam turbine",,,,47.90303,7.56308,17W100P100P0208L,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"FLAMANVILLE 1",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.53671,-1.88229,17W100P100P0209J,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"FLAMANVILLE 2",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.53671,-1.88229,17W100P100P0210Y,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GOLFECH 1",,,,,FR,1310,Nuclear,"Steam turbine",,,,44.10479,0.84606,17W100P100P0211W,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GOLFECH 2",,,,,FR,1310,Nuclear,"Steam turbine",,,,44.10479,0.84606,17W100P100P0212U,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GRAVELINES 1",,,,,FR,910,Nuclear,"Steam turbine",,,,51.01267,2.13956,17W100P100P0213S,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GRAVELINES 2",,,,,FR,910,Nuclear,"Steam turbine",,,,51.01267,2.13956,17W100P100P0214Q,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GRAVELINES 3",,,,,FR,910,Nuclear,"Steam turbine",,,,51.01267,2.13956,17W100P100P0215O,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GRAVELINES 4",,,,,FR,910,Nuclear,"Steam turbine",,,,51.01267,2.13956,17W100P100P0216M,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GRAVELINES 5",,,,,FR,910,Nuclear,"Steam turbine",,,,51.01267,2.13956,17W100P100P0217K,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"GRAVELINES 6",,,,,FR,910,Nuclear,"Steam turbine",,,,51.01267,2.13956,17W100P100P0218I,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"NOGENT 1",,,,,FR,1310,Nuclear,"Steam turbine",,,,48.5153,3.51776,17W100P100P0219G,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"NOGENT 2",,,,,FR,1310,Nuclear,"Steam turbine",,,,48.5153,3.51776,17W100P100P0220V,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PALUEL 1",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.85838,0.63449,17W100P100P0221T,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PALUEL 2",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.85838,0.63449,17W100P100P0222R,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PALUEL 3",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.85838,0.63449,17W100P100P0223P,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PALUEL 4",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.85838,0.63449,17W100P100P0224N,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PENLY 1",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.97599,1.21025,17W100P100P0225L,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"PENLY 2",,,,,FR,1330,Nuclear,"Steam turbine",,,,49.97599,1.21025,17W100P100P0226J,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"ST ALBAN 1",,,,,FR,1335,Nuclear,"Steam turbine",,,,45.40523,4.75527,17W100P100P0227H,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"ST ALBAN 2",,,,,FR,1335,Nuclear,"Steam turbine",,,,45.40523,4.75527,17W100P100P0228F,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"ST LAURENT 1",,,,,FR,915,Nuclear,"Steam turbine",,,,47.72006,1.58009,17W100P100P0229D,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"ST LAURENT 2",,,,,FR,915,Nuclear,"Steam turbine",,,,47.72006,1.58009,17W100P100P0230S,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"TRICASTIN 1",,,,,FR,915,Nuclear,"Steam turbine",,,,44.32906,4.72605,17W100P100P0231Q,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"TRICASTIN 2",,,,,FR,915,Nuclear,"Steam turbine",,,,44.32906,4.72605,17W100P100P0232O,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"TRICASTIN 3",,,,,FR,915,Nuclear,"Steam turbine",,,,44.32906,4.72605,17W100P100P0233M,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"TRICASTIN 4",,,,,FR,915,Nuclear,"Steam turbine",,,,44.32906,4.72605,17W100P100P0234K,Nuclear,,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+"CYCOFOS TV2",,,,,FR,62,"Other or unspecified energy sources",,,2009,,43.42801,4.88652,17W100P100P0352E,"Other or unspecified energy sources",,,,,https://www.services-rte.com/en/view-data-published-by-rte/production-installed-capacity.html
+BNA0012a,"Sappi Alfeld GmbH","Mühlenmarsch 1",31061,Alfeld,DE,13,"Biomass and biogas","Steam turbine",yes,2003,,51.984761,9.822831,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0021,"Heizkraftwerk Altenstadt GmbH & Co. KG","Triebstraße 90",86972,Altenstadt,DE,9.8,"Biomass and biogas","Steam turbine",no,1999,,47.79714,10.85874,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0027,"Zellstoff Stendal GmbH","Goldbecker Straße 1",39596,Arneburg,DE,138.9,"Biomass and biogas","Steam turbine",yes,2004,CHP,52.72713,12.01115,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0055,"Pfleiderer Baruth GmbH","An der Birkenpfuhlheide 3",15837,Baruth/Mark,DE,16,"Biomass and biogas","Steam turbine",yes,2002,,52.07778,13.51725,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0062,"Sonae Arauco Beeskow GmbH",,15848,Beeskow,DE,18.3,"Biomass and biogas","Steam turbine",yes,2001,,52.18269,14.25841,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0066,"Innogy SE","Ernst-Schering-Straße 10",59192,Bergkamen,DE,17.7,"Biomass and biogas","Steam turbine",yes,2005,,51.63701,7.61876,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0068,"innogy SE","Köpenicker Straße 32",12355,Berlin,DE,16.5,"Biomass and biogas","Steam turbine",yes,2004,,52.42529,13.517308,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0090,"ENERTRAG Aktiengesellschaft",,17291,Bertikow,DE,20,"Biomass and biogas","Steam turbine",no,2006,,53.252132,13.957019,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0103,"Stadtwerke Leipzig GmbH",,37345,Bischofferode,DE,18.1,"Biomass and biogas","Steam turbine",no,2005,,51.48993,10.41307,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0156a,"Egger Holzwerkstoffe Brilon GmbH & Co. KG","Im Kissen 19",59929,"Brilon ",DE,18,"Biomass and biogas","Steam turbine",yes,1991,,51.40667,8.60115,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0232a,"Sappi Ehingen GmbH","Kessel 5 - Turbine 5",89584,Ehingen,DE,13.2,"Biomass and biogas","Steam turbine",yes,1990,,48.26698,9.72615,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0232b,"Sappi Ehingen GmbH","Kessel 4 - Turbine 3",89584,Ehingen,DE,8,"Biomass and biogas","Steam turbine",yes,1961,,48.26693,9.72626,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0244,"Statkraft Markets GmbH",,26725,Emden,DE,22,"Biomass and biogas","Steam turbine",yes,2005,,53.34217,7.20624,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0245a,"Statkraft Markets GmbH",,26725,Emden,DE,52,"Biomass and biogas","Gas turbine",no,1973,,53.34217,7.20624,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0250a,"innogy SE","Neuerostraße 8",49824,Emlichheim,DE,10.6,"Biomass and biogas","Steam turbine",yes,2013,,52.619274,6.86931,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0277,"MVV Energie AG","Am Steinmühlenweg 5",65439,"Flörsheim Wicker",DE,12.6,"Biomass and biogas","Steam turbine",no,2003,,50.022602,8.377209,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0283,"Mainova AG","Alt Fechenheim 34",60382,"Frankfurt am Main",DE,12.4,"Biomass and biogas","Steam turbine",yes,2004,,50.12943,8.76792,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0385,"Pfleiderer Gütersloh GmbH","Stadtring Nordhorn 61",33332,Gütersloh,DE,12.1,"Biomass and biogas","Steam turbine",yes,2000,,51.91537,8.40031,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0388,"Mark-E AG",,58099,Hagen,DE,20,"Biomass and biogas","Steam turbine",yes,2004,,51.411114,7.491698,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0399,"Müllverwertung Borsigstraße GmbH","Borsigstraße 3",22113,Hamburg,DE,20,"Biomass and biogas","Steam turbine",yes,2005,,53.53188044,10.07459164,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0408,"Enertec Hameln GmbH",,31789,Hameln,DE,14.5,"Biomass and biogas","Steam turbine",no,2002,,52.09875,9.38821,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0520,"Stora Enso Maxau GmbH",,76187,Karlsruhe,DE,78,"Biomass and biogas","Steam turbine",yes,2010,,49.0393,8.31134,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0549,"MVV Energie AG","Am Nordhafen 12",15711,"Königs Wusterhausen",DE,17.1,"Biomass and biogas","Steam turbine",no,2003,,52.30479,13.63603,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0553,"BinderHolz Deutschland GmbH","Einsteinstraße 9",85092,Kösching,DE,15.13,"Biomass and biogas","Steam turbine",yes,2007,,48.79123,11.50679,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0573,"Statkraft Markets GmbH",,31628,Landesbergen,DE,22,"Biomass and biogas","Steam turbine",no,2005,,52.57703,9.11009,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0617,"STEAG New Energies GmbH","Josef Rethmann Straße 4",44536,Lünen,DE,20,"Biomass and biogas","Steam turbine",no,2006,,51.61403992,7.481253974,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0621,"Stadtwerke Leipzig GmbH",,6886,"Wittenberg/ Piesteritz",DE,18.1,"Biomass and biogas","Steam turbine",yes,2009,,51.870883,12.569466,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0628,"envia THERM GmbH",,17139,Malchin,DE,9.8,"Biomass and biogas","Steam turbine",yes,2003,,53.74186,12.78302,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0636,"MVV Energie AG","Otto-Hahn-Str. 1",68169,Mannheim,DE,17.9,"Biomass and biogas","Steam turbine",no,2003,,49.51644467,8.460246482,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0637,"Essity Operations Mannheim GmbH","Sandhofer Straße 176",68305,Mannheim,DE,40,"Biomass and biogas","Steam turbine",yes,2003,,49.5349,8.46358,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0692,"Pfleiderer Neumarkt GmbH","Dreichlinger Str. 76",92318,"Neumarkt i.d. Oberpfalz",DE,15.6,"Biomass and biogas","Steam turbine",yes,1997,,49.26133,11.4516,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0775,"B+S Papenburg Energie GmbH","Am Nordhafen 5",26871,Papenburg,DE,20,"Biomass and biogas","Steam turbine",no,2003,,53.09716,7.3954,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0797,"Heizkraftwerk Pforzheim GmbH","Hohwiesenweg 15",75175,Pforzheim,DE,12.3,"Biomass and biogas","Steam turbine",yes,2004,,48.89705,8.725,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0826,"Ökotech Ingenieurgesellschaft mbh","Maria-May-Straße 1",45665,Recklinghausen,DE,15,"Biomass and biogas","Steam turbine",yes,2004,,51.604008,7.250848,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0926a,"Sappi Stockstadt GmbH","Obernburger Straße 1-9",63811,Stockstadt,DE,13.9934,"Biomass and biogas","Steam turbine",yes,2003,,49.97745,9.06872,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1055,"InfraServ GmbH & Co. Wiesbaden KG",,65203,Wiesbaden,DE,6.7,"Biomass and biogas","Steam turbine",yes,2003,,50.040546,8.253248,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1091,"ENGIE Deutschland AG","Leininger Str. 1",85406,Zolling,DE,18.3,"Biomass and biogas","Steam turbine",yes,2003,,48.45534,11.8019,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1256,"LEIPA Georg Leinfelder GmbH","Kuhheide 1",16306,Schwedt,DE,13.3,"Biomass and biogas","Steam turbine",yes,1993,,53.08672,14.31935,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1335c,"Papier- u. Kartonfabrik Varel GmbH & Co. KG","Dangaster Straße 38",26316,Varel,DE,1.92,"Biomass and biogas","Combustion Engine",yes,2006,,53.40317,8.12821,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1337b,"DS Smith Paper Deutschland GmbH","Weichertstr. 7",63741,Aschaffenburg,DE,1.1,"Biomass and biogas","Steam turbine",yes,2005,,49.988218,9.155761,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1337c,"DS Smith Paper Deutschland GmbH","Weichertstr. 7",63741,Aschaffenburg,DE,0.8,"Biomass and biogas","Steam turbine",yes,2010,,49.988218,9.155761,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1398,"SWISS KRONO GmbH","Wittstocker Chaussee 1",16909,Heiligengrabe,DE,18.6,"Biomass and biogas","Steam turbine",yes,2002,,53.148966,12.379742,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1405b,"Fernwärme Ulm GmbH","Magirusstr. 21",89077,Ulm,DE,8.7,"Biomass and biogas","Steam turbine",yes,2004,,48.39704,9.96484,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1405c,"Fernwärme Ulm GmbH","Magirusstr. 21",89077,Ulm,DE,4.5,"Biomass and biogas","Steam turbine",yes,2012,,48.39704,9.96484,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1501,"Biomasse-Heizkraftwerk-Herbrechtingen GmbH","Oskar-von-Miller-Weg 1",89542,Herbrechtingen,DE,14,"Biomass and biogas","Steam turbine",yes,2004,,48.628498,10.200853,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA1522,"Geno Bioenergie Leasingfonds Erste GmbH & Co. KG","Ernst-Röwer-Ring 2",17329,Krackow,DE,17.8,"Biomass and biogas","Steam turbine",yes,2006,,53.320352,14.271028,,"Renewable energy",Bioenergy,"Biomass and biogas",,,BNetzA/UBA
+BNA0011,"Papierfabrik Albbruck GmbH",,79774,Albbruck,DE,28,"Hard coal","Steam turbine",yes,2009,,47.58931,8.13261,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0019,"EnBW Energie Baden-Württemberg AG","Industriestraße 11",73776,Altbach,DE,336,"Hard coal","Steam turbine",yes,1997,CHP,48.717611,9.374917,11WD4AL1KU1-S--E,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0020,"EnBW Energie Baden-Württemberg AG","Industriestraße 11",73776,Altbach,DE,433,"Hard coal","Steam turbine",yes,1985,CHP,48.717611,9.374917,11WD4AL1KU1-S--E,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0067,"STEAG GmbH",,59192,Bergkamen,DE,717,"Hard coal","Steam turbine",no,1981,,51.63702,7.6191,11WD7BERG1S--KWB,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0082,"Vattenfall Wärme Berlin AG","Otternbuchtstr. 11",13599,Berlin,DE,124,"Hard coal","Steam turbine",yes,1969,,52.532146,13.246072,11WD8REUT5X----M,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0085a,"Vattenfall Wärme Berlin AG","Friedrich-Krause-Ufer 10- 15",13353,Berlin,DE,89,"Hard coal","Steam turbine",yes,1990,CHP,52.53735111,13.34611416,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0086,"Vattenfall Wärme Berlin AG","Großer Spreering 5",13599,Berlin,DE,282,"Hard coal","Steam turbine",yes,1987,CHP,52.53508792,13.24264526,11WD8REUW1C----4,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0087,"Vattenfall Wärme Berlin AG","Großer Spreering 5",13599,Berlin,DE,282,"Hard coal","Steam turbine",yes,1988,CHP,52.53508792,13.24264526,11WD8REUW1C----4,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0093,"STEAG GmbH",Grubenstraße,66450,Bexbach,DE,726,"Hard coal","Steam turbine",no,1983,,49.363481,7.237136,11WD7MITB1S--KWK,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0138,"Braunschweiger Versorgungs-AG & Co. KG",,38106,Braunschweig,DE,43.3,"Hard coal","Combined cycle",yes,1984,CHP,52.278611,10.514722,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0144,"swb Erzeugung AG & Co. KG","Hastedter Osterdeich 255",28207,Bremen,DE,119,"Hard coal","Steam turbine",yes,1989,CHP,53.06008,8.87328,11WD2BHAS000271O,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0145,"swb Erzeugung GmbH & Co. KG","Otavistr. 7-9",28237,Bremen,DE,127,"Hard coal","Steam turbine",yes,1968,,53.12482,8.72887,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0146,"swb Erzeugung AG & Co. KG","Otavistr. 7-9",28237,Bremen,DE,303,"Hard coal","Steam turbine",yes,1979,,53.124861,8.728657,11WD2BHAF000272F,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0147,"ENGIE Deutschland AG","Wilhelmshavener Str. 6",28777,Bremen,DE,350,"Hard coal","Steam turbine",no,1969,,53.20206653,8.516153926,11WD2FARK000287K,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0187,"Uniper Kraftwerke GmbH ",,45711,Datteln,DE,95,"Hard coal","Steam turbine",yes,1964,,51.62952,7.331174,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0188,"Uniper Kraftwerke GmbH ",,45711,Datteln,DE,95,"Hard coal","Steam turbine",yes,1964,,51.62952,7.331174,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0189,"Uniper Kraftwerke GmbH ",,45711,Datteln,DE,113,"Hard coal","Steam turbine",no,1969,,51.62952,7.331174,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0203,"Uniper Kraftwerke GmbH ",,44357,Dortmund,DE,345,"Hard coal","Steam turbine",yes,1971,,51.56846926,7.349182511,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0211,"Stadtwerke Duisburg AG",Zirkelstraße,47053,Duisburg,DE,95,"Hard coal","Steam turbine",yes,1985,,51.429324,6.751984,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0212,"Stadtwerke Duisburg AG",Zirkelstraße,47053,Duisburg,DE,133,"Hard coal","Steam turbine",yes,1965,,51.429324,6.751984,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0215,"Steag GmbH","Dr. Wilhelm-Roelen-Str.129",47179,Duisburg,DE,129,"Hard coal","Steam turbine",no,1959,,51.528611,6.711944,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0216a,"Steag GmbH","Dr. Wilhelm-Roelen-Str.129",47180,Duisburg,DE,370,"Hard coal","Steam turbine",yes,1988,CHP,51.52672,6.71868,11WD7WALS1S--KW0,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0216b,"STEAG-EVN Walsum 10 Kraftwerksgesellsellschaft mbH","Dr. Wilhelm-Roelen-Str.129",47180,Duisburg,DE,725,"Hard coal","Steam turbine",yes,2013,CHP,51.52672,6.71868,11WD7WALS1S--KW0,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0252,"Gemeinschaft nach Bruchteilen der Saarstahl AG (SAG) und Saarschmiede GmbH Freiformschmiede (SSF)","Kurt Kessler Str. 1",66806,Ensdorf,DE,283,"Hard coal","Steam turbine",no,2011,,49.293248,6.770937,11WD7ENSD5SKW3-E,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0253,"VSE AG, Kraftwerk Ensdorf",Kurt-Kessler-Str.,66806,Ensdorf,DE,106,"Hard coal","Steam turbine",yes,1963,,49.293248,6.770937,11WD7ENSD2SKW1-4,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0261b,"Erlanger Stadtwerke AG"," Äußere Bruckerstr. 33",91052,Erlangen,DE,17.4,"Hard coal","Steam turbine",yes,1982,,49.59283,11.00148,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0270,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,31,"Hard coal","Combined cycle",yes,1992,CHP,54.80495,9.43244,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0271,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,33,"Hard coal","Combined cycle",yes,1989,CHP,54.80495,9.43244,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0272,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,33,"Hard coal","Combined cycle",yes,1985,CHP,54.80495,9.43244,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0273,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,35,"Hard coal","Steam turbine",yes,1982,,54.80495,9.43244,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0274,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,23,"Hard coal","Steam turbine",yes,1978,,54.80495,9.43244,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0289b,"Mainova AG","Gutleutstraße 231",60627,"Frankfurt am Main",DE,61.5,"Hard coal","Steam turbine",yes,1988,CHP,50.09843,8.65313,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0290,"Mainova AG","Gutleutstraße 231",60627,"Frankfurt am Main",DE,61.5,"Hard coal","Steam turbine",yes,1989,CHP,50.09843,8.65313,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0331,"Uniper Kraftwerke GmbH ",,45896,Gelsenkirchen,DE,345,"Hard coal","Steam turbine",yes,1969,,51.60236802,7.009894096,11WD7SCHO-S--KWW,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0332,"Uniper Kraftwerke GmbH ",,45896,Gelsenkirchen,DE,345,"Hard coal","Steam turbine",yes,1968,,51.60236802,7.009894096,11WD7SCHO-S--KWW,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0333,"Uniper Kraftwerke GmbH ",,45896,Gelsenkirchen,DE,345,"Hard coal","Steam turbine",yes,1970,,51.60236802,7.009894096,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0334,"Uniper Kraftwerke GmbH ",,45896,Gelsenkirchen,DE,345,"Hard coal","Steam turbine",yes,1971,,51.60236802,7.009894096,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0335,"Uniper Kraftwerke GmbH ",,45896,Gelsenkirchen,DE,676,"Hard coal","Steam turbine",no,1979,,51.60236802,7.009894096,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0336,"Uniper Kraftwerke GmbH ",,45896,Gelsenkirchen,DE,70,"Hard coal","Steam turbine",yes,1985,,51.59696,7.00452,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0375,"Uniper Kraftwerke GmbH ",,63538,Großkrotzenburg,DE,249,"Hard coal","Steam turbine",yes,1965,,50.088553,8.953399,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0376,"Uniper Kraftwerke GmbH ",,63538,Großkrotzenburg,DE,293,"Hard coal","Steam turbine",no,1970,,50.088553,8.953399,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0377,"Uniper Kraftwerke GmbH ",,63538,Großkrotzenburg,DE,510,"Hard coal","Steam turbine",yes,1992,CHP,50.088553,8.953399,11WD2STAU0001800,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0402,"Wärme Hamburg GmbH","Andreas-Meyer-Straße 8",22113,Hamburg,DE,194,"Hard coal","Steam turbine",yes,1993,CHP,53.52616631,10.06317616,11WD8TIEF5X----V,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0403,"Wärme Hamburg GmbH","Tinsdaler Weg 146",22880,Wedel,DE,123,"Hard coal","Steam turbine",yes,1962,CHP,53.56695702,9.724445343,11WD8WED15C----Q,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0404,"Wärme Hamburg GmbH","Tinsdaler Weg 146",22880,Wedel,DE,137,"Hard coal","Steam turbine",yes,1961,CHP,53.56695702,9.724445343,11WD8WED15C----Q,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0413a,"RWE Generation SE",,59071,Hamm-Uentrop,DE,284,"Hard coal","Steam turbine",no,1969,,51.680278,7.969722,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0413b,"RWE Generation SE",,59071,Hamm-Uentrop,DE,765,"Hard coal","Steam turbine",no,2014,,51.680278,7.969722,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0413c,"RWE Generation SE",,59071,Hamm-Uentrop,DE,763.7,"Hard coal","Steam turbine",no,2014,,51.680278,7.969722,11WD7WEST1S-KW-K,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0414,"RWE Generation SE",,59071,Hamm-Uentrop,DE,152,"Hard coal","Steam turbine",no,1963,,51.67782,7.9742,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0415,"RWE Generation SE",,59071,Hamm-Uentrop,DE,152,"Hard coal","Steam turbine",no,1963,,51.67782,7.9742,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0420,"enercity AG",,30419,Hannover,DE,136,"Hard coal","Steam turbine",yes,1989,CHP,52.42,9.648611,11WD2HANN5C----0,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0421,"enercity AG",,30419,Hannover,DE,136,"Hard coal","Steam turbine",yes,1989,CHP,52.42,9.648611,11WD2HANN5C----0,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0432,"EnBW Energie Baden-Württemberg AG","Lichtenbergerstraße 23",74076,Heilbronn,DE,125,"Hard coal","Steam turbine",no,1965,,49.177334,9.206318,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0433,"EnBW Energie Baden-Württemberg AG","Lichtenbergerstraße 23",74076,Heilbronn,DE,125,"Hard coal","Steam turbine",no,1966,,49.177334,9.206318,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0434,"EnBW Energie Baden-Württemberg AG","Lichtenbergerstraße 23",74076,Heilbronn,DE,778,"Hard coal","Steam turbine",yes,1985,CHP,49.177334,9.206318,11WD4HLBR1CS---A,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0447,"Steag GmbH","Hertener Str. 16",44653,Herne,DE,133,"Hard coal","Steam turbine",no,1963,,51.550753,7.187481,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0448,"Uniper Kraftwerke GmbH ",,44652,Herne,DE,132,"Hard coal","Steam turbine",yes,1957,,51.52849121,7.17779686,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0449,"Steag GmbH","Hertener Str. 16",44654,Herne,DE,280,"Hard coal","Steam turbine",yes,1966,,51.550753,7.187481,11WD7HERN2S--KWU,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0450,"Steag GmbH","Hertener Str. 16",A-44655,Herne,DE,449,"Hard coal","Steam turbine",yes,1989,CHP,51.550753,7.187481,11WD7HERN2S--KWU,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0464,"Kraftwerk Mehrum GmbH",,31249,"Hohenhameln OT Mehrum",DE,690,"Hard coal","Steam turbine",no,1979,,52.3150224,10.09141738,11WD2MEHR2CSWH-O,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0493,"RWE Generation SE",,49479,Ibbenbüren,DE,794,"Hard coal","Steam turbine",yes,1985,,52.28881179,7.747906179,11WD7IBBE2S--KW6,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0498,"Infraserv GmbH & Co. Höchst KG",,65926,"Industriepark Höchst",DE,66,"Hard coal","Steam turbine",yes,1989,,50.09178,8.53105,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0510b,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",,67655,Kaiserslautern,DE,13.4,"Hard coal","Steam turbine",yes,1996,,49.43461,7.75824,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0518a,"EnBW Energie Baden-Württemberg AG","Fettweisstraße 42",76189,Karlsruhe,DE,517,"Hard coal","Steam turbine",yes,1985,CHP,49.0125,8.302778,11WD4DAXLA-S---T,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0518b,"EnBW Energie Baden-Württemberg AG","Fettweisstraße 42",76189,Karlsruhe,DE,834,"Hard coal","Steam turbine",yes,2014,,49.0125,8.302778,11WD4DAXLA-S---T,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0526,"Gemeinschaftskraftwerk Kiel GmbH",,24149,Kiel,DE,323,"Hard coal","Steam turbine",yes,1970,,54.33945,10.1766,11WD2KIKW000301W,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0557a,"Currenta GmbH & Co. OHG","CHEMPARK, Geb. L 57",47812,Krefeld-Uerdingen,DE,26,"Hard coal","Steam turbine",yes,1957,,51.369811,6.6615,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0557b,"Currenta GmbH & Co. OHG","CHEMPARK, Geb. N 230",47812,Krefeld-Uerdingen,DE,110,"Hard coal","Steam turbine",yes,1971,,51.369811,6.6615,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0600b,"Currenta GmbH & Co. OHG","CHEMPARK, Geb. G 22",51368,Leverkusen,DE,103,"Hard coal","Steam turbine",yes,1962,IPP,51.368872,6.654106,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0618,"Steag GmbH","Moltkestr. 215",44536,Lünen,DE,149,"Hard coal","Steam turbine",no,1962,,51.61403992,7.481253974,11WD7LUNE2S--KW8,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0619,"Steag GmbH","Moltkestr. 215",44537,Lünen,DE,324,"Hard coal","Steam turbine",yes,1970,,51.61403992,7.481253974,11WD7LUNE2S--KW8,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0642,"Grosskraftwerk Mannheim AG","Marguerrestraße 1",68199,Mannheim,DE,202.5,"Hard coal","Steam turbine",yes,1966,,49.445694,8.490444,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0643,"Grosskraftwerk Mannheim AG","Marguerrestraße 1",68199,Mannheim,DE,202.5,"Hard coal","Steam turbine",yes,1970,,49.445694,8.490444,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0644,"Grosskraftwerk Mannheim AG","Marguerrestraße 1",68199,Mannheim,DE,255,"Hard coal","Steam turbine",yes,2005,,49.445694,8.490444,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0645,"Grosskraftwerk Mannheim AG","Marguerrestraße 1",68199,Mannheim,DE,425,"Hard coal","Steam turbine",yes,1982,CHP,49.445694,8.490444,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0646a,"Grosskraftwerk Mannheim AG","Marguerrestraße 1",68199,Mannheim,DE,435,"Hard coal","Steam turbine",yes,1993,CHP,49.445694,8.490444,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0646b,"Grosskraftwerk Mannheim AG","Marguerrestraße 1",68199,Mannheim,DE,843,"Hard coal","Steam turbine",yes,2015,CHP,49.445694,8.490444,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0660,"Evonik Degussa GmbH","Paul-Baumann-Str. 1",45772,Marl,DE,55.56,"Hard coal","Combined cycle",yes,1971,CHP,51.68037,7.09688,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0661,"Evonik Degussa GmbH","Paul-Baumann-Str. 1",45772,Marl,DE,60.4,"Hard coal","Steam turbine",yes,1966,,51.68037,7.09688,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0662a,"Evonik Degussa GmbH","Paul-Baumann-Str. 1",45772,Marl,DE,68.4,"Hard coal","Combined cycle",yes,1983,CHP,51.68037,7.09688,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0662b,"Evonik Degussa GmbH","Paul-Baumann-Str. 1",45772,Marl,DE,169.32,"Hard coal","Combined cycle",yes,1940,CHP,51.68037,7.09688,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0758,"Energieversorgung Offenbach AG",,63067,Offenbach,DE,54,"Hard coal","Steam turbine",yes,1990,,50.065155,8.768964,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0793,"Uniper Kraftwerke GmbH ",,32469,Petershagen,DE,875,"Hard coal","Steam turbine",no,1987,,52.38279238,8.996004114,11WD2HEKW000297X,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0801,"Heizkraftwerk Pforzheim GmbH","Hohwiesenweg 15",75175,Pforzheim,DE,26.9,"Hard coal","Steam turbine",yes,1990,,48.88316,8.6653,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0812,"Gemeinschaftskraftwerk Veltheim GmbH",,32457,"Porta Westfalica",DE,93,"Hard coal","Steam turbine",no,1965,,52.19004,8.93318,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0813,"Uniper Kraftwerke GmbH ",,32457,"Porta Westfalica",DE,303,"Hard coal","Steam turbine",no,1970,,52.19004,8.93318,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0820,"Steag GmbH","Holzer Straße",66287,Quierschied,DE,655.6,"Hard coal","Steam turbine",yes,1976,,49.33413028,7.031355928,11WD7WEIH2S--KWV,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0849,"EnBW Energie Baden-Württemberg AG","Am Kühlturm 1",18147,Rostock,DE,514,"Hard coal","Steam turbine",yes,1994,,54.14282177,12.13287489,11WD8ROST1C---P5,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0861b,"Energie SaarLorLux AG",,66121,Saarbrücken,DE,50,"Hard coal","Steam turbine",yes,1988,CHP,49.223899,7.014899,11WD7UCHT5XROSOK,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0926b,"Sappi Stockstadt GmbH","Obernburger Straße 1-9",63811,Stockstadt,DE,24.79,"Hard coal","Steam turbine",yes,1970,,49.97745,9.06872,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0934,"EnBW Energie Baden-Württemberg AG","Langwiesenweg 23",70376,Stuttgart,DE,22.6,"Hard coal","Steam turbine",yes,2009,,48.782453,9.231483,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0935,"EnBW Energie Baden-Württemberg AG","Voltastraße 45",70376,Stuttgart,DE,45,"Hard coal","Steam turbine",yes,1982,CHP,48.815833,9.221111,11WD4MUST5G----B,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0936,"EnBW Energie Baden-Württemberg AG","Voltastraße 45",70376,Stuttgart,DE,45,"Hard coal","Steam turbine",yes,1984,CHP,48.815833,9.221111,11WD4MUST5G----B,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0969b,"SWM Services GmbH",,85774,Unterföhring,DE,332.7,"Hard coal","Steam turbine",yes,1991,CHP,48.180506,11.639612,11WD2NO2K000308Z,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0989,"Steag GmbH","Frankfurter Str. 430",46563,Voerde,DE,318,"Hard coal","Steam turbine",no,1971,,51.57962,6.67888,11WD7GKWE2S--KW8,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0990,"Steag GmbH","Frankfurter Str. 430",46562,Voerde,DE,322,"Hard coal","Steam turbine",no,1971,,51.57962,6.67888,11WD7GKWE2S--KW8,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0991,"RWE Generation SE","Frankfurter Str 430",46562,Voerde,DE,695,"Hard coal","Steam turbine",no,1982,,51.576475,6.689428,11WD7VOER1S--KWG,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0992,"RWE Generation SE","Frankfurter Str 430",46563,Voerde,DE,695,"Hard coal","Steam turbine",no,1985,,51.576475,6.689428,11WD7VOER1S--KWG,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0998,"Steag GmbH","Saarbrücker Straße 135-137",66333,Völklingen-Fenne,DE,179,"Hard coal","Steam turbine",yes,1982,CHP,49.249018,6.879244,11WD7VOLK5S--KWI,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0999,"Steag GmbH","Saarbrücker Straße 135-137",66333,Völklingen-Fenne,DE,211,"Hard coal","Steam turbine",yes,1989,CHP,49.249018,6.879244,11WD7VOLK5S--KWI,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1005,"EnBW Energie Baden-Württemberg AG",Mühlstraße,74399,Walheim,DE,96,"Hard coal","Steam turbine",no,1964,,49.017472,9.157389,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1006,"EnBW Energie Baden-Württemberg AG",Mühlstraße,74399,Walheim,DE,148,"Hard coal","Steam turbine",no,1967,,49.017472,9.157389,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1035,"Mark-E AG",,58791,Werdohl,DE,186,"Hard coal","Steam turbine",,1971,,51.27559,7.70637,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1037,"Mark-E AG",,58791,Werdohl,DE,310,"Hard coal","Steam turbine",no,1982,,51.276361,7.705667,11WD7GARE5XELKWD,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1046a,"RWE Generation SE",,59368,Werne,DE,614,"Hard coal","Steam turbine",no,1984,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1061,"Uniper Kraftwerke GmbH ",,26386,Wilhelmshaven,DE,757,"Hard coal","Steam turbine",no,1976,,53.565819,8.146245,11WD2WI1K000303F,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1075a,"Volkswagen AG",,38436,Wolfsburg,DE,61.5,"Hard coal","Steam turbine",yes,2000,,51.25292,9.43796,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1075b,"Volkswagen AG",,38436,Wolfsburg,DE,61.5,"Hard coal","Steam turbine",yes,2000,,52.43279,10.78611,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1076a,"Volkswagen AG",,38436,Wolfsburg,DE,138.5,"Hard coal","Steam turbine",yes,1985,,51.25292,9.43796,11WD2WBWK000317H,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1076b,"Volkswagen AG",,38436,Wolfsburg,DE,138.5,"Hard coal","Steam turbine",yes,1985,,52.44223,10.76454,11WD2WBWK000317H,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1084,"WSW Energie & Wasser AG",,42117,Wuppertal,DE,85,"Hard coal","Steam turbine",yes,1992,,51.24835,7.11874,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1093,"ENGIE Deutschland AG","Leininger Str. 1",85406,Zolling,DE,472,"Hard coal","Steam turbine",yes,1985,CHP,48.455353,11.799456,11WD2ZOLL0002880,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1331,"R.D.M. Arnsberg GmbH","Hellefelderstr. 51",59821,Arnsberg,DE,19,"Hard coal","Steam turbine",yes,1923,,51.39139,8.07304,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1405a,"Fernwärme Ulm GmbH","Magirusstr. 21",89077,Ulm,DE,20.7,"Hard coal","Steam turbine",yes,1992,,48.39704,9.96484,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1500,"Nordzucker AG","An der Zuckerfabrik 1",29525,Uelzen,DE,40,"Hard coal","Steam turbine",yes,1965,,52.9751813,10.5573974,,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1508,"Trianel Kohlekraftwerk Lünen GmbH & Co. KG","Frydagstr. 40",44536,Lünen,DE,735,"Hard coal","Steam turbine",yes,2013,CHP,51.6124,7.46532,11WD7KWHU----KW9,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1558,"Vattenfall Heizkraftwerk Moorburg GmbH","Moorburger Schanze 2",21079,Hamburg,DE,800,"Hard coal","Steam turbine",yes,2015,CHP,53.486245,9.953149,11WD8MOOR1C----G,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1673,"Vattenfall Heizkraftwerk Moorburg GmbH","Moorburger Schanze 2",21079,Hamburg,DE,800,"Hard coal","Steam turbine",yes,2015,CHP,53.486245,9.953149,11WD8MOOR1C----G,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA1674,"ENGIE Deutschland AG",Niedersachsendamm,26386,Wilhelmshaven,DE,731,"Hard coal","Steam turbine",no,2015,,53.578698,8.132685,11XGSKW-WHV----V,"Fossil fuels","Hard coal",,,,BNetzA/UBA
+BNA0010a,"Rheinkraftwerk Albbruck-Dogern AG","Kraftwerkstrasse 34",79774,Albbruck,DE,79.5,Hydro,Run-of-river,no,1934,,47.58629,8.13207,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0010b,"Rheinkraftwerk Albbruck-Dogern AG",Zollstrasse,79804,Dogern,DE,24,Hydro,Run-of-river,no,2009,,47.598482,8.170982,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0012c,"Sappi Alfeld GmbH","Mühlenmarsch 1",31061,Alfeld,DE,0.1,Hydro,Run-of-river,no,1912,,51.98513,9.82246,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0042,"Innwerk AG","Am Innwerk 13",94072,"Bad Füssing",DE,84,Hydro,Run-of-river,no,1944,,48.3206154,13.3160755,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0045,"EnBW Energie Baden-Württemberg AG","Murger Weg 2",79713,"Bad Säckingen",DE,36.8,Hydro,Run-of-river,no,1966,,47.5585312,7.9556579,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0046,"Schluchseewerk Aktiengesellschaft","Stollenweg 2",79713,"Bad Säckingen",DE,360,Hydro,"Pumped storage",no,1966,,47.565416,7.954035,11WD4SWSW5HD7--F,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0065,"Donau-Wasserkraft AG",,86673,Bergheim,DE,23.7,Hydro,Run-of-river,no,1970,,48.750807,11.273237,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0173,"Alzwerke GmbH","Johannes-Hess Straße 24",84489,Burghausen,DE,45,Hydro,Run-of-river,no,1922,,48.1769,12.84045,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0228,"Uniper Kraftwerke GmbH ","Kraftwerkstraße 10",34549,"Edertal Hemfurth-Edersee",DE,145,Hydro,"Pumped storage",no,1931,,51.167139,9.046832,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0229,"Uniper Kraftwerke GmbH ","Kraftwerkstraße 10",34549,"Edertal Hemfurth-Edersee",DE,480,Hydro,"Pumped storage",no,1974,,51.167139,9.046832,11WD2W2--0002757,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0230,"Uniper Kraftwerke GmbH ",Ederstraße,34549,"Edertal Hemfurth-Edersee",DE,20,Hydro,RES,no,1915,,51.167139,9.046832,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0259,"Innwerk AG","Innwerkstraße 38",94140,Ering,DE,72.5,Hydro,Run-of-river,no,1942,,48.2935129,13.1585196,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0268,"Mark-E AG",,57413,Finnentrop,DE,138,Hydro,"Pumped storage",no,1969,,51.22475,7.99281,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0278,"EnBW Energie Baden-Württemberg AG","Werkstraße 5",76596,Forbach,DE,22,Hydro,Run-of-river,no,1918,,48.6731884,8.355705841,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0279,"EnBW Energie Baden-Württemberg AG","Werkstraße 5",76596,Forbach,DE,43,Hydro,"Pumped storage",no,1926,,48.6693835,8.353047617,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0324,"VERBUND-Innkraftwerke GmbH","Agg 4",83536,Gars,DE,25,Hydro,Run-of-river,no,1938,,48.15395,12.31107,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0327,"Vattenfall Wasserkraft GmbH","Elbuferstr. 49",21502,Geesthacht,DE,119.1,Hydro,"Pumped storage",no,1958,,53.42605,10.3359,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0328,"Vattenfall Wasserkraft GmbH","Elbuferstr. 49",21502,Geesthacht,DE,,Hydro,"Pumped storage",no,1958,,53.42605,10.3359,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0329,"Vattenfall Wasserkraft GmbH","Elbuferstr. 49",21502,Geesthacht,DE,,Hydro,"Pumped storage",no,1958,,53.42605,10.3359,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0337,"Donau-Wasserkraft AG",,97737,Gemünden,DE,164,Hydro,"Pumped storage",no,1974,,50.05313,9.58137,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0350,"Vattenfall Wasserkraft GmbH","Am Rotseifenbach",98746,Goldisthal,DE,1052,Hydro,"Pumped storage",no,2004,,50.50975864,11.02087498,11WD8GOLD1H----6,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0351,"Vattenfall Wasserkraft GmbH","Am Rotseifenbach",98746,Goldisthal,DE,,Hydro,"Pumped storage",no,2003,,50.50975864,11.02087498,11WD8GOLD1H----6,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0352,"Vattenfall Wasserkraft GmbH","Am Rotseifenbach",98746,Goldisthal,DE,,Hydro,"Pumped storage",no,2003,,50.50975864,11.02087498,11WD8GOLD1H----6,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0353,"Vattenfall Wasserkraft GmbH","Am Rotseifenbach",98746,Goldisthal,DE,,Hydro,"Pumped storage",no,2004,,50.50975864,11.02087498,11WD8GOLD1H----6,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0362,"Energiedienst AG",,79639,Grenzach-Wyhlen,DE,37.9,Hydro,Run-of-river,no,1912,,47.5523554,7.6580881,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0364,"Innwerk AG","Am Kraftwerk 2",94107,Griesbach,DE,66,Hydro,Run-of-river,no,1955,,48.5195636,13.7085052,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0422,"Uniper Kraftwerke GmbH ","Haupstraße 26",91230,Happurg,DE,160,Hydro,"Pumped storage",no,1958,,49.48712,11.47479,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0426,"Schluchseewerk Aktiengesellschaft","Schwarzabruck 2",79837,Häusern,DE,100,Hydro,"Pumped storage",no,1931,,47.75459,8.18787,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0443,"RWE Power AG",,A-58313,Herdecke,DE,165,Hydro,"Pumped storage",no,1989,,51.41048,7.45314,11WD7KOEP2P--KWG,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0465,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,59.8,Hydro,"Pumped storage",no,1959,,50.61433423,11.49212837,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0466,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1959,,50.61433423,11.49212837,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0467,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,317.8,Hydro,"Pumped storage",no,1965,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0468,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1965,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0469,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1965,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0470,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1966,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0471,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1965,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0472,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1966,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0473,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1966,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0474,"Vattenfall Wasserkraft GmbH","Preßwitzer Str. 25",7338,Hohenwarte,DE,,Hydro,"Pumped storage",no,1966,,50.60384898,11.47517681,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0494,"Rheinkraftwerk Iffezheim GmbH","An der Staustufe 27",76473,Iffezheim,DE,148,Hydro,Run-of-river,no,1978,,48.83135,8.11216,11WD4IFFE5G----Z,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0529,"Innwerk AG","Ach 6",84375,Kirchdorf,DE,100,Hydro,Run-of-river,no,1953,,48.063827,10.128443,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0540,"Uniper Kraftwerke GmbH ","Altjoch 21",82431,"Kochel am See",DE,124,Hydro,Reservoir,no,1924,,47.631354,11.337054,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0558,"Statkraft Markets GmbH",,37547,Kreiensen,DE,220,Hydro,"Pumped storage",no,1964,,51.89912,9.92452,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0652,"Vattenfall Wasserkraft GmbH","Oberbeckenstr. 8",8352,Markersbach,DE,1045.2,Hydro,"Pumped storage",no,1979,,50.51938,12.87976,11WD8MARK1H----7,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0653,"Vattenfall Wasserkraft GmbH","Oberbeckenstr. 8",8352,Markersbach,DE,,Hydro,"Pumped storage",no,1980,,50.51938,12.87976,11WD8MARK1H----7,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0654,"Vattenfall Wasserkraft GmbH","Oberbeckenstr. 8",8352,Markersbach,DE,,Hydro,"Pumped storage",no,1980,,50.51938,12.87976,11WD8MARK1H----7,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0655,"Vattenfall Wasserkraft GmbH","Oberbeckenstr. 8",8352,Markersbach,DE,,Hydro,"Pumped storage",no,1981,,50.51938,12.87976,11WD8MARK1H----7,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0656,"Vattenfall Wasserkraft GmbH","Oberbeckenstr. 8",8352,Markersbach,DE,,Hydro,"Pumped storage",no,1981,,50.51938,12.87976,11WD8MARK1H----7,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0657,"Vattenfall Wasserkraft GmbH","Oberbeckenstr. 8",8352,Markersbach,DE,,Hydro,"Pumped storage",no,1980,,50.51938,12.87976,11WD8MARK1H----7,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0669,"EnBW Energie Baden-Württemberg AG","Unterer Hof 2",72555,Metzingen-Glems,DE,90,Hydro,"Pumped storage",no,1964,,48.50499,9.28692,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0689,"Donau-Wasserkraft AG",,86633,"Neuburg an der Donau",DE,20.2,Hydro,Run-of-river,no,1969,,48.734459,11.14382,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0695,"VERBUND-Innkraftwerke GmbH","Innstr. 11",84524,Neuötting,DE,26.1,Hydro,Run-of-river,no,1951,,48.24856,12.6882725,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0715,"innogy SE",,56332,Lehmen,DE,20,Hydro,Run-of-river,no,1962,,50.274724,7.458957,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0721,"Vattenfall Wasserkraft GmbH","Am Fährhaus 4",1462,Niederwartha,DE,39.8,Hydro,"Pumped storage",no,1958,,51.09153428,13.60982895,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0722,"Vattenfall Wasserkraft GmbH","Am Fährhaus 4",1462,Niederwartha,DE,,Hydro,"Pumped storage",no,1958,,51.09153428,13.60982895,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0747,"Innwerk AG","Am Inn 19",83131,Nußdorf,DE,48,Hydro,Run-of-river,no,1982,,47.74473,12.13573,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0748,"Innwerk AG","Untere Innauen 1",83080,Oberaudorf,DE,60,Hydro,Run-of-river,no,1992,,47.64133,12.19903,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0782,"Rhein-Main-Donau GmbH","Schleusenweg 10",94034,Passau,DE,53.7,Hydro,Run-of-river,no,1927,,48.5797112,13.4082738,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0784,"Innwerk AG","Innstraße 121",94036,Passau,DE,86.4,Hydro,Run-of-river,no,1965,,48.5533054,13.4336591,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0792,"VERBUND-Innkraftwerke GmbH",Niederperach,84567,Perach,DE,19.4,Hydro,Run-of-river,no,1977,,48.0261021,12.789632,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0795,"Rhein-Main-Donau GmbH",,93102,Pfatter,DE,25,Hydro,Run-of-river,no,1985,,48.974806,12.344002,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0825,"EnBW Energie Baden-Württemberg AG","Kraftwerkstraße 24",79790,Küssaberg,DE,19,Hydro,Run-of-river,no,1942,,47.57136,8.33826,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0835,"Energiedienst AG",,79618,Rheinfelden,DE,46.7,Hydro,Run-of-river,no,2010,,47.56990573,7.810113464,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0839,"VERBUND-Innkraftwerke GmbH","Ahornstr. 10",83101,Rohrdorf,DE,35.1,Hydro,Run-of-river,no,1960,,47.83825,12.15333,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0847,"Uniper Kraftwerke GmbH ","Forggenseestraße 100",87672,Roßhaupten,DE,45.5,Hydro,RES,no,1954,,47.651451,10.735525,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0854,"VERBUND-Innkraftwerke GmbH","Oberwöhrn 100",83543,Rott,DE,38.2,Hydro,Run-of-river,no,1970,,47.96092,12.1561,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0859,"EnBW Energie Baden-Württemberg AG","Postfach 1370",79603,Rheinfelden,DE,30,Hydro,Run-of-river,no,1930,,47.585377,7.832657,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0880,"innogy SE",,54340,Schleich,DE,24,Hydro,Run-of-river,no,1962,,49.810941,6.843882,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0882,"Vattenfall Wasserkraft GmbH",Gräfenwarth,7907,Schleiz,DE,79.8,Hydro,"Pumped storage",no,1932,,50.52438482,11.71438694,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0883,"Vattenfall Wasserkraft GmbH",Gräfenwarth,7907,Schleiz,DE,,Hydro,"Pumped storage",no,1932,,50.52438482,11.71438694,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0912,"VERBUND-Innkraftwerke GmbH","Ponschabaustr. 25",83564,Soyen,DE,25,Hydro,Run-of-river,no,1938,,48.05736,12.22093,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0921,"VERBUND-Innkraftwerke GmbH","Innstufenstr. 15",84533,Stammham,DE,23.2,Hydro,Run-of-river,no,1955,,48.24932,12.86469,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0929,"Rhein-Main-Donau GmbH","Kagerser Hauptstraße 164",94315,Straubing,DE,21.5,Hydro,Run-of-river,no,1994,,48.89659,12.55752,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0946a,"ENGIE Deutschland AG","Seestraße 6",92555,Trausnitz,DE,28,Hydro,"Pumped storage",no,1958,,49.55226,12.28127,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0946b,"ENGIE Deutschland AG","Seestraße 6",92555,Trausnitz,DE,3.3,Hydro,Run-of-river,no,1955,,49.55226,12.28127,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0946c,"ENGIE Deutschland AG","Seestraße 6",92555,Trausnitz,DE,1.8,Hydro,Run-of-river,no,1952,,49.55226,12.28127,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0950,"VERBUND-Innkraftwerke GmbH","Werkstr. 18",84513,Töging,DE,85.3,Hydro,Run-of-river,no,1924,,48.2518176,12.5873078,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0953,"ENGIE Deutschland AG","Seestraße 6",92555,Trausnitz,DE,99,Hydro,"Pumped storage",no,1955,,49.53002,12.28481,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0972,"Stadtwerke München GmbH",,83620,Vagen,DE,48,Hydro,"Pumped storage",no,1983,,47.873938,11.87099,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0973,"Stadtwerke München GmbH",,83620,Vagen,DE,44,Hydro,"Pumped storage",no,1960,,47.873938,11.87099,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0996,"Donau-Wasserkraft AG",,85088,Vohburg,DE,23.3,Hydro,Run-of-river,no,1992,,48.778103,11.60119,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1003,"Schluchseewerk Aktiengesellschaft","Kraftwerkstraße 13",79761,Waldshut-Tiengen,DE,150,Hydro,"Pumped storage",no,1951,,47.61777,8.1926,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1008,"Stadtwerke München GmbH",,85368,Wang,DE,25,Hydro,Run-of-river,no,1930,,48.473474,11.95481,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1013,"VERBUND-Innkraftwerke GmbH","Innwerkstr. 15",83512,Wasserburg,DE,24.1,Hydro,Run-of-river,no,1938,,48.05699,12.22074,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1019,"Schluchseewerk Aktiengesellschaft","Todtmooserstr. 150",79664,Wehr,DE,910,Hydro,"Pumped storage",no,1975,,47.64529898,7.91819945,11WD4SWSW5HD7--F,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1031,"Vattenfall Wasserkraft GmbH",Hangstraße,38889,Wendefurth,DE,79.7,Hydro,"Pumped storage",no,1967,,51.74223,10.91879,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1032,"Vattenfall Wasserkraft GmbH",Hangstraße,38889,Wendefurth,DE,,Hydro,"Pumped storage",no,1968,,51.74223,10.91879,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1066,"innogy SE",,54487,Wintrich,DE,20,Hydro,Run-of-river,no,1965,,49.879784,6.948762,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1071,"Schluchseewerk Aktiengesellschaft",Schwarzatalstr.5,79777,Witznau,DE,220,Hydro,"Pumped storage",no,1943,,47.68791,8.25159,11WD4SWSW5HD7--F,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1098,"Weserkraftwerk Bremen GmbH & Co. KG",,28207,"Bremen (Hastedt)",DE,9.9,Hydro,Run-of-river,no,2011,,53.061134,8.864937,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1102,"Bigge Energie GmbH & Co. KG","In der Stesse 14",57439,Attendorn,DE,15,Hydro,RES,no,1965,,51.093173,7.86272,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1118,"Uniper Kraftwerke GmbH ",Dessau,86977,Burggen,DE,10.3,Hydro,Run-of-river,no,1967,,47.739292,10.825702,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1126,"Kernkraftwerk Obrigheim GmbH",,88451,Dettingen,DE,11,Hydro,Run-of-river,no,1927,,48.527536,9.3488325,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1129,"Uniper Kraftwerke GmbH ","Bayernwerkstraße 55",84130,Dingolfing,DE,15,Hydro,Run-of-river,no,1957,,48.63404,12.48369,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1134,"Uniper Kraftwerke GmbH ","Am Moosrain 10",85462,Eitting,DE,26,Hydro,Run-of-river,no,1925,,48.3585905,11.8821921,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1135,"innogy SE",,56821,Ellenz-Poltersdorf,DE,16.4,Hydro,Run-of-river,no,1963,,50.123918,7.225915,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1136,"Bayerische Elektrizitätswerke GmbH",,86679,Ellgau,DE,9.7,Hydro,Run-of-river,no,1952,,48.596746,10.8789,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1137,"innogy SE",,56850,Enkirch,DE,18.4,Hydro,Run-of-river,no,1966,,49.97667,7.127777,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1140,"Uniper Kraftwerke GmbH ","Kraftwerkstraße 22",84051,Essenbach,DE,17.8,Hydro,Run-of-river,no,1951,,51.536513,14.382898,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1143,"innogy SE",,54450,Freudenburg,DE,12.1,Hydro,Run-of-river,no,1985,,49.566954,6.592348,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1152,"innogy SE",,52396,Heimbach,DE,14,Hydro,Run-of-river,no,1938,,50.628507,6.479111,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1153,"innogy SE",,52396,Heimbach,DE,16,Hydro,Run-of-river,no,1905,,50.628568,6.451776,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1157,"Bayerische Elektrizitätswerke GmbH",,89420,Höchstädt,DE,10,Hydro,Run-of-river,no,1982,,48.603156,10.582724,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1160,"Donau-Wasserkraft AG",,85049,Ingolstadt,DE,19.8,Hydro,Run-of-river,no,1971,,48.750317,11.412153,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1169,"Uniper Kraftwerke GmbH ",Lechfeldwiesen,86916,Kaufering,DE,16.7,Hydro,Run-of-river,no,1975,,48.084026,10.864936,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1175,"EnBW Energie Baden-Württemberg AG",,88457,Kirchdorf,DE,14.5,Hydro,Run-of-river,no,1924,,48.0612649,10.1284379,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1181,"innogy SE",,56073,Koblenz,DE,16,Hydro,Run-of-river,no,1951,,50.365855,7.58171,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1189,"Obere Donau Kraftwerke AG",,89415,Lauingen,DE,10.1,Hydro,Run-of-river,no,1965,,48.558394,10.411764,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1191,"Uniper Kraftwerke GmbH ","Via Claudia",86983,Lechbruck,DE,10.1,Hydro,Run-of-river,no,1966,,47.71598,10.825785,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1192,"Uniper Kraftwerke GmbH ","Am Premer Lechsee",86983,Lechbruck,DE,19.2,Hydro,Run-of-river,no,1971,,47.692726,10.797592,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1209,"Bayerische Elektrizitätswerke GmbH",,86405,Meitingen,DE,11.3,Hydro,Run-of-river,no,1922,,48.546994,10.86507,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1210,"Uniper Kraftwerke GmbH ",Friedenaustraße,86504,Merching,DE,12,Hydro,Run-of-river,no,1978,,48.2704497,10.9773463,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1213,"Uniper Kraftwerke GmbH ","Am Kraftwerk 1",85368,Moosburg-Pfrombach,DE,22.3,Hydro,Run-of-river,no,1929,,48.44132,11.99233,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1214,"innogy SE",,56254,Müden,DE,16.4,Hydro,Run-of-river,no,1965,,52.521937,10.360381,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1216,"innogy SE",,56858,Neef,DE,16.4,Hydro,Run-of-river,no,1966,,50.087362,7.135809,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1217,"Uniper Kraftwerke GmbH ","Kraftwerkstraße 26",84100,Niederaichbach,DE,16.2,Hydro,Run-of-river,no,1951,,48.6039132,12.3023425,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1219,"Uniper Kraftwerke GmbH ","Untere Au 60",84183,Niederviehbach,DE,14.8,Hydro,Run-of-river,no,1957,,48.622456,12.398037,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1220,"Uniper Kraftwerke GmbH ","Bayernwerkstraße 1",85445,Oberding,DE,27,Hydro,Run-of-river,no,1924,,48.3066864,11.858847,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1221,"Bayerische Elektrizitätswerke GmbH",,86698,Oberndorf,DE,11.9,Hydro,Run-of-river,no,1954,,48.646423,10.879086,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1228,"Uniper Kraftwerke GmbH ","Stauseestraße 1",94431,Pilsting-Harburg,DE,12.6,Hydro,Run-of-river,no,1984,,48.667862,12.660027,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1230,"Uniper Kraftwerke GmbH ","An der Staustufe 1",94447,Plattling,DE,12.6,Hydro,Run-of-river,no,1994,,49.79434,10.1813,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1234,"Uniper Kraftwerke GmbH ",Lechstraße,86931,Prittriching,DE,12.1,Hydro,Run-of-river,no,1984,,48.21062,10.904933,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1235,"Bayerische Elektrizitätswerke GmbH",,86641,Rain,DE,10.9,Hydro,Run-of-river,no,1956,,48.692383,10.897786,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1239,"Donau-Wasserkraft AG",,86643,Rennertshofen,DE,18.9,Hydro,Run-of-river,no,1968,,48.735932,11.020923,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1245,"Uniper Kraftwerke GmbH ",Zollhaus,86937,Scheuring,DE,12,Hydro,Run-of-river,no,1981,,48.148375,10.867023,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1246,"Uniper Kraftwerke GmbH ",Lechau,86937,Scheuring,DE,12.2,Hydro,Run-of-river,no,1980,,48.180229,10.8833102,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1247,"Uniper Kraftwerke GmbH ",Lechfeldstraße,86511,Schmiechen-Unterbergen,DE,12.3,Hydro,Run-of-river,no,1983,,48.237449,10.92718,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1250,"UPM GmbH","Friedrich-Haindl-Strasse 10",86956,Schongau,DE,10.5,Hydro,Run-of-river,no,1959,,47.803187,10.904254,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1251,"Uniper Kraftwerke GmbH ","Lechuferstraße 21",86956,Schongau,DE,16.6,Hydro,Run-of-river,no,1960,,47.8001993,10.9026434,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1263,"Uniper Kraftwerke GmbH ","Mühltal 7",82064,Straßlach,DE,11.2,Hydro,Run-of-river,no,1924,,47.99629724,11.48542787,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1265,"EnBW Energie Baden-Württemberg AG",,88459,Tannheim,DE,12.3,Hydro,Run-of-river,no,1920,,48.00795,10.118537,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1267,"Stadtwerke München GmbH",,84184,Tiefenbach,DE,18,Hydro,Run-of-river,no,1951,,48.515233,12.101041,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1269,"innogy SE",,54234,Trier,DE,18.8,Hydro,Run-of-river,no,1962,,49.728029,6.624451,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1273,"Uniper Kraftwerke GmbH ",Einsiedl,82432,Walchensee,DE,12.8,Hydro,Run-of-river,no,1955,,47.554694,11.291366,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1274,"Uniper Kraftwerke GmbH ","Kraftwerkstraße 1",94522,Wallersorf/Ettling,DE,12.6,Hydro,Run-of-river,no,1988,,48.6960722,12.7977619,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1287,"innogy SE",,54492,Zeltingen,DE,13.6,Hydro,Run-of-river,no,1964,,49.951074,7.023166,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA1466,"Alzkraftwerke Heider GmbH","Mühlthal 1",84579,Unterneukirchen,DE,18.95,Hydro,Run-of-river,no,1920,,48.15393,12.65242,,"Renewable energy",Hydro,,,,BNetzA/UBA
+BNA0115,"Lausitz Energie Kraftwerke AG",Werkstraße,4007,Böhlen,DE,875,Lignite,"Steam turbine",yes,2000,,51.182122,12.373287,11WD8LIPD1L----P,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0116,"EnBW Energie Baden-Württemberg AG",Werkstraße,4564,Böhlen,DE,875,Lignite,"Steam turbine",yes,1999,,51.182122,12.373287,11WD8LIPD1L----P,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0122,"Lausitz Energie Kraftwerke AG","Am Kraftwerk 1",2943,Boxberg,DE,465,Lignite,"Steam turbine",yes,1979,,51.41626317,14.56194878,11WD8BOXB1L----J,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0123,"Lausitz Energie Kraftwerke AG","Am Kraftwerk 1",2943,Boxberg,DE,465,Lignite,"Steam turbine",yes,1980,,51.41626317,14.56194878,11WD8BOXB1L----J,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0124,"Lausitz Energie Kraftwerke AG","Am Kraftwerk 1",2943,Boxberg,DE,857,Lignite,"Steam turbine",yes,2000,,51.41626317,14.56194878,11WD8BOXB1L----J,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0177,"eins - energie in sachsen GmbH & Co. KG",,9115,Chemnitz,DE,56.8,Lignite,"Steam turbine",yes,1988,,50.856981,12.923096,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0179,"eins - energie in sachsen GmbH & Co. KG",,9116,Chemnitz,DE,90.8,Lignite,"Steam turbine",yes,1990,,50.856981,12.923096,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0183,"Stadtwerke Cottbus mbH",,3052,Cottbus,DE,74,Lignite,"Steam turbine",yes,1999,,51.76017,14.37004,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0196,"Mitteldeutsche Braunkohlengesellschaft mbH",,6682,Teuchern,DE,67,Lignite,"Steam turbine",yes,1936,,51.11187,12.07617,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0292,"RWE Power AG",,50226,Frechen,DE,176,Lignite,"Steam turbine",yes,1959,CHP,50.8976,6.793099,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0302,"RWE Power AG",,41517,Frimmersdorf,DE,129,Lignite,"Steam turbine",no,1957,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0303,"RWE Power AG",,41517,Frimmersdorf,DE,130,Lignite,"Steam turbine",no,1957,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0304,"RWE Power AG",,41517,Frimmersdorf,DE,124,Lignite,"Steam turbine",no,1960,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0305,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,130,Lignite,"Steam turbine",no,1959,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0306,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,132,Lignite,"Steam turbine",no,1960,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0307,"RWE Power AG",,41517,Frimmersdorf,DE,128,Lignite,"Steam turbine",no,1960,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0308,"RWE Power AG",,41517,Frimmersdorf,DE,136,Lignite,"Steam turbine",no,1962,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0309,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,135,Lignite,"Steam turbine",no,1964,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0310,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,138,Lignite,"Steam turbine",no,1962,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0311,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,131,Lignite,"Steam turbine",no,1962,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0312,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,133,Lignite,"Steam turbine",no,1964,,51.05744518,6.577080395,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0313,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,284,Lignite,"Steam turbine",yes,1966,CHP,51.05744518,6.577080395,11WD7FRIM2B-KW-M,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0314,"RWE Power AG",,41517,Grevenbroich-Frimmersdorf,DE,278,Lignite,"Steam turbine",no,1970,,51.05744518,6.577080395,11WD7FRIM2B-KW-M,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0439,"Helmstedter Revier GmbH",,38350,Helmstedt,DE,352,Lignite,"Steam turbine",no,1985,,52.17237156,10.97682873,11WD2BUSC0002637,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0489,"RWE Power AG",,50354,Hürth,DE,40,Lignite,"Steam turbine",yes,1992,,50.8608,6.8402,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0490a,"RWE Power AG",,50354,Hürth,DE,0,Lignite,"Steam turbine",yes,1993,,50.8608,6.8402,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0490b,"RWE Power AG",,50354,Hürth,DE,45,Lignite,"Steam turbine",yes,1993,,50.8608,6.8402,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0491,"RWE Power AG",,50354,Hürth,DE,98,Lignite,"Steam turbine",yes,1917,,50.86138,6.84066,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0523,"Städtische Werke Energie + Wärme GmbH",,34134,Kassel,DE,33.5,Lignite,"Steam turbine",yes,1989,,51.279099,9.484012,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0543,"RheinEnergie AG",,50769,Köln,DE,75.3,Lignite,"Steam turbine",yes,2010,,51.01781,6.96435,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0680,"Mitteldeutsche Braunkohlengesellschaft mbH",,4613,Mumsdorf,DE,60,Lignite,"Steam turbine",yes,1968,,51.07114395,12.26081401,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0696,"RWE Power AG",,41517,Grevenbroich-Neurath,DE,294,Lignite,"Steam turbine",no,1972,,51.039475,6.615041,11WD7NEUR-B-KW-B,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0697,"RWE Power AG",,41517,Grevenbroich-Neurath,DE,294,Lignite,"Steam turbine",no,1972,,51.039475,6.615041,11WD7NEUR-B-KW-B,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0698,"RWE Power AG",,41517,Grevenbroich-Neurath,DE,292,Lignite,"Steam turbine",no,1973,,51.039475,6.615041,11WD7NEUR-B-KW-B,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0699,"RWE Power AG",,41517,Grevenbroich-Neurath,DE,607,Lignite,"Steam turbine",yes,1975,,51.039475,6.615041,11WD7NEUR-B-KW-B,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0700,"RWE Power AG",,41517,Grevenbroich-Neurath,DE,604,Lignite,"Steam turbine",yes,1976,,51.039475,6.615041,11WD7NEUR-B-KW-B,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0705,"RWE Power AG",,50129,Bergheim,DE,297,Lignite,"Steam turbine",yes,1968,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0706,"RWE Power AG",,50129,Bergheim,DE,299,Lignite,"Steam turbine",yes,1971,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0707,"RWE Power AG",,50129,Bergheim,DE,648,Lignite,"Steam turbine",yes,1974,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0708,"RWE Power AG",,50129,Bergheim,DE,628,Lignite,"Steam turbine",yes,1974,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0709,"RWE Power AG",,50129,Bergheim,DE,944,Lignite,"Steam turbine",yes,2002,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0710,"RWE Power AG",,50129,Bergheim,DE,125,Lignite,"Steam turbine",no,1963,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0711,"RWE Power AG",,50129,Bergheim,DE,125,Lignite,"Steam turbine",no,1963,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0712,"RWE Power AG",,50129,Bergheim,DE,295,Lignite,"Steam turbine",yes,1965,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0713,"RWE Power AG",,50129,Bergheim,DE,295,Lignite,"Steam turbine",no,1970,,50.995692,6.669039,11WD7NIED-B-KW-5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0714,"RWE Power AG",,50129,Bergheim,DE,15,Lignite,"Steam turbine",yes,1939,,50.945598,6.663576,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0785,"Lausitz Energie Kraftwerke AG",Kraftwerksstraße,3185,Peitz,DE,465,Lignite,"Steam turbine",yes,1981,,51.83444099,14.45903778,11WD8JAEN1L----Z,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0786,"Lausitz Energie Kraftwerke AG",Kraftwerksstraße,3185,Peitz,DE,465,Lignite,"Steam turbine",yes,1982,,51.83444099,14.45903778,11WD8JAEN1L----Z,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0787,"Lausitz Energie Kraftwerke AG",Kraftwerksstraße,3185,Peitz,DE,465,Lignite,"Steam turbine",yes,1984,,51.83444099,14.45903778,11WD8JAEN1L----Z,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0788,"Lausitz Energie Kraftwerke AG",Kraftwerksstraße,3185,Peitz,DE,465,Lignite,"Steam turbine",yes,1985,,51.83444099,14.45903778,11WD8JAEN1L----Z,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0789,"Lausitz Energie Kraftwerke AG",Kraftwerksstraße,3185,Peitz,DE,465,Lignite,"Steam turbine",yes,1987,,51.83444099,14.45903778,11WD8JAEN1L----Z,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0790,"Lausitz Energie Kraftwerke AG",Kraftwerksstraße,3185,Peitz,DE,465,Lignite,"Steam turbine",yes,1989,,51.83444099,14.45903778,11WD8JAEN1L----Z,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0878,"Uniper Kraftwerke GmbH ",,6258,Schkopau,DE,450,Lignite,"Steam turbine",yes,1996,,51.39845463,11.9504201,11WD8SCHK1L----O,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0879,"Uniper Kraftwerke GmbH ",,6258,Schkopau,DE,450,Lignite,"Steam turbine",yes,1996,,51.39845463,11.9504201,11WD8SCHK1L----O,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0914,"Lausitz Energie Kraftwerke AG","An der alten Ziegelei 1",3130,Spremberg,DE,750,Lignite,"Steam turbine",yes,1997,,51.53482028,14.35312271,11WD8SWPU1L----5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0915,"Lausitz Energie Kraftwerke AG","An der alten Ziegelei 1",3130,Spremberg,DE,750,Lignite,"Steam turbine",yes,1998,,51.53482028,14.35312271,11WD8SWPU1L----5,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1002,"Mitteldeutsche Braunkohlengesellschaft mbH",,6679,Wählitz,DE,31,Lignite,"Steam turbine",yes,1994,,51.16664,12.07622,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1021,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,123,Lignite,"Steam turbine",yes,1955,,50.839167,6.321111,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1022,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,135,Lignite,"Steam turbine",no,1959,,50.839167,6.321111,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1025,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,321,Lignite,"Steam turbine",no,1965,,50.839167,6.321111,11WD7WEIS-B-KW-C,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1026,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,321,Lignite,"Steam turbine",no,1967,,50.839167,6.321111,11WD7WEIS-B-KW-C,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1027,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,663,Lignite,"Steam turbine",yes,1974,,50.839167,6.321111,11WD7WEIS-B-KW-C,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1028,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,656,Lignite,"Steam turbine",yes,1975,,50.839167,6.321111,11WD7WEIS-B-KW-C,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1097,"Smurfit Kappa Zülpich Papier GmbH","Bessenicher Weg",53909,Zülpich,DE,19.5,Lignite,"Steam turbine",yes,2010,,50.7055,6.65362,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1141,"Pfeifer & Langen GmbH & Co. KG","Bonner Strasse 2",53879,Euskirchen,DE,14.5,Lignite,"Steam turbine",yes,1979,,50.65803,6.81012,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1164,"Pfeifer & Langen GmbH & Co. KG","Dürenerstr. 20",52428,Jülich,DE,23.22,Lignite,"Steam turbine",yes,2004,,50.91517,6.36935,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1185,"Pfeifer & Langen GmbH & Co. KG","An den Sieben Stücken",6420,Könnern,DE,20.3,Lignite,"Steam turbine",yes,2014,,51.69784,11.7581,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1293a,"Martinswerk GmbH","Kölner Straße 110",50127,Bergheim,DE,10,Lignite,"Steam turbine",yes,1995,,50.94564,6.66503,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1293b,"Martinswerk GmbH","Kölner Straße 110",50127,Bergheim,DE,10,Lignite,"Steam turbine",yes,1995,,50.94564,6.66503,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1400a,"Südzucker AG, Werk Zeitz","Albrechtstr. 54",6712,Zeitz,DE,23.3,Lignite,"Steam turbine",yes,1993,,51.04885,12.11038,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1401a,"RWE Power AG","Energiestraße 101",41517,Grevenbroich,DE,1060,Lignite,"Steam turbine",no,2012,,51.0365,6.61332,11WD7NEUR-B-KW-B,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1401b,"RWE Power AG","Energiestraße 101",41517,Grevenbroich,DE,1060,Lignite,"Steam turbine",no,2012,,51.0365,6.61332,11WD7NEUR-B-KW-B,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1404,"Lausitz Energie Kraftwerke AG","Am Kraftwerk 1",2943,Boxberg,DE,640,Lignite,"Steam turbine",no,2012,,51.41918,14.5698,11WD8BOXB1L----J,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1451,"Venator Germany GmbH",,47198,Duisburg,DE,27.5,Lignite,"Steam turbine",yes,1964,,51.44089,6.70543,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1486,"ROMONTA GmbH","Chausseestraße 1",6317,"Seegebiet Mansfelder Land",DE,45,Lignite,"Steam turbine",yes,1979,,51.462749,11.714028,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA1511a,"Papierfabrik Schoellershammer H. A. Schoeller Söhne GmbH & Co KG","Kreuzauer Str. 18",52355,Düren,DE,9.3,Lignite,"Steam turbine",yes,1983,,50.77701,6.48605,,"Fossil fuels",Lignite,,,,BNetzA/UBA
+BNA0005,"Lausitz Energie Kraftwerke AG","Lindenberger Weg",16356,Ahrensfelde,DE,37.5,"Natural gas","Gas turbine",no,1990,,52.58950001,13.5586524,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0006,"Lausitz Energie Kraftwerke AG","Lindenberger Weg",16356,Ahrensfelde,DE,37.5,"Natural gas","Gas turbine",no,1990,,52.58950001,13.5586524,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0007,"Lausitz Energie Kraftwerke AG","Lindenberger Weg",16356,Ahrensfelde,DE,37.5,"Natural gas","Gas turbine",no,1990,,52.58950001,13.5586524,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0008,"Lausitz Energie Kraftwerke AG","Lindenberger Weg",16356,Ahrensfelde,DE,37.5,"Natural gas","Gas turbine",no,1990,,52.58950001,13.5586524,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0012b,"Sappi Alfeld GmbH","Mühlenmarsch 1",31061,Alfeld,DE,11,"Natural gas","Steam turbine",yes,1947,,51.98513,9.82246,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0015,"EnBW Energie Baden-Württemberg AG","Industriestraße 11",73776,Altbach,DE,65,"Natural gas","Gas turbine",yes,1997,,48.717611,9.374917,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0016,"EnBW Energie Baden-Württemberg AG","Industriestraße 11",73776,Altbach,DE,50,"Natural gas","Gas turbine",no,1971,,48.717611,9.374917,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0017,"EnBW Energie Baden-Württemberg AG","Industriestraße 11",73776,Altbach,DE,57,"Natural gas","Gas turbine",no,1973,,48.717611,9.374917,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0018,"EnBW Energie Baden-Württemberg AG","Industriestraße 11",73776,Altbach,DE,81,"Natural gas","Gas turbine",no,1975,,48.717611,9.374917,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0025,"Suiker Unie GmbH & Co. KG","Bluthsluster Str. 24",17389,Anklam,DE,15.1,"Natural gas","Steam turbine",yes,1993,,53.85625,13.7101,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0033,"Stadtwerke Augsburg Energie GmbH","Beim Grenzgraben 10",86167,"Augsburg ",DE,30.7,"Natural gas","Gas turbine",yes,2004,,48.40099,10.93576,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0051,"Cargill Deutschland GmbH","Monplaisirstr. 22",39249,Barby,DE,17.8,"Natural gas","Steam turbine",yes,1994,,51.983192,11.87656,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0059a,"Volkswagen AG",,34225,Baunatal,DE,12.2,"Natural gas","Steam turbine",yes,,,51.25883,9.43341,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0059b,"Volkswagen AG",,34225,Baunatal,DE,78,"Natural gas","Combined cycle",yes,2011,,51.25308,9.4379,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0073,"Vattenfall Wärme Berlin AG","Köpenicker Straße 60",10179,Berlin,DE,444,"Natural gas","Combined cycle",yes,1996,,52.51172353,13.4209156,11WD8MITT5G----0,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0074,"Vattenfall Wärme Berlin AG","Am Spreebord 5",10589,Berlin,DE,144,"Natural gas","Steam turbine",yes,1975,,52.52185624,13.31109524,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0075,"Vattenfall Wärme Berlin AG","Ostpreußendamm 61",12207,Berlin,DE,144,"Natural gas","Steam turbine",yes,1972,,52.42520804,13.30976486,11WD8LICH5G----1,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0076,"Vattenfall Wärme Berlin AG","Ostpreußendamm 61",12207,Berlin,DE,144,"Natural gas","Steam turbine",yes,1974,,52.42520804,13.30976486,11WD8LICH5G----1,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0080,"Vattenfall Europe Wärme AG","Ostpreußendamm 61",12207,Berlin,DE,144,"Natural gas","Steam turbine",yes,,,52.42520804,13.30976486,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0081,"Vattenfall Wärme Berlin AG","Köpenicker Chaussee 42 - 45 ",10317,Berlin,DE,164,"Natural gas","Steam turbine",yes,1981,CHP,52.48891639,13.49696159,11WD8KLIN5X----0,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0088a,"Solvay Chemicals GmbH",,6406,Bernburg,DE,140.5,"Natural gas","Combined cycle",yes,1994,IPP,51.802609,11.751511,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0098,"Stadtwerke Bielefeld GmbH",,33611,Bielefeld,DE,23,"Natural gas","Steam turbine",yes,1977,,52.033503,8.539061,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0099,"Uniper Kraftwerke GmbH ",,33649,Bielefeld,DE,55,"Natural gas","Gas turbine",no,1975,,51.98396,8.45139,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0100,"Stadtwerke Bielefeld GmbH",,33697,Bielefeld,DE,37.5,"Natural gas","Combined cycle",yes,2005,,52.033503,8.539061,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0101,"Stadtwerke Bielefeld GmbH",,33611,Bielefeld,DE,41,"Natural gas","Steam turbine",yes,1966,,52.033503,8.539061,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0105,"envia THERM GmbH",,6749,Bitterfeld,DE,106,"Natural gas","Combined cycle",yes,2000,IPP,51.633861,12.299357,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0110,"RWE Generation SE",,44799,Bochum,DE,20.7,"Natural gas","Steam turbine",yes,2004,,51.48333333,7.216666667,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0111,"Stadtwerke Bochum Holding GmbH",,44805,Bochum,DE,44,"Natural gas","Steam turbine",yes,2013,,51.50795,7.25029,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0117b,"Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH",,53115,Bonn,DE,95,"Natural gas","Steam turbine",yes,2013,,50.73382,7.08055,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0118,"Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH",,53121,Bonn,DE,14.4,"Natural gas","Steam turbine",yes,,,50.73382,7.08055,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0129,"StWB Stadtwerke Brandenburg an der Havel GmbH & Co. KG",,14772,Brandenburg,DE,36,"Natural gas","Steam turbine",yes,1997,,51.512175,13.97109,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0130,"Uniper Kraftwerke GmbH ",,14774,Brandenburg,DE,160,"Natural gas","Combined cycle",no,1994,,52.394167,12.418056,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0135,"Braunschweiger Versorgungs-AG & Co. KG",,38106,Braunschweig,DE,20,"Natural gas","Combined cycle",yes,1971,CHP,52.278611,10.514722,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0136,"Braunschweiger Versorgungs-AG & Co. KG",,38106,Braunschweig,DE,74,"Natural gas","Combined cycle",yes,2010,CHP,52.278611,10.514722,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0137,"Braunschweiger Versorgungs-AG & Co. KG",,38112,Braunschweig,DE,25,"Natural gas","Gas turbine",yes,1965,,52.278611,10.514722,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0140,"swb Erzeugung GmbH & Co. KG","Hastedter Osterdeich 255",28207,Bremen,DE,155,"Natural gas","Steam turbine",yes,,,53.06008,8.87328,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0156b,"Egger Holzwerkstoffe Brilon GmbH & Co. KG","Im Kissen 19",59929,"Brilon ",DE,13.5,"Natural gas","Gas turbine",yes,1996,,51.40845951,8.599935409,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0172a,"Wacker Chemie AG","Johannes-Hess Straße 24",84489,Burghausen,DE,120,"Natural gas","Combined cycle",yes,2001,,48.186212,12.845768,11WD2BUKW000310A,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0172b,"Wacker Chemie AG","Johannes-Hess Straße 24",84489,Burghausen,DE,50,"Natural gas","Steam turbine",yes,1979,,48.186212,12.845768,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0174,"InfraServ GmbH & Co. Gendorf KG",,84508,Burgkirchen,DE,73.1,"Natural gas","Steam turbine",yes,2002,,48.17679,12.73056,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0178,"eins - energie in sachsen GmbH & Co. KG",,9114,Chemnitz,DE,57.2,"Natural gas","Steam turbine",yes,1986,,50.856981,12.923096,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0194,"Fernwärmeversorgungs-GmbH Dessau",,6842,Dessau-Roßlau,DE,39,"Natural gas","Steam turbine",yes,1996,,51.82685,12.23003,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0199,"RWE Generation SE",,41539,Dormagen,DE,586,"Natural gas","Combined cycle",yes,2000,IPP,51.07908,6.82871,11WD7BRAU5G-KW-N,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0202,"RWE Generation SE",,44143,Dortmund,DE,26,"Natural gas","Steam turbine",yes,2004,,51.51973,7.47697,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0207,"DREWAG Stadtwerke Dresden GmbH","Oederaner Str. 21 - 25",1169,"Dresden ",DE,260,"Natural gas","Combined cycle",yes,1995,,51.042119,13.708597,11WD8DRES5X---PZ,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0213,"Stadtwerke Duisburg AG","Wanheimer Straße 439-454",47249,Duisburg,DE,40,"Natural gas","Steam turbine",yes,2002,,51.390662,6.747783,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0214,"Stadtwerke Duisburg AG","Wanheimer Straße 439-454",47249,Duisburg,DE,234,"Natural gas","Combined cycle",yes,2005,,51.390662,6.747783,11WD7RHAU5G-3--3,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0220,"Stadtwerke Düsseldorf AG","Auf der Lausward 75",40221,Düsseldorf,DE,100,"Natural gas","Combined cycle",yes,2000,,51.22138,6.73131,11WD7NORF5G--KWG,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0221a,"Stadtwerke Düsseldorf AG","Auf der Lausward 75",40221,Düsseldorf,DE,64.7,"Natural gas","Gas turbine",no,1975,,51.22116,6.73193,11WD7NORF5G--KWG,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0221b,"Stadtwerke Düsseldorf AG","Auf der Lausward 75",40221,Düsseldorf,DE,66.7,"Natural gas","Gas turbine",no,1974,,51.22116,6.73193,11WD7NORF5G--KWG,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0221c,"Stadtwerke Düsseldorf AG","Auf der Lausward 75",40221,Düsseldorf,DE,293,"Natural gas","Steam turbine",yes,1977,,51.22138,6.73131,11WD7NORF5G--KWG,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0232c,"Sappi Ehingen GmbH","Kessel 6 - Turbine 4",89584,Ehingen,DE,4,"Natural gas","Steam turbine",yes,1977,,48.26693,9.72626,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0233,"Stora Enso Sachsen GmbH","Am Schanzberg 1",4838,Eilenburg,DE,46.6,"Natural gas","Steam turbine",yes,1993,,51.46561,12.59204,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0239,"Uniper Kraftwerke GmbH ",,26931,Elsfleth,DE,321,"Natural gas","Gas turbine",no,1978,,53.18969,8.40869,11WD2HUKW000298J,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0243,"Palm Power GmbH & Co. KG","Industriestraße 23",97483,Eltmann,DE,57,"Natural gas","Steam turbine",yes,2007,,49.984,10.65137,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0245b,"Statkraft Markets GmbH",,26725,Emden,DE,433,"Natural gas","Steam turbine",no,1973,,53.34217,7.20624,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0255,"SWE Energie GmbH",,99085,Erfurt,DE,11,"Natural gas","Steam turbine",yes,1996,,50.978567,11.05158,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0256a,"SWE Energie GmbH",,99087,Erfurt,DE,76.5,"Natural gas","Combined cycle",yes,1999,,50.989612,11.027635,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0256b,"SWE Energie GmbH",,99087,Erfurt,DE,32.6,"Natural gas","Combined cycle",yes,2014,,50.989612,11.027635,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0261a,"Erlanger Stadtwerke AG"," Äußere Bruckerstr. 33",91052,Erlangen,DE,21.6,"Natural gas","Combined cycle",yes,2005,,49.59297,11.00162,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0261c,"Erlanger Stadtwerke AG"," Äußere Bruckerstr. 33",A-91052,Erlangen,DE,6.7,"Natural gas","Combined cycle",yes,2014,,49.593492,11.001093,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0284,"Stadtwerke Frankfurt (Oder) GmbH",,15236,"Frankfurt Oder",DE,48,"Natural gas","Combined cycle",yes,1997,,52.346,14.546,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0285,"Mainova AG","Lyoner Straße  8",60528,"Frankfurt am Main",DE,70,"Natural gas","Steam turbine",yes,2004,,50.0856,8.62785,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0286,"Mainova AG","Gutleutstraße 231",60627,"Frankfurt am Main",DE,99,"Natural gas","Steam turbine",yes,1994,,50.09843,8.65313,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0288,"Mainova AG","Lyoner Straße  9",60528,"Frankfurt am Main",DE,56,"Natural gas","Steam turbine",yes,,,50.0856,8.62785,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0293,"Rhodia Acetow GmbH",,79108,Freiburg,DE,38.6,"Natural gas","Combined cycle",yes,1998,,48.020738,7.84588,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0343,"Energieversorgung Gera GmbH","Siemensstraße 45",7546,Gera,DE,74,"Natural gas","Steam turbine",yes,1996,,50.9076,12.06102,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0354,"Georg-August-Universität Göttingen Stiftung Öffentlichen Rechts","Rudolf-Diesel-Straße 1",37075,Göttingen,DE,18.8,"Natural gas","Steam turbine",yes,1998,,51.55337,9.93374,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0360,"Stadtwerke Greifswald GmbH",,17489,Greifswald,DE,14.7,"Natural gas","Gas turbine",yes,1996,,54.07039,13.39886,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0361,"KGW - Kraftwerk Grenzach-Wyhlen GmbH",,79639,Grenzach-Wyhlen,DE,30,"Natural gas","Steam turbine",yes,2017,,47.53971,7.706923,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0374,"Uniper Kraftwerke GmbH ",,63538,Großkrotzenburg,DE,572,"Natural gas","Steam turbine",no,1977,,50.088553,8.953399,11WD2STAU0001800,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0386,"Mohn Media Mohndruck GmbH","Carl Bertelsmann Straße 161",33334,Gütersloh,DE,25,"Natural gas","Steam turbine",yes,1994,,51.907326,8.408835,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0389,"Mark-E AG",,58099,Hagen,DE,230,"Natural gas","Steam turbine",no,1980,,51.41103,7.49171,11WD7GARE5XHAKW5,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0392a,"EVH GmbH","Dieselstraße 141",6130,Halle,DE,97,"Natural gas","Steam turbine",yes,2005,,51.48096,11.96427,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0392b,"Heizkraftwerk Halle-Trotha GmbH","Brachwitzer Straße 23",6130,Halle,DE,56.1,"Natural gas","Combined cycle",yes,2013,,51.52353,11.94337,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0400,"Wärme Hamburg GmbH","Andreas-Meyer-Straße 8",22113,Hamburg,DE,127,"Natural gas","Combined cycle",yes,2009,,53.52672755,10.06583691,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0401,"ADM Hamburg Aktiengesellschaft","Nippoldstr. 117",21107,Hamburg,DE,22.5,"Natural gas","Steam turbine",yes,1993,,53.517684,9.950793,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0410,"Trianel Gaskraftwerk Hamm GmbH & Co. KG ","Trianelstraße 1",59071,Hamm,DE,407,"Natural gas","Combined cycle",no,2008,,51.67395,7.92915,11WD7STUM----KW9,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0411,"Trianel Gaskraftwerk Hamm GmbH & Co. KG ","Trianelstraße 1",59071,Hamm,DE,410,"Natural gas","Combined cycle",no,2008,,51.67395,7.92915,11WD7STUM----KW9,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0418,"enercity AG",,30169,Hannover,DE,230,"Natural gas","Combined cycle",yes,1998,,52.372917,9.714194,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0419,"enercity AG",,30419,Hannover,DE,102,"Natural gas","Steam turbine",yes,1975,,52.42,9.648611,11WD2HERR5GKW--1,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0442,"Mark-E AG / Statkraft Markets",,58313,Herdecke,DE,417,"Natural gas","Combined cycle",no,2007,,51.40313,7.4155,11WD7GARE5XHEKWQ,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0444,"K+S AG",,A-36266,Heringen,DE,69,"Natural gas","Combined cycle",yes,2009,IPP,50.89401,9.99724,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0497,"Infraserv GmbH & Co. Höchst KG",,65926,"Industriepark Höchst",DE,96.5,"Natural gas","Steam turbine",yes,2012,,50.09178,8.53105,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0499,"Infraserv GmbH & Co. Höchst KG",,65926,"Industriepark Höchst",DE,86,"Natural gas","Steam turbine",yes,2003,,50.09178,8.53105,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0504,"TEAG Thüringer Energie AG",,7749,Jena,DE,182,"Natural gas","Combined cycle",yes,1996,,50.896881,11.585703,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0510a,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",,67655,Kaiserslautern,DE,11.6,"Natural gas","Steam turbine",yes,1989,,49.434659,7.760234,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0514,"EnBW Energie Baden-Württemberg AG","Fettweisstraße 42",76189,Karlsruhe,DE,353,"Natural gas","Combined cycle",no,1998,,49.0125,8.302778,11WD4DAXLA-2S--6,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0515,"Stadtwerke Karlsruhe GmbH",,76189,Karlsruhe,DE,37,"Natural gas","Steam turbine",yes,1984,,49.014444,8.348056,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0521,"Städtische Werke Energie + Wärme GmbH",,34134,Kassel,DE,48.31,"Natural gas","Steam turbine",yes,1988,,51.279099,9.484012,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0527,"Stadtwerke Kiel AG",,24116,Kiel,DE,21.5,"Natural gas","Steam turbine",yes,2005,,54.327536,10.12674,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0531,"Energieservice Westfalen Weser GmbH",,32278,Kirchlengern,DE,125,"Natural gas","Combined cycle",no,1981,,52.19507,8.6482,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0544,"RheinEnergie AG",,50677,Köln,DE,35,"Natural gas","Combined cycle",yes,1994,,50.91697,6.95725,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0545,"RheinEnergie AG",,50735,Köln,DE,413,"Natural gas","Combined cycle",yes,2005,,50.97492,6.98803,11WD7BOLA--KWNIK,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0546,"RheinEnergie AG",,50769,Köln,DE,108,"Natural gas","Combined cycle",yes,2004,,51.01781,6.96435,11WD7FUEH5GMEKW7,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0548a,"Knapsack Power GmbH & Co. KG",,50351,Hürth-Knapsack,DE,800,"Natural gas","Combined cycle",no,2007,,50.861708,6.842353,11WD7KWKN----KW1,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0548b,"Statkraft Markets GmbH",,50351,Hürth-Knapsack,DE,430,"Natural gas","Combined cycle",no,2013,,50.861708,6.842353,11WD7KWKN1GBL203,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0556a,"Cargill Deutschland GmbH","Düsseldorfer Str. 191",47809,Krefeld,DE,25.8,"Natural gas","Steam turbine",yes,1999,,51.339183,6.664238,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0556b,"Cargill Deutschland GmbH","Düsseldorfer Str. 191",47809,Krefeld,DE,14,"Natural gas","Combustion Engine",yes,1999,,51.339183,6.664238,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0574a,"Statkraft Markets GmbH",,31628,Landesbergen,DE,56,"Natural gas","Gas turbine",no,1973,,52.54585,9.11363,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0574b,"Statkraft Markets GmbH",,31628,Landesbergen,DE,431,"Natural gas","Steam turbine",no,1973,,52.54585,9.11363,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0588,"Stadtwerke Leipzig GmbH",,4105,Leipzig,DE,167,"Natural gas","Combined cycle",yes,1996,,51.35119,12.37843,11WD8LEIP5X----6,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0592,"InfraLeuna GmbH",,6237,Leuna,DE,39,"Natural gas","Combined cycle",no,1998,,51.29976,12.0193,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0593,"InfraLeuna GmbH",,6237,Leuna,DE,35,"Natural gas","Combined cycle",yes,1994,,51.29976,12.0193,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0594,"TOTAL Raffinerie Mitteldeutschland GmbH",,6237,Leuna,DE,35,"Natural gas","Combined cycle",yes,1994,,51.29976,12.0193,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0595,"InfraLeuna GmbH",,6237,Leuna,DE,37,"Natural gas","Combined cycle",yes,1994,,51.29976,12.0193,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0600a,"Currenta GmbH & Co. OHG","CHEMPARK, Geb. X 50",51368,Leverkusen,DE,25,"Natural gas","Steam turbine",yes,1981,IPP,51.01443,6.98733,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0602,"RWE Generation SE",,49811,Lingen,DE,116,"Natural gas","Combined cycle",yes,1974,,52.481878,7.306658,11WD7EMSL-G-KW-T,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0603,"RWE Generation SE",,49811,Lingen,DE,116,"Natural gas","Combined cycle",yes,1973,,52.481878,7.306658,11WD7EMSL-G-KW-T,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0604,"RWE Generation SE",,49811,Lingen,DE,359,"Natural gas","Combined cycle",yes,1973,,52.481878,7.306658,11WD7EMSL-G-KW-T,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0605,"RWE Generation SE",,49811,Lingen,DE,359,"Natural gas","Combined cycle",yes,1974,,52.481878,7.306658,11WD7EMSL-G-KW-T,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0606,"RWE Generation SE",,49811,Lingen,DE,887,"Natural gas","Combined cycle",yes,2010,,52.481878,7.306658,11WD7EMSL-G-KW-T,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0614a,"BASF SE","A 855",67056,Ludwigshafen,DE,47,"Natural gas","Gas turbine",yes,1992,,49.51395,8.43151,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0614b,"BASF SE","A 800",67056,Ludwigshafen,DE,497.5,"Natural gas","Combined cycle",yes,2005,IPP,49.51373,8.431556,11WD7LUDW2GA800M,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0615,"BASF SE","C 200",67056,Ludwigshafen,DE,410,"Natural gas","Combined cycle",yes,1997,IPP,49.513617,8.431603,11WD7LUDW5GSUEDE,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0626,"Kraftwerke Mainz-Wiesbaden AG",,55120,Mainz,DE,434.2,"Natural gas","Combined cycle",yes,2000,,50.026426,8.237935,11WD7BISC5GKW23O,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0627,"Kraftwerke Mainz-Wiesbaden AG",,55120,Mainz,DE,335,"Natural gas","Combined cycle",yes,1976,,50.0252,8.24292,11WD7BISC5GKW23O,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0658,"Evonik Degussa GmbH","Paul-Baumann-Str. 1",45772,Marl,DE,61.13,"Natural gas","Combined cycle",yes,1973,IPP,51.68037,7.09688,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0659,"Evonik Degussa GmbH","Paul-Baumann-Str. 1",45772,Marl,DE,77.57,"Natural gas","Combined cycle",yes,1974,IPP,51.68037,7.09688,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0681,"SWM Services GmbH",,80807,München,DE,80,"Natural gas","Gas turbine",yes,,,48.188278,11.594954,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0682,"SWM Services GmbH",,80807,München,DE,80,"Natural gas","Gas turbine",no,,,48.188278,11.594954,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0683a,"SWM Services GmbH",,81371,München,DE,79.7,"Natural gas","Combined cycle",yes,1980,,48.1351253,11.5819806,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0683b,"SWM Services GmbH",,81371,München,DE,97.9,"Natural gas","Combined cycle",yes,1980,,48.1351253,11.5819806,11WD2SUE1000099L,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0683c,"SWM Services GmbH",,81371,München,DE,97.9,"Natural gas","Combined cycle",yes,1980,,48.1351253,11.5819806,11WD2SUE1000099L,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0684a,"SWM Services GmbH",,81371,München,DE,124.9,"Natural gas","Combined cycle",yes,2004,,48.1351253,11.5819806,11WD2SUE2000103B,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0684b,"SWM Services GmbH",,81371,München,DE,123.9,"Natural gas","Combined cycle",yes,2004,,48.1351253,11.5819806,11WD2SUE2000103B,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0684c,"SWM Services GmbH",,81371,München,DE,127.6,"Natural gas","Combined cycle",yes,2004,,48.1351253,11.5819806,11WD2SUE2000103B,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0685,"Stadtwerke Münster GmbH",,48145,Münster,DE,104.14,"Natural gas","Combined cycle",yes,2005,,51.950086,7.641276,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0688,"Neubrandenburger Stadtwerke GmbH",,17034,Neubrandenburg,DE,75,"Natural gas","Combined cycle",yes,1997,,53.5745,13.295142,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0702,"Bayernoil Raffineriegesellschaft mbH","Postfach 1252",93328,Neustadt,DE,25.4,"Natural gas","Steam turbine",yes,1996,,48.78789,11.75617,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0734,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,37.5,"Natural gas","Gas turbine",no,1989,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0735,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,37.5,"Natural gas","Gas turbine",no,,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0736,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,37.5,"Natural gas","Gas turbine",no,,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0737,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,37.5,"Natural gas","Gas turbine",no,,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0738,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,36.5,"Natural gas","Gas turbine",no,1987,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0739,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,36.5,"Natural gas","Gas turbine",no,1987,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0740,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,36.5,"Natural gas","Gas turbine",no,1987,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0741,"Lausitz Energie Kraftwerke AG",,15806,Nunsdorf,DE,36.5,"Natural gas","Gas turbine",no,1987,,52.23015,13.30195,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0742,"N-ERGIE AG","Sandreuthstr. 51",90441,Nürnberg,DE,75,"Natural gas","Combined cycle",yes,2005,,49.438611,11.060556,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0743,"N-ERGIE AG","Sandreuthstr. 51",90441,Nürnberg,DE,75,"Natural gas","Combined cycle",yes,2005,,49.438611,11.060556,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0744,"Uniper Kraftwerke GmbH ",,90449,Nürnberg,DE,383,"Natural gas","Combined cycle",no,1973,,49.420836,11.007737,11WD2GEBE000177K,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0745,"Uniper Kraftwerke GmbH ",,90449,Nürnberg,DE,440,"Natural gas","Combined cycle",no,1976,,49.420836,11.007737,11WD2GEBE000177K,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0752,"Energieversorgung Oberhausen AG",,46045,Oberhausen,DE,23.1,"Natural gas","Steam turbine",yes,1971,,51.470671,6.861598,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0753,"Energieversorgung Oberhausen AG",,46147,Oberhausen,DE,24.5,"Natural gas","Steam turbine",yes,1996,,51.470671,6.861598,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0755a,"Kraftwerk Obernburg GmbH",,63784,Obernburg,DE,40,"Natural gas","Combined cycle",yes,1920,IPP,49.82935,9.14824,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0755b,"Kraftwerk Obernburg GmbH",,63784,Obernburg,DE,60,"Natural gas","Combined cycle",yes,1995,IPP,49.82935,9.14824,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0799,"Heizkraftwerk Pforzheim GmbH","Hohwiesenweg 15",75175,Pforzheim,DE,11.3,"Natural gas","Steam turbine",yes,,,48.88316,8.6653,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0800,"Heizkraftwerk Pforzheim GmbH","Hohwiesenweg 15",75175,Pforzheim,DE,41.2,"Natural gas","Combined cycle",yes,1980,,48.88316,8.6653,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0804,"K+S AG",,36269,Philippsthal,DE,52,"Natural gas","Steam turbine",yes,2013,,50.8379786,9.9987787,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0805,"Kraftwerk Platting GmbH",,94447,Plattling,DE,118.5,"Natural gas","Combined cycle",yes,2010,IPP,48.78742,12.88246,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0810,"Uniper Kraftwerke GmbH ",,32457,"Porta Westfalica",DE,65,"Natural gas","Gas turbine",no,1974,,52.19004,8.93318,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0811,"Uniper Kraftwerke GmbH ",,32457,"Porta Westfalica",DE,335,"Natural gas","Steam turbine",no,1975,,52.18696,8.93018,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0814,"Energie und Wasser Potsdam GmbH",,14478,Potsdam,DE,81.8,"Natural gas","Steam turbine",yes,1996,,52.36605,13.11251,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0832,"FairEnergie GmbH","Hauffstraße 89 m",72762,Reutlingen,DE,9.84,"Natural gas","Combustion Engine",yes,2011,,48.49395,9.18563,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0834,"Solvay Chemicals GmbH",,47495,Rheinberg,DE,79,"Natural gas","Steam turbine",yes,1961,,51.56489,6.57824,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0842a,"Stadtwerke Rosenheim GmbH & Co. KG","Färberstraße 47",83022,Rosenheim,DE,9.81,"Natural gas","Combustion Engine",yes,2011,,47.856134,12.134085,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0842b,"Stadtwerke Rosenheim GmbH & Co. KG","Färberstraße 47",83022,Rosenheim,DE,9.2,"Natural gas","Combustion Engine",yes,2013,,47.85593,12.1341,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0843,"Stadtwerke Rosenheim GmbH & Co. KG","Oberaustraße 12",83026,Rosenheim,DE,4.3,"Natural gas","Combustion Engine",yes,2012,,47.856134,12.134085,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0848,"Stadtwerke Rostock AG",,18069,Rostock,DE,108,"Natural gas","Combined cycle",yes,1996,,54.125454,12.081897,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0856,"TWS Thüringer Wärme Service GmbH",,7407,Rudolstadt,DE,26.5,"Natural gas","Steam turbine",yes,1936,,50.686928,11.329303,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0857,"Opel Automobile GmbH ",,65429,Rüsselheim,DE,112.1,"Natural gas","Combined cycle",yes,1999,IPP,49.99204,8.41411,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0861a,"Energie SaarLorLux AG",,66121,Saarbrücken,DE,75,"Natural gas","Combined cycle",yes,2005,CHP,49.223899,7.014899,11WD7UCHT5XROSOK,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0893,"BASF Schwarzheide GmbH","Schipkauer Str.1",1987,Schwarzheide,DE,122,"Natural gas","Combined cycle",yes,1994,IPP,51.47617,13.8891,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0896,"Energieversorgung Schwerin GmbH & Co. Erzeugung KG",,19061,Schwerin,DE,44.9,"Natural gas","Steam turbine",yes,1994,,53.57787,11.39647,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0897,"Energieversorgung Schwerin GmbH & Co. Erzeugung KG",,19057,Schwerin,DE,23,"Natural gas","Steam turbine",yes,1994,,53.653917,11.372972,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0913,"Alpiq Spreetal GmbH",Südstraße,2979,Spreetal,DE,50,"Natural gas","Combined cycle",no,,,51.516748,14.366559,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0918a,"Dow Deutschland Anlagengesellschaft mbH",Bützflethersand,21683,Stade,DE,190,"Natural gas","Steam turbine",yes,,,53.6519197,9.5078665,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0918b,"Dow Deutschland Anlagengesellschaft mbH",Bützflethersand,21683,Stade,DE,157,"Natural gas","Combined cycle",yes,2015,IPP,53.6519197,9.5078665,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0922,"CIECH Energy Deutschland GmbH","Athenslebener Weg 57",39418,Staßfurt,DE,100,"Natural gas","Combined cycle",yes,2015,IPP,51.865527,11.573813,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0922a,"CIECH Energy Deutschland GmbH","Athenslebener Weg 57",39418,Staßfurt,DE,9,"Natural gas","Combined cycle",yes,,,51.59421,11.572945,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0933,"EnBW Energie Baden-Württemberg AG","Langwiesenweg 23",70376,Stuttgart,DE,55,"Natural gas","Gas turbine",no,,,48.782453,9.231483,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0957,"Stadtwerke Tübingen GmbH",,72072,Tübingen,DE,13.4,"Natural gas","Steam turbine",yes,2000,,48.510855,9.071463,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0994,"Gemeinschaftskraftwerk Irsching GmbH",,85088,Vohburg,DE,846,"Natural gas","Combined cycle",no,2010,,48.76702,11.580033,11WD2IRSC000179N,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0995,"Uniper Kraftwerke GmbH ",,85088,Vohburg,DE,561,"Natural gas","Combined cycle",no,2011,,48.76702,11.580033,11WD2IRSC000179N,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1023,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,200,"Natural gas","Gas turbine",no,2006,,50.839167,6.321111,11WD7WEIS-B-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1024,"RWE Power AG",,52249,Eschweiler-Weisweiler,DE,200,"Natural gas","Gas turbine",no,2006,,50.839167,6.321111,11WD7WEIS-B-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1039,"RWE Generation SE",,59368,Werne,DE,55,"Natural gas","Combined cycle",no,1973,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1040,"RWE Generation SE",,59368,Werne,DE,55,"Natural gas","Combined cycle",no,1973,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1041,"RWE Generation SE",,59368,Werne,DE,55,"Natural gas","Steam turbine",no,1973,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1042,"RWE Generation SE",,59368,Werne,DE,55,"Natural gas","Steam turbine",no,1973,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1043,"RWE Generation SE",,59368,Werne,DE,355,"Natural gas","Steam turbine",no,1973,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1044,"RWE Generation SE",,59368,Werne,DE,355,"Natural gas","Combined cycle",no,1973,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1045,"RWE Generation SE",,59368,Werne,DE,355,"Natural gas","Combined cycle",no,1973,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1046b,"RWE Generation SE",,59368,Werne,DE,112,"Natural gas","Gas turbine",no,1984,,51.672453,7.709947,11WD7GERS-X-KW-C,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1056,"InfraServ GmbH & Co. Wiesbaden KG",,65203,Wiesbaden,DE,25.015,"Natural gas","Steam turbine",yes,2006,,50.040546,8.253248,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1074,"envia THERM GmbH",,6766,Wolfen,DE,40,"Natural gas","Steam turbine",no,1997,,51.643127,12.228892,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1078,"Palm Power GmbH & Co. KG","Am Oberwald 2",76744,Wörth,DE,59,"Natural gas","Steam turbine",yes,2007,,49.06996,8.30702,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1082,"WSW Energie & Wasser AG",,42275,Wuppertal,DE,88.019,"Natural gas","Combined cycle",yes,2005,,51.268889,7.200278,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1085,"Heizkraftwerk Würzburg GmbH","Veitshöchheimer Str. 1",97080,Würzburg,DE,23,"Natural gas","Steam turbine",yes,1971,,49.800041,9.923136,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1086,"Heizkraftwerk Würzburg GmbH","Veitshöchheimer Str. 1",97080,Würzburg,DE,25,"Natural gas","Steam turbine",yes,1993,,49.800041,9.923136,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1087,"Heizkraftwerk Würzburg GmbH","Veitshöchheimer Str. 1",97080,Würzburg,DE,29.5,"Natural gas","Gas turbine",yes,2009,,49.800041,9.923136,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1088,"Heizkraftwerk Würzburg GmbH","Veitshöchheimer Str. 1",97080,Würzburg,DE,44.5,"Natural gas","Gas turbine",yes,2005,,49.800041,9.923136,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1089,"K+S AG",,39326,Zielitz,DE,27,"Natural gas","Steam turbine",yes,1996,,52.29848,11.67963,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1094,"Smurfit Kappa Zülpich Papier GmbH","Bessenicher Weg",53910,Zülpich,DE,15.1,"Natural gas","Steam turbine",yes,1996,,50.7055,6.65362,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1103,"UPM GmbH Werk Augsburg","Georg-Heindl-Strasse 4",86153,Augsburg,DE,29,"Natural gas","Steam turbine",yes,1967,,48.38008,10.90143,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1104,"Stadtwerke Augsburg Energie GmbH","Franziskanergasse 9",86152,"Augsburg ",DE,20.4,"Natural gas","Steam turbine",yes,1976,,48.37509,10.90277,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1105,"TEAG Thüringer Energie AG",,36433,"Bad Salzungen",DE,9.7,"Natural gas","Steam turbine",yes,1994,,50.800266,10.220563,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1117,"Pirelli Deutschland GmbH","Höchster Str. 48-60",64747,Breuberg,DE,11.4,"Natural gas","Steam turbine",yes,1999,,49.81082,9.01169,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1120,"RÜTGERS Germany GmbH","Kekulestraße 30",44579,Castrop-Rauxel,DE,10.2,"Natural gas","Gas turbine",yes,1991,,51.57442,7.29794,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1121,"RÜTGERS Germany GmbH","Kekulestraße 30",44579,Castrop-Rauxel,DE,0.9,"Natural gas","Steam turbine",yes,2005,,51.57442,7.29794,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1125,"Merck KGaA","Frankfurter Str. 250",64293,"Darmstadt ",DE,10,"Natural gas","Gas turbine",yes,1999,,49.8828183,8.628718585,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1127,"GHD Bayernwerk Natur GmbH & Co. KG","Landshuter Straße 56",84130,Dingolfing,DE,6.7,"Natural gas","Gas turbine",yes,1997,,48.640307,12.463436,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1128,"GHD Bayernwerk Natur GmbH & Co. KG","Landshuter Straße 56",84130,Dingolfing,DE,6.7,"Natural gas","Gas turbine",yes,1997,,48.640307,12.463436,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1131,"Metsä Tissue GmbH (Werk Düren)","Veldener Strasse 121 - 131",52349,Düren,DE,14,"Natural gas","Steam turbine",yes,1940,,50.77284,6.49003,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1138,"Stadtwerke Erkrath GmbH","Klinkerweg 4",A-40699,Erkrath,DE,10.2,"Natural gas","Steam turbine",yes,2000,,51.21686,6.94733,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1151,"innogy SE","Neuenheimer Feld 530",69120,Heidelberg,DE,13.5,"Natural gas","Steam turbine",yes,2001,,49.42158,8.67284,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1165,"Pfeifer & Langen GmbH & Co. KG","Reeser Str 280-300",47546,Kalkar,DE,11.4,"Natural gas","Steam turbine",yes,2002,,51.72967,6.35865,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1182,"RheinEnergie AG",,50769,Köln,DE,15.5,"Natural gas","Steam turbine",yes,2010,,51.017899,6.964045,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1183,"RheinEnergie AG",,51109,Köln,DE,15.8,"Natural gas","Combined cycle",yes,2001,,50.94308239,7.085239192,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1187,"Pfeifer & Langen GmbH & Co. KG","Heidensche Str. 70",32791,Lage,DE,10.2,"Natural gas","Steam turbine",yes,2017,,51.98614,8.80732,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1193,"Stadtwerke Lemgo GmbH","Liemer Weg 71",32657,"Lemgo ",DE,12.6,"Natural gas","Steam turbine",yes,2001,,52.026244,8.866597,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1196a,"MVV Energie AG","Giulinistraße 2",67065,Ludwigshafen,DE,12.5,"Natural gas","Steam turbine",yes,2008,,49.45308,8.43364,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1196b,"MVV Energie AG","Giulinistr. 2",67065,Ludwigshafen,DE,11.96,"Natural gas","Combined cycle",yes,2003,,49.453181,8.433592,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1200,"Energie- und Medienversorgung Sandhofer Straße GmbH & Co. KG",,68305,Mannheim,DE,17.2,"Natural gas","Combined cycle",yes,2005,,49.53071,8.47088,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1225,"Peißenberger Wärmegesellschaft mbH",,82380,Peißenberg,DE,5.3,"Natural gas","Steam turbine",yes,1989,,47.789499,11.055371,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1226,"Peißenberger Wärmegesellschaft mbH",,82380,Peißenberg,DE,5.3,"Natural gas","Steam turbine",yes,1987,,47.789499,11.055371,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1238,"Molkerei MEGGLE Wasserburg GmbH & Co. KG","Megglestraße 6 - 12",83512,Reitmehring,DE,15.1,"Natural gas","Steam turbine",yes,2000,,48.056351,12.185174,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1248a,"UPM GmbH","Friedrich-Haindl-Strasse 10",86956,Schongau,DE,64,"Natural gas","Steam turbine",yes,1954,,47.80811,10.90251,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1248b,"UPM GmbH","Friedrich-Haindl-Strasse 10",86956,Schongau,DE,76,"Natural gas","Steam turbine",yes,2014,,47.80811,10.90251,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1260,"Daimler AG",,71059,Sindelfingen,DE,95,"Natural gas","Steam turbine",yes,2013,CHP,48.697222,8.999167,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1264,"Stadtwerke Suhl/Zella-Mehlis GmbH","Fröhliche-Mann-Straße 2",98528,Suhl,DE,13.5,"Natural gas","Steam turbine",yes,1995,,50.6315,10.69866,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1271,"K+S AG",,36414,Unterbreizbach,DE,20,"Natural gas","Steam turbine",yes,1995,,50.81319,9.97752,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1279,"Basell Polyolefine GmbH",,50389,Wesseling,DE,51.9,"Natural gas","Gas turbine",yes,1996,,50.83051,6.95936,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1284,"Grace GmbH","In der Hollerhecke 1",67547,Worms,DE,11.5,"Natural gas","Steam turbine",yes,1991,,49.66328,8.35894,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1285,"K+S AG",,31515,Wunstorf,DE,11,"Natural gas","Steam turbine",yes,1974,,52.41852,9.36815,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1292b,"Sales & Solutions GmbH","Alexanderstr. 8",89522,Heidenheim,DE,18.9,"Natural gas","Steam turbine",yes,2014,,48.670061,10.150584,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1293c,"Martinswerk GmbH","Kölner Straße 110",50127,Bergheim,DE,3,"Natural gas","Steam turbine",yes,1995,,50.94563,6.66496,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1315,"Universitätsklinikum Freiburg AdöR","Hartmannstrasse 1",79106,Freiburg,DE,27,"Natural gas","Steam turbine",yes,2001,,48.00557217,7.842279817,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1327a,"Flughafen München GmbH","nicht öffentlicher Bereich (Btl. 145.01)",85326,München,DE,9.5,"Natural gas","Steam turbine",yes,1992,,48.3591,11.7903,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1327b,"Terminal 2 Gesellschaft mbH & Co oHG","nicht öffentlicher Bereich (Btl. 145.01)",85326,München,DE,7.44,"Natural gas","Steam turbine",yes,2003,,48.3591,11.7903,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1328,"HBB Heizkraftwerk Bauernfeind Betreibergesellschaft mbh","Rosenheimer Str. 37",83064,Raubling,DE,24,"Natural gas","Steam turbine",yes,2001,,47.79598,12.11927,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1329,"Kübler & Niethammer Papierfabrik Kriebstein AG","Bauhofstr. 1",9648,Kriebstein,DE,13.11,"Natural gas","Combined cycle",yes,1993,,51.05135,13.01661,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1332,"INEOS Solvents Germany GmbH","Römerstr. 733",47443,Moers,DE,24,"Natural gas","Steam turbine",yes,1995,,51.46935,6.64358,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1333a,"Universität Stuttgart","Pfaffenwaldring 8",70569,Stuttgart,DE,12.181,"Natural gas","Steam turbine",yes,1988,,48.75081,9.1103,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1333b,"Universität Stuttgart","Pfaffenwaldring 8",70569,Stuttgart,DE,11.3377,"Natural gas","Steam turbine",yes,1969,,48.75081,9.1103,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1333c,"Universität Stuttgart","Pfaffenwaldring 8",70569,Stuttgart,DE,11.6188,"Natural gas","Steam turbine",yes,1968,,48.75081,9.1103,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1334,"CR3-Kaffeeveredelung M. Hermsen GmbH","Waterbergstraße 14",28237,Bremen,DE,14.8,"Natural gas","Combined cycle",yes,2002,,53.12099,8.734776,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1335a,"Papier- u. Kartonfabrik Varel GmbH & Co. KG","Dangaster Straße 38",26316,Varel,DE,58.1,"Natural gas","Steam turbine",yes,1989,,53.40317,8.12821,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1335b,"Papier- u. Kartonfabrik Varel GmbH & Co. KG","Dangaster Straße 38",26316,Varel,DE,0.48,"Natural gas","Steam turbine",no,1968,,53.40317,8.12821,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1336,"Henkel AG & Co. KGaA","Henkelstr. 67",40589,Düsseldorf,DE,84,"Natural gas","Steam turbine",yes,1948,,51.17565,6.83805,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1337a,"DS Smith Paper Deutschland GmbH","Weichertstr. 7",63741,Aschaffenburg,DE,27,"Natural gas","Steam turbine",yes,,,49.988218,9.155761,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1337e,"DS Smith Paper Deutschland GmbH","Weichertstr. 7",63741,Aschaffenburg,DE,47,"Natural gas","Combined cycle",yes,2013,,49.988218,9.155761,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1396,"Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG","Boxdorf, Ringstr. 3",1468,Moritzburg,DE,34.3,"Natural gas","Steam turbine",yes,1998,,51.12697,13.715,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1400b,"Südzucker AG, Werk Zeitz","Albrechtstr. 54",6712,Zeitz,DE,23.3,"Natural gas","Steam turbine",no,1993,,51.04885,12.11038,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1402,"Delkeskamp Verpackungswerke GmbH","Hauptstrasse 15",49638,Nortrup,DE,18.1,"Natural gas","Steam turbine",yes,1996,,52.61796,7.86188,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1403,"Neptune Energy Deutschland GmbH","Bobbenmärsche 11 ",29416,Steinitz,DE,11.4,"Natural gas","Steam turbine",yes,1999,,52.83005,11.10328,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1406,"FS-Karton GmbH","Düsseldorfer Str. 182-184",41460,Neuss,DE,18.879,"Natural gas","Steam turbine",yes,1992,,51.2171,6.69654,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1407,"Schoeller Technocell GmbH & Co. KG","Fabrikstraße 1",9600,Weißenborn,DE,18.72,"Natural gas","Steam turbine",yes,1997,,50.87413,13.39436,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1408,"Evonik Degussa GmbH","Untere Kanalstraße 3",79618,Rheinfelden,DE,15.68,"Natural gas","Steam turbine",yes,1979,,47.570794,7.807192,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1437,"Aluminium Oxid Stade GmbH","Johann- Rathje- Köser- Straße",21683,"Stade- Bützfleth",DE,30.72,"Natural gas","Gas turbine",yes,2012,,53.65752,9.50198,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1444a,"Prinovis GmbH & Co. KG","Breslauer Str. 300",90471,Nürnberg,DE,4.2,"Natural gas","Gas turbine",yes,1993,,49.40593,11.13286,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1444b,"Prinovis GmbH & Co. KG","Breslauer Str. 300",90471,Nürnberg,DE,4.2,"Natural gas","Gas turbine",yes,1993,,49.40593,11.13286,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1444c,"Prinovis GmbH & Co. KG","Breslauer Str. 300",90471,Nürnberg,DE,5.1,"Natural gas","Gas turbine",yes,1994,,49.40593,11.13286,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1444d,"Prinovis GmbH & Co. KG","Breslauer Str. 300",90471,Nürnberg,DE,5.1,"Natural gas","Gas turbine",yes,1995,,49.40593,11.13286,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1450,"DREWSEN SPEZIALPAPIERE GmbH & Co. KG","Georg-Drewsen-Weg 2",29331,Lachendorf,DE,13,"Natural gas","Combined cycle",yes,2000,,52.623451,10.245655,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1464,"ZF Friedrichshafen AG","Untertürkheimer Straße 5",66117,Saarbrücken,DE,38.61,"Natural gas","Steam turbine",yes,2012,,49.213706,6.97813,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1465d,"DS Smith Paper Deutschland GmbH","Kasseler Landstr. 23",37213,Witzenhausen,DE,13.2,"Natural gas","Steam turbine",yes,1990,,51.31981075,9.848941452,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1487,"Entega AG","Frankfurter Str. 100",64293,Darmstadt,DE,94.6,"Natural gas","Gas turbine",no,2013,,49.884879,8.650067,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1489,"Stadtwerke - Altmärkische Gas-, Wasser- u. E-Werke Stendal GmbH",Schillerstraße,39576,Stendal,DE,13.2,"Natural gas","Steam turbine",yes,1994,,52.6087132,11.8324507,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1492a,"Papierfabrik Adolf Jass GmbH & Co. KG","Hermann-Muth-Str. 6",36039,Fulda,DE,26.2,"Natural gas","Steam turbine",yes,2012,,50.56912,9.68128,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1492b,"Papierfabrik Adolf Jass GmbH & Co. KG","Hermann-Muth-Str. 6",36039,Fulda,DE,7.5,"Natural gas","Steam turbine",yes,1982,,50.56912,9.68128,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1498,"Nordzucker AG, Werk Nordstemmen","Calenberger Str. 36",31171,Nordstemmen,DE,30.6,"Natural gas","Steam turbine",yes,1953,,52.16921,9.7909,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1499,"Nordzucker AG, Werk Clauen","Zuckerfabrik 3",31249,Hohenhameln,DE,17.11,"Natural gas","Steam turbine",yes,2003,,52.2321963,10.033285,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1502,"SWK ENERGIE GmbH",,47804,Krefeld,DE,12.6,"Natural gas","Steam turbine",yes,2011,,51.3387609,6.5853417,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1503,"Daimler AG","Rather Str. 51",40476,Düsseldorf,DE,21.1,"Natural gas","Steam turbine",yes,2012,,51.25454,6.78648,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1504,"Daimler AG","Daimler Str. 1",76742,Woerth,DE,13.04,"Natural gas","Steam turbine",yes,2013,,49.047474,8.281602,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1505,"Opel Automobile GmbH",Adam-Opel-Str.,99817,Eisenach,DE,22.1,"Natural gas","Steam turbine",yes,1993,,50.9815566,10.2905599,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1506,"Nordzucker AG","Magdeburger Landstraße 1 bis 5",39164,"Klein Wanzleben",DE,23.4,"Natural gas","Steam turbine",no,1994,,52.070093,11.385306,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1509,"BP Europa SE",Raffineriestrasse,49808,Lingen,DE,66,"Natural gas","Steam turbine",yes,1996,,52.560606,7.295164,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1516,"Südzucker AG Mannheim","Wormser Straße 11",67283,Obrigheim,DE,30,"Natural gas","Steam turbine",yes,1961,,49.59914,8.22096,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1523a,"Moritz J. Weig GmbH & Co KG","Polcher Str. 113",56727,Mayen,DE,11.4,"Natural gas","Combined cycle",yes,1992,,50.321134,7.233907,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1523b,"Moritz J. Weig GmbH & Co KG","Polcher Str. 113",56727,Mayen,DE,27.4,"Natural gas","Combined cycle",yes,2013,,50.321134,7.233907,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1523d,"Moritz J. Weig GmbH & Co KG","Polcher Str. 113",56727,Mayen,DE,8.4,"Natural gas","Steam turbine",yes,1971,,50.321134,7.233907,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1524,"Sales & Solutions GmbH","Industriepark Walsrode,  August-Wolff-Str. 13",29699,Bomlitz,DE,12.75,"Natural gas","Steam turbine",yes,1969,,52.904778,9.658513,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1531,"Industriekraftwerk Greifswald GmbH",,17509,Lubmin,DE,38,"Natural gas","Steam turbine",yes,2013,,54.137883,13.667149,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1541,"Freiberger Erdgas GmbH",,9599,Freiberg,DE,13.4,"Natural gas","Steam turbine",yes,2013,,50.913038,13.324848,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1658,"Stadtwerke Lemgo GmbH","Bruchweg 24",32657,Lemgo,DE,10.1,"Natural gas","Steam turbine",yes,1980,,52.029657,8.907163,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1676,"Evonik Degussa GmbH","Paul-Baumann-Str. 1",45772,Marl,DE,60.76,"Natural gas","Steam turbine",yes,2016,,51.68037,7.09688,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1677,"Volkswagen AG","Berliner Ring",38436,Wolfsburg,DE,10.4,"Natural gas","Steam turbine",yes,2014,,52.295298,10.521672,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1678,"Flughafen München GmbH",,85326,München,DE,16.8,"Natural gas","Steam turbine",yes,2014,,48.354126,11.77452,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1817,"Stadtwerke Düsseldorf AG","Auf der Lausward 75",40221,Düsseldorf,DE,595,"Natural gas","Combined cycle",yes,2016,,51.223975,6.73537,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1818,"RheinEnergie AG",,50735,Köln,DE,459.9,"Natural gas","Steam turbine",yes,2016,,50.974896,6.987769,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1819,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,78,"Natural gas","Combined cycle",yes,2016,CHP,54.804777,9.433357,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1820,"Gemeinschaftskraftwerk Bremen GmbH und Co. KG",,28237,Bremen,DE,444.5,"Natural gas","Combined cycle",no,2016,,53.12891,8.68524,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1821,"Bayer AG","Fennstr. 22",13353,Berlin,DE,15,"Natural gas","Steam turbine",yes,1972,,52.53931,13.363904,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1859,"Ford-Werke GmbH",,66740,Saarlouis,DE,22,"Natural gas","Steam turbine",yes,2016,,49.346652,6.765101,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1861,"BMW AG",Herbert-Quandt-Allee,93055,Regensburg,DE,10.6,"Natural gas","Steam turbine",yes,2012,,48.980011,12.17025,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1862,"BMW AG",Herbert-Quandt-Allee,93055,Regensburg,DE,2.65,"Natural gas","Steam turbine",yes,2016,,48.980011,12.17025,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1863,"Fresenius Medical Care Deutschland GmbH","Frankfurter Straße 6-8",66606,"St. Wendel",DE,19.5,"Natural gas","Gas turbine",yes,2014,,49.464184,7.148897,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1868,"Mainova AG","Gutleutstraße 231",60327,"Frankfurt am Main",DE,38.7,"Natural gas","Steam turbine",yes,2018,,50.098562,8.65308,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1873,"BMW AG","Landshuter Strasse 56",84130,Dingolfing,DE,16,"Natural gas","Steam turbine",yes,2017,,48.6445613,12.482933,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1904,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,29,"Natural gas","Steam turbine",yes,2016,,54.80499185,9.430484771,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1909,"EnBW Energie Baden-Württemberg AG",,70188,Stuttgart,DE,29.151,"Natural gas","Steam turbine",yes,2018,,48.7784485,9.1800132,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1911,"DREWAG Stadtwerke Dresden GmbH","Hermann-Mende-Straße, 2",1099,"Dresden ",DE,11.5,"Natural gas","Steam turbine",yes,2018,,51.0867428,13.7647348,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1925,"ENGIE Deutschland GmbH",,7546,Gera,DE,17.3,"Natural gas","Steam turbine",yes,2018,,50.8772301,12.0796208,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1926,"ENGIE Deutschland GmbH",,7549,Gera,DE,22.1,"Natural gas","Steam turbine",yes,2018,,50.8772301,12.0796208,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1927,"TEAG Thüringer Energie AG",,36433,"Bad Salzungen",DE,10,"Natural gas","Steam turbine",yes,2018,,50.812318,10.2320784,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1934,"BMW AG","Ohmstraße 2",84030,Landshut,DE,17.6,"Natural gas","Steam turbine",yes,2019,,48.5581138,12.1485812,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1935,"Vattenfall Wärme Berlin AG",,12207,Berlin,DE,289,"Natural gas","Steam turbine",yes,2019,,52.42224307,13.31271298,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1937,"Mainova AG","Gutleutstraße 231",60327,"Frankfurt am Main",DE,38.7,"Natural gas","Steam turbine",yes,2018,,50.0990671,8.653584479,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1938,"Papierfabrik Palm GmbH & Co. KG",,73432,Aalen,DE,15,"Natural gas","Steam turbine",yes,1960,,48.8362705,10.0931765,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1944,"BMW AG","Landshuter Straße 56",84130,Dingolfing,DE,13.5,"Natural gas","Steam turbine",yes,2019,,48.6445613,12.482933,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1945,"Stadtwerke Kiel AG","Hasselfelde 30",24149,Kiel,DE,188,"Natural gas","Steam turbine",yes,2019,,54.3428381,10.182981,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA1946,"BMW AG","Lerchennauerstraße 76",80809,München,DE,13.5,"Natural gas","Steam turbine",yes,2019,,48.179774,11.561399,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNa1947,"BMW AG","Knorrstraße 147",80937,München,DE,13.6,"Natural gas","Steam turbine",yes,2019,,48.1941688,11.5707734,,"Fossil fuels","Natural gas",,,,BNetzA/UBA
+BNA0157,"Preussen Elektra GmbH",,25576,Brokdorf,DE,1410,Nuclear,"Steam turbine",no,1986,,53.851095,9.345944,11WD2BRKW000294C,Nuclear,,,,,BNetzA/UBA
+BNA0251,"Preussen Elektra GmbH",,31857,Emmerthal,DE,1360,Nuclear,"Steam turbine",no,1985,,52.035641,9.413497,11WD2GHKW000296G,Nuclear,,,,,BNetzA/UBA
+BNA0263,"Preussen Elektra GmbH",,84051,Essenbach,DE,1410,Nuclear,"Steam turbine",no,1988,,48.6046,12.29507,11WD2ISKW000299Q,Nuclear,,,,,BNetzA/UBA
+BNA0355,"E.ON Kernkraft GmbH",,97506,Grafenrheinfeld,DE,1275,Nuclear,"Steam turbine",no,,,49.984424,10.181753,,Nuclear,,,,,BNetzA/UBA
+BNA0381,"RWE Power AG",,89355,Gundremmingen,DE,1284,Nuclear,"Steam turbine",no,1984,,48.51504,10.4015648,11WD7KRBG1K-KW-V,Nuclear,,,,,BNetzA/UBA
+BNA0382,"RWE Power AG",,89355,Gundremmingen,DE,1288,Nuclear,"Steam turbine",no,1984,,48.51608,10.39822,11WD7KRBG1K-KW-V,Nuclear,,,,,BNetzA/UBA
+BNA0607,"RWE Power AG",,49811,Lingen,DE,1336,Nuclear,"Steam turbine",no,1988,,52.481878,7.306658,11WD7KKE-1K--KW5,Nuclear,,,,,BNetzA/UBA
+BNA0686,"EnBW Energie Baden-Württemberg AG","Im Steinbruch",74382,Neckarwestheim,DE,1310,Nuclear,"Steam turbine",no,1989,,49.041111,9.175,11WD4GKNK1S----S,Nuclear,,,,,BNetzA/UBA
+BNA0802,"EnBW Energie Baden-Württemberg AG",Rheinschanzinsel,76661,Philippsburg,DE,1402,Nuclear,"Steam turbine",no,1985,,49.252722,8.435436,11WD4KKP21N-S--O,Nuclear,,,,,BNetzA/UBA
+BNA0012d,"Sappi Alfeld GmbH","Mühlenmarsch 1",31061,Alfeld,DE,2.8,Oil,"Steam turbine",no,1994,,51.98513,9.82246,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0083,"Vattenfall Wärme Berlin AG","Forckenbeckstr. 3 - 6",14199,Berlin,DE,184,Oil,"Gas turbine",yes,1977,,52.48159366,13.30761909,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0083,"Vattenfall Wärme Berlin AG","Forckenbeckstr. 3 - 6",14199,Berlin,DE,92,Oil,"Gas turbine",yes,1977,,52.48159366,13.30761909,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0085b,"Vattenfall Wärme Berlin AG","Friedrich-Krause-Ufer 10- 15",13353,Berlin,DE,34,Oil,"Gas turbine",no,1971,,52.53735111,13.34611416,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0085b,"Vattenfall Wärme Berlin AG","Friedrich-Krause-Ufer 10- 15",13353,Berlin,DE,17,Oil,"Gas turbine",no,1971,,52.53735111,13.34611416,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0141,"swb Erzeugung AG & Co. KG","Auf den Delben 35",28237,Bremen,DE,86,Oil,"Gas turbine",no,1975,,53.12891,8.68524,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0161,"Vattenfall Europe Nuclear Energy GmbH","Otto Hahn Str. 76",25541,Brunsbüttel,DE,63.5,Oil,"Gas turbine",no,,,53.89251924,9.201135635,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0162,"Vattenfall Europe Nuclear Energy GmbH","Otto Hahn Str. 76",25541,Brunsbüttel,DE,63.5,Oil,"Gas turbine",no,,,53.89251924,9.201135635,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0163,"Vattenfall Europe Nuclear Energy GmbH","Otto Hahn Str. 76",25541,Brunsbüttel,DE,63.5,Oil,"Gas turbine",no,,,53.89251924,9.201135635,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0164,"Vattenfall Europe Nuclear Energy GmbH","Otto Hahn Str. 76",25541,Brunsbüttel,DE,63.5,Oil,"Gas turbine",no,,,53.89251924,9.201135635,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0222,"Stadtwerke Düsseldorf AG","Behrenstraße 85",40233,Düsseldorf,DE,86.2,Oil,"Gas turbine",no,1972,,51.222794,6.813696,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0269,"Stadtwerke Flensburg GmbH","Batteriestr. 48",24939,Flensburg,DE,30,Oil,"Combined cycle",yes,,CHP,54.80506,9.43238,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0318,"RhönEnergie Fulda GmbH",,36043,Fulda,DE,24.8,Oil,"Steam turbine",no,2011,,50.56636,9.68614,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0369,"envia THERM GmbH",,4668,Großbothen,DE,17,Oil,"Steam turbine",no,1995,,51.161368,12.781496,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0373,"envia THERM GmbH",,6242,Großkayna,DE,120,Oil,"Gas turbine",no,1994,,51.29192,11.94645,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0378,"Uniper Kraftwerke GmbH ",,85098,Großmehring,DE,386,Oil,"Steam turbine",no,1973,,48.761412,11.503001,11WD2INGO0001783,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0379,"Uniper Kraftwerke GmbH ",,85098,Großmehring,DE,386,Oil,"Steam turbine",no,1974,,48.761412,11.503001,11WD2INGO0001783,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0427,"Peissenberger Kraftwerksgesellschaft mbH",,83734,Hausham,DE,23.4,Oil,"Gas turbine",no,1982,,47.752396,11.839802,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0428,"Peissenberger Kraftwerksgesellschaft mbH",,83734,Hausham,DE,23.4,Oil,"Gas turbine",no,1982,,47.752396,11.839802,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0429,"Peissenberger Kraftwerksgesellschaft mbH",,83734,Hausham,DE,23.4,Oil,"Gas turbine",no,1982,,47.752396,11.839802,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0430,"Peissenberger Kraftwerksgesellschaft mbH",,83734,Hausham,DE,23.4,Oil,"Gas turbine",no,1982,,47.752396,11.839802,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0516,"MiRO Mineraloelraffinerie Oberrhein GmbH & Co. KG",,76187,Karlsruhe,DE,45,Oil,"Steam turbine",yes,1995,,49.06081,8.32439,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0517,"MiRO Mineraloelraffinerie Oberrhein GmbH & Co. KG",,76187,Karlsruhe,DE,25,Oil,"Steam turbine",yes,1995,,49.06081,8.32439,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0547,"Shell Deutschland Oil GmbH","Godorfer Hauptstr. 150",50997,Köln,DE,97.1,Oil,"Combined cycle",yes,2004,IPP,50.85475,6.98084,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0596,"TOTAL Raffinerie Mitteldeutschland GmbH",,6237,Leuna,DE,92.5,Oil,"Combined cycle",yes,1997,IPP,51.29976,12.0193,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0647,"EnBW Energie Baden-Württemberg AG","Thomas-Alva-Edison-Ring 6",71672,Marbach,DE,77.4,Oil,"Gas turbine",no,1971,,48.927497,9.230005,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0648,"EnBW Energie Baden-Württemberg AG","Thomas-Alva-Edison-Ring 6",71672,Marbach,DE,85,Oil,"Combined cycle",no,1975,,48.927497,9.230005,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0649,"EnBW Energie Baden-Württemberg AG","Thomas-Alva-Edison-Ring 6",71672,Marbach,DE,263.5,Oil,"Combined cycle",no,1975,,48.927497,9.230005,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0759,"Uniper Kraftwerke GmbH ",,25588,Oldendorf,DE,88,Oil,"Steam turbine",no,1972,,53.966422,9.449486,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0766,"Uniper Kraftwerke GmbH ",,24783,Osterrönfeld,DE,87,Oil,"Steam turbine",no,1973,,54.290672,9.722775,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0894a,"PCK Raffinerie GmbH",,16303,"PCK Schwedt",DE,28,Oil,"Steam turbine",yes,1972,,53.09818,14.23454,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0894b,"PCK Raffinerie GmbH",,16303,"PCK Schwedt",DE,34.5,Oil,"Steam turbine",no,1994,,53.09818,14.23454,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0894c,"PCK Raffinerie GmbH",,16303,"PCK Schwedt",DE,106,Oil,"Steam turbine",yes,1998,,53.09818,14.23454,11WD8SCHW5X----D,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0894d,"PCK Raffinerie GmbH",,16303,"PCK Schwedt",DE,106,Oil,"Steam turbine",yes,1998,,53.09818,14.23454,11WD8SCHW5X----D,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0894e,"PCK Raffinerie GmbH",,16303,"PCK Schwedt",DE,59,Oil,"Steam turbine",no,2011,,53.09818,14.23454,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0937,"EnBW Energie Baden-Württemberg AG","Voltastraße 45",70376,Stuttgart,DE,23.3,Oil,"Steam turbine",no,1974,CHP,48.815833,9.221111,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0938,"EnBW Energie Baden-Württemberg AG","Voltastraße 45",70376,Stuttgart,DE,23.3,Oil,"Steam turbine",no,1974,CHP,48.815833,9.221111,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0939b,"EnBW Energie Baden-Württemberg AG","Voltastraße 45",70376,Stuttgart,DE,23.3,Oil,"Steam turbine",no,1974,CHP,48.815833,9.221111,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0993,"Uniper Kraftwerke GmbH ",,85088,Vohburg,DE,415,Oil,"Steam turbine",no,1974,,48.76702,11.580033,11WD2IRSC000179N,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1004,"EnBW Energie Baden-Württemberg AG",Mühlstraße,74399,Walheim,DE,136,Oil,"Gas turbine",no,1981,,49.017472,9.157389,11WD4WALK5G----E,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1007a,"Allgäuer Überlandwerk GmbH",13,87448,Waltenhofen-Veits,DE,24,Oil,"Gas turbine",no,1988,,47.683464,10.31911,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1007b,"Allgäuer Überlandwerk GmbH",13,87448,Waltenhofen-Veits,DE,10.5,Oil,"Steam turbine",no,1978,,47.683464,10.31911,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1015,"Vattenfall Hamburg Wärme GmbH",,22880,Wedel,DE,50.5,Oil,"Gas turbine",no,1972,,53.56625104,9.728479385,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1016,"Vattenfall Hamburg Wärme GmbH",,22880,Wedel,DE,50.5,Oil,"Gas turbine",no,1972,,53.56625104,9.728479385,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1036,"Mark-E AG",,58791,Werdohl,DE,206,Oil,"Steam turbine",no,1975,,51.27559,7.70637,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1060,"Uniper Kraftwerke GmbH ",,26386,Wilhelmshaven,DE,56,Oil,"Gas turbine",no,1973,,53.565819,8.146245,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1083,"WSW Energie & Wasser AG",,42275,Wuppertal,DE,60,Oil,"Combined cycle",no,2008,,51.268889,7.200278,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1092,"ENGIE Deutschland AG","Leininger Str. 1",85406,Zolling,DE,50,Oil,"Gas turbine",no,1976,,48.45534,11.8019,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1166,"Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA)","Graftstr. 25",47475,Kamp-Lintfort,DE,4.8,Oil,"Steam turbine",no,1997,,51.52242,6.57467,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1212,"Vereinigte Wertach-Elektrizitätswerke GmbH","Mindelmähderweg 10",87719,Mindelheim,DE,11.4,Oil,"Steam turbine",no,1988,,48.062671,10.486643,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1227,"Vereinigte Wertach-Elektrizitätswerke GmbH","Am Kraftwerk 1",87666,Pforzen,DE,11.4,Oil,"Steam turbine",no,1978,,47.912537,10.61174,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1280,"Basell Polyolefine GmbH",,50389,Wesseling,DE,90,Oil,"Steam turbine",yes,1962,,50.83051,6.95936,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1293d,"Martinswerk GmbH","Kölner Straße 110",50127,Bergheim,DE,0.8,Oil,"Steam turbine",no,1995,,50.94563,6.66496,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1294,"Nynas GmbH & Co KG ","Hohe-Schaar-Straße 34",21107,Hamburg,DE,38,Oil,"Steam turbine",yes,1994,,53.485203,9.969562,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1337d,"DS Smith Paper Deutschland GmbH","Weichertstr. 7",63741,Aschaffenburg,DE,0.5,Oil,"Steam turbine",,1991,,49.988218,9.155761,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA1338,"Eurowatt Spitzenkraft GmbH","Ruselbergstr. 87",94469,Deggendorf,DE,19,Oil,"Steam turbine",yes,,,48.85906,13.00692,,"Fossil fuels",Oil,,,,BNetzA/UBA
+BNA0142,"ArcelorMittal Bremen GmbH","Auf den Delben 35",28237,Bremen,DE,160,"Other fuels","Steam turbine",no,1975,,53.12891,8.68524,11WD2BMIT0002731,Other,"Other fuels",,,,BNetzA/UBA
+BNA0143,"swb Erzeugung GmbH & Co. KG","Auf den Delben 35",28237,Bremen,DE,110,"Other fuels","Steam turbine",no,,,53.12891,8.68524,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0217,"ThyssenKrupp Steel Europe AG",,47166,"Duisburg - Ruhrort",DE,60,"Other fuels","Steam turbine",yes,1955,,51.459673,6.730574,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0218,"ThyssenKrupp Steel Europe AG",,47166,"Duisburg - Ruhrort",DE,95,"Other fuels","Steam turbine",yes,1963,CHP,51.459673,6.730574,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0219,"ThyssenKrupp Steel Europe AG",,47166,"Duisburg - Ruhrort",DE,170,"Other fuels","Steam turbine",yes,1968,CHP,51.459673,6.730574,11WD7BEEC5XRUKWN,Other,"Other fuels",,,,BNetzA/UBA
+BNA0237,"Progroup Power 1 GmbH",,15890,Eisenhüttenstadt,DE,23.5,"Other fuels","Steam turbine",yes,2011,,52.16883,14.64079,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0238a,"ArcelorMittal Eisenhüttenstadt GmbH","Werkstraße 1",15890,Eisenhüttenstadt,DE,45,"Other fuels","Steam turbine",yes,1954,CHP,52.1674,14.62697,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0238b,"ArcelorMittal Eisenhüttenstadt GmbH","Werkstraße 1",15890,Eisenhüttenstadt,DE,56,"Other fuels","Steam turbine",yes,2013,CHP,52.1674,14.62697,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0289a,"Mainova AG","Gutleutstraße 231",60627,"Frankfurt am Main",DE,19.7,"Other fuels","Steam turbine",no,,CHP,50.09847,8.65303,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0395,"ThyssenKrupp Steel Europe AG",,47166,Hamborn,DE,59,"Other fuels","Steam turbine",yes,1958,,51.491,6.72749,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0396,"ThyssenKrupp Steel Europe AG",,47166,Hamborn,DE,101,"Other fuels","Steam turbine",yes,1976,CHP,51.491,6.72749,11WD7BEEC5XHAKW5,Other,"Other fuels",,,,BNetzA/UBA
+BNA0397,"ThyssenKrupp Steel Europe AG",,47166,Hamborn,DE,225,"Other fuels","Steam turbine",yes,2003,CHP,51.500603,6.730319,11WD7BEEC5XHAKW5,Other,"Other fuels",,,,BNetzA/UBA
+BNA0485,"Hüttenwerke Krupp Mannesmann GmbH",,47259,Duisburg-Huckingen,DE,303,"Other fuels","Combined cycle",yes,1976,,51.36787,6.7167,11WD7HUCK2G--KWR,Other,"Other fuels",,,,BNetzA/UBA
+BNA0486,"Hüttenwerke Krupp Mannesmann GmbH",,47259,Duisburg-Huckingen,DE,303,"Other fuels","Combined cycle",yes,1977,,51.36787,6.7167,11WD7HUCK2G--KWR,Other,"Other fuels",,,,BNetzA/UBA
+BNA0597,"InfraLeuna GmbH",,6237,Leuna,DE,8.7,"Other fuels","Combined cycle",yes,1994,,51.29976,12.0193,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0598a,"InfraLeuna GmbH",,6237,Leuna,DE,14,"Other fuels","Steam turbine",yes,2000,,51.79988,11.7581,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0598b,"InfraLeuna GmbH",,6237,Leuna,DE,20,"Other fuels","Combined cycle",no,2010,,51.29976,12.0193,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0616b,"BASF SE","S 300",67056,Ludwigshafen,DE,87.5,"Other fuels","Combined cycle",yes,1964,IPP,48.552941,8.407401,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0693,"SWN Stadtwerke Neumünster GmbH",,24534,Neumünster,DE,53.6,"Other fuels","Steam turbine",yes,1974,,54.0821,10.15,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0863,"Salzgitter Flachstahl GmbH",,38239,Salzgitter,DE,94.5,"Other fuels","Steam turbine",yes,1939,,52.1579,10.39579,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0864,"Salzgitter Flachstahl GmbH",,38239,Salzgitter,DE,97,"Other fuels","Steam turbine",yes,2010,CHP,52.1579,10.39579,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0865b,"Salzgitter Flachstahl GmbH",,38239,Salzgitter,DE,97,"Other fuels","Steam turbine",yes,2010,CHP,52.1579,10.39579,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1115,"Aktien-Gesellschaft der Dillinger Hüttenwerke, ROGESA Roheisengesellschaft Saar mbH und Zentralkokerei Saar GmbH, als Bruchteilsgemeinschaft","Werkstraße 1",66763,Dillingen/Saar,DE,85,"Other fuels","Steam turbine",yes,2010,,49.35485,6.73149,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1249,"UPM GmbH","Friedrich-Haindl-Strasse 10",86956,Schongau,DE,6,"Other fuels","Steam turbine",yes,1989,,47.80811,10.90251,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1397a,"Ineos Manufacturing Deutschland GmbH","Alte Strasse 201",50769,Köln,DE,15.5,"Other fuels","Gas turbine",yes,1964,CHP,51.06948,6.84669,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1397b,"Ineos Manufacturing Deutschland GmbH","Alte Strasse 201",50769,Köln,DE,19.2,"Other fuels","Gas turbine",yes,1964,CHP,51.06948,6.84669,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1397c,"Ineos Manufacturing Deutschland GmbH","Alte Strasse 201",50769,Köln,DE,15.5,"Other fuels","Gas turbine",yes,1963,CHP,51.06948,6.84669,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1397d,"Ineos Manufacturing Deutschland GmbH","Alte Strasse 201",50769,Köln,DE,10.4,"Other fuels","Gas turbine",no,1966,CHP,51.06948,6.84669,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1397e,"Ineos Manufacturing Deutschland GmbH","Alte Strasse 201",50769,Köln,DE,33.6,"Other fuels","Gas turbine",yes,1967,CHP,51.06948,6.84669,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1399,"OXEA Produktion GmbH & Co.KG",Otto-Roelen-Str.3,46147,Oberhausen,DE,38,"Other fuels","Steam turbine",yes,1929,,51.52462,6.8011,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1409,"DK Recycling und Roheisen GmbH","Wörthstraße 175",47053,Duisburg,DE,21,"Other fuels","Steam turbine",yes,2010,,51.41906,6.7385,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1465a,"B+T Energie GmbH","Kasseler Landstr. 23",37213,Witzenhausen,DE,28,"Other fuels","Steam turbine",yes,2009,,51.318082,9.849008,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1523c,"Moritz J. Weig GmbH & Co KG","Polcher Str. 113",56727,Mayen,DE,10.3,"Other fuels","Steam turbine",yes,1992,,50.321134,7.233907,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1526,"Raffinerie Heide GmbH","Meldorfer Str. 43",25770,Hemminstedt,DE,44.5,"Other fuels","Steam turbine",yes,1961,,54.154861,9.076647,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1811,"STEAG Battery System GmbH","Moltkestr. 15",44536,Lünen,DE,15,"Other fuels","Storage technologies",no,2016,,51.613159,7.50983,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1812,"STEAG Battery System GmbH","Holzer Str.",66287,Quierschied,DE,15,"Other fuels","Storage technologies",no,2016,,49.33413028,7.031355928,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1813,"STEAG Battery System GmbH","Hertener Str. 16",44653,Herne,DE,15,"Other fuels","Storage technologies",no,2016,,51.550753,7.187481,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1814,"STEAG Battery System GmbH","Saarbrücker Str. 135-137",66333,Völklingen,DE,15,"Other fuels","Storage technologies",no,2016,,49.249018,6.879244,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1815,"STEAG Battery System GmbH","Dr.-Wilhelm-Roelen Str. 129",47179,Duisburg-Walsum,DE,15,"Other fuels","Storage technologies",no,2016,,51.52672,6.71868,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1816,"STEAG Battery System GmbH",Grubenstr.,66450,Bexbach,DE,15,"Other fuels","Storage technologies",no,2016,,49.363481,7.237136,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1827,"Batteriespeicher Schwerin GmbH & Co. KG","Obotritenring 40",19053,Schwerin,DE,12.5,"Other fuels","Storage technologies",no,2014,,53.637691,11.403466,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1870,"Orion Engineered Carbons GmbH","Harry-Kloepfer-Straße 1",50997,Köln,DE,26.5,"Other fuels","Steam turbine",no,1967,,50.87357395,6.918529651,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1874,"BMW AG",,4349,Leipzig,DE,12.5,"Other fuels","Steam turbine",no,2018,,51.3406321,12.3747329,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1936,"swb Erzeugung GmbH & Co. KG",,28207,Bremen,DE,18,"Other fuels","Storage technologies",yes,2019,,53.0758196,8.8071646,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1939,"Allgäuer Überlandwerk GmbH",,87477,"Sulzberg-Graben / AU 5",DE,16,"Other fuels","Storage technologies",no,2018,,47.691097,10.323657,,Other,"Other fuels",,,,BNetzA/UBA
+BNA1942,"EnspireME GmbH",,,,DE,48,"Other fuels","Storage technologies",no,2018,,54.848958,9.196134,,Other,"Other fuels",,,,BNetzA/UBA
+BNA0084,"Vattenfall Wärme Berlin AG","Otternbuchtstr. 11",13599,Berlin,DE,36,Waste,"Steam turbine",yes,1998,,52.532146,13.246072,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0088b,"Solvay Chemicals GmbH",,6406,Bernburg,DE,35,Waste,"Combined cycle",yes,2009,IPP,51.801239,11.75441,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0097,"MVA Bielefeld-Herford GmbH","Schelpmilser Weg 30",33609,Bielefeld,DE,34,Waste,"Steam turbine",yes,1981,,52.04269,8.60719,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0117a,"Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH",,53115,Bonn,DE,12,Waste,"Steam turbine",yes,1990,,50.73382,7.08055,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0139,"swb Entsorgung GmbH & Co. KG","Otavistr. 7-9",28237,Bremen,DE,33,Waste,"Steam turbine",no,2009,,53.12482,8.72887,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0223a,"Stadtwerke Düsseldorf AG","Behrenstraße 85",40233,Düsseldorf,DE,48.9,Waste,"Steam turbine",no,1955,,51.22455,6.81543,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0223b,"Stadtwerke Düsseldorf AG","Behrenstraße 85",40233,Düsseldorf,DE,53.7,Waste,"Steam turbine",yes,2000,,51.222794,6.813696,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0287a,"Mainova AG","Heddernheimer Landstraße 158",60440,"Frankfurt am Main",DE,26,Waste,"Steam turbine",yes,1969,,50.16173,8.63596,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0287b,"Mainova AG","Heddernheimer Landstraße 157",60439,"Frankfurt am Main",DE,46.5,Waste,"Steam turbine",yes,2006,,50.16171,8.63625,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0380,"EEW Energy from Waste Großräschen GmbH",,1983,Großräschen,DE,23.3,Waste,"Steam turbine",yes,2007,,51.5929,14.0241,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0398,"MVR Müllverwertung Rugenberger Damm GmbH & Co. KG","Rugenberger Damm 1",21129,Hamburg,DE,24,Waste,"Steam turbine",yes,1999,,53.52088514,9.934773445,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0407,"Enertec Hameln GmbH",,31789,Hameln,DE,13.2,Waste,"Steam turbine",yes,1913,,52.09875,9.38821,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0417,"EEW Energy from Waste Hannover GmbH",,30659,Hannover,DE,22.5,Waste,"Steam turbine",no,2005,,52.41178,9.85297,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0438,"EEW Energy from Waste Helmstedt GmbH",,38350,Helmstedt,DE,37.5,Waste,"Steam turbine",no,1999,,52.17138,10.97637,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0519,"RWE Generation SE",,45329,Essen,DE,38,Waste,"Steam turbine",yes,1987,,51.51543,6.99382,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0590,"MVV Energie AG","An der B91",6237,Leuna,DE,16.25,Waste,"Steam turbine",no,2005,,51.29976,12.0193,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0591,"MVV Energie AG","An der B91",6237,Leuna,DE,16.25,Waste,"Steam turbine",no,2007,,51.29976,12.0193,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0616a,"BASF SE","Z 564",67056,Ludwigshafen,DE,12,Waste,"Steam turbine",yes,1992,,48.552941,8.407401,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0622,"Müllheizkraftwerk Rothensee GmbH",,39126,Magdeburg,DE,29.2,Waste,"Steam turbine",yes,2005,,52.18534,11.67906,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0623,"Müllheizkraftwerk Rothensee GmbH",,39126,Magdeburg,DE,29.2,Waste,"Steam turbine",yes,2006,,52.18534,11.67906,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0638,"MVV Energie AG","Otto-Hahn-Straße 1",68169,Mannheim,DE,2.78,Waste,"Steam turbine",no,,,49.5224,8.45294,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0639,"MVV Energie AG","Otto-Hahn-Straße 1",68169,Mannheim,DE,5.56,Waste,"Steam turbine",yes,,,49.5224,8.45294,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0640,"MVV Energie AG","Otto-Hahn-Straße 1",68169,Mannheim,DE,8.65,Waste,"Steam turbine",no,2006,,49.5224,8.45294,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0641a,"MVV Energie AG","Otto-Hahn-Straße 1",68169,Mannheim,DE,22.1,Waste,"Steam turbine",yes,2010,,49.5224,8.45294,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0641b,"MVV Energie AG","Otto-Hahn-Straße 1",68169,Mannheim,DE,5.37,Waste,"Steam turbine",yes,2012,,49.52277,8.45292,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0641c,"MVV Energie AG","Otto-Hahn-Straße 1",68169,Mannheim,DE,3.88,Waste,"Steam turbine",yes,2012,,49.52277,8.45292,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0746,"N-ERGIE AG","Sandreuthstr. 51",90441,Nürnberg,DE,18,Waste,"Combined cycle",yes,1996,,49.438611,11.060556,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0750,"GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH","Liricher Straße 121",46049,Oberhausen,DE,40.4,Waste,"Steam turbine",yes,1991,,51.48548,6.8344,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0751,"GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH","Liricher Straße 121",46049,Oberhausen,DE,21.1,Waste,"Steam turbine",yes,2006,,51.48548,6.8344,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0845,"Stadtwerke Rosenheim GmbH & Co. KG","Färberstraße 47",83022,Rosenheim,DE,9,Waste,"Steam turbine",yes,1988,,47.856134,12.134085,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0855,"Steag GmbH","Siedlerweg 11",15562,"Rüdersdorf bei Berlin",DE,30,Waste,"Steam turbine",no,2009,,52.49028,13.82987,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0895,"GKS Gemeinschaftskraftwerk Schweinfurt GmbH","Hafenstraße 30",97424,Schweinfurt,DE,24.4,Waste,"Steam turbine",yes,1990,,50.02969,10.224,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0939a,"EnBW Energie Baden-Württemberg AG","Voltastraße 45",70376,Stuttgart,DE,19.5,Waste,"Steam turbine",yes,2009,CHP,48.81253,9.21895,11WD4MUST5G----B,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0969a,"SWM Services GmbH",,85774,Unterföhring,DE,18,Waste,"Steam turbine",yes,1991,,48.180506,11.639612,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0969c,"SWM Services GmbH",,85774,Unterföhring,DE,22,Waste,"Steam turbine",yes,1984,,48.180506,11.639612,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1020,"RWE Power AG",,52249,Weisweiler,DE,27,Waste,"Steam turbine",no,1996,,50.83859,6.32117,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1108,"PD energy GmbH","Ostraße 1",6749,"Bitterfeld - Wolfen",DE,9.9,Waste,"Steam turbine",yes,2010,,51.62965,12.28922,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1110,"Zweckverband Restmüllheizkraftwerk Böblingen","Musbergersträßle 11",71032,Böblingen,DE,9.5,Waste,"Steam turbine",no,1999,,48.68552315,9.049525695,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1114,"swb Entsorgung GmbH & Co. KG","Oken 2",28219,Bremen,DE,44,Waste,"Steam turbine",yes,2012,,53.114562,8.818186,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1116,"Bremerhavener Entsorgungsgesellschaft mbH","Zur Hexenbrücke 16",27570,Bremerhaven,DE,14,Waste,"Steam turbine",yes,1977,,53.54782,8.61792,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1119,"Zweckverband Abfallverwertung Südostbayern","Bruck 110",84508,Burgkirchen,DE,12.5,Waste,"Steam turbine",no,1994,,48.18508,12.73606,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1139,"EEW Energy from Waste Saarbrücken GmbH","Heitersheimer Straße 2",79427,Eschbach,DE,13.6,Waste,"Steam turbine",yes,2005,,47.89061,7.61608,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1144,"EEW Energy from Waste Göppingen GmbH",,73037,Göppingen,DE,11,Waste,"Steam turbine",yes,1975,,48.68232,9.67126,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1148,"MHB Hamm Betriebsführungsgesellschaft mbH","Am Lausbach 2",59075,Hamm,DE,14.6,Waste,"Steam turbine",yes,1986,,51.68039,7.74422,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1154,"AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH","Im Emscherbruch 11",A-45699,Herten,DE,15.5,Waste,"Steam turbine",yes,1982,,51.55728,7.16406,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1155,"AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH","Im Emscherbruch 11",45699,Herten,DE,11.7,Waste,"Steam turbine",no,2009,,51.55728,7.16406,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1161,"Zweckverband Müllverwertungsanlage Ingolstadt (MVA Ingolstadt)","Am Mailinger Bach 141",85055,Ingolstadt,DE,25.5,Waste,"Steam turbine",yes,1984,,48.7645,11.49185,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1167,"Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA)","Graftstr. 25",47475,Kamp-Lintfort,DE,16,Waste,"Steam turbine",yes,1997,,51.52242,6.57467,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1168,"Müllheizkraftwerk Kassel GmbH",,34123,Kassel,DE,14.7,Waste,"Steam turbine",yes,1985,,51.2976283,9.52410538,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1184,"AVG Köln mbH","Geestemünder Str. 23",50735,Köln,DE,45.1,Waste,"Steam turbine",yes,1998,,51.0003,6.94358,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1186a,"EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG","Parkstr. 234",47829,Krefeld,DE,13.5,Waste,"Steam turbine",yes,1982,,51.38038,6.63732,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1186b,"EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG","Parkstr. 234",47829,Krefeld,DE,13.8,Waste,"Steam turbine",no,2002,,51.38038,6.63732,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1186c,"EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG","Parkstr. 234",47829,Krefeld,DE,1.5,Waste,"Steam turbine",yes,1976,,51.38038,6.63732,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1186d,"EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG","Parkstr. 234",47829,Krefeld,DE,2.8,Waste,"Steam turbine",yes,1997,,51.38038,6.63732,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1186e,"EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG","Parkstr. 234",47829,Krefeld,DE,1.5,Waste,"Steam turbine",yes,1976,,51.38038,6.63732,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1190,"Steag GmbH","Industrie- und Gewerbegebiet Lauta,  Straße B Nr. 5",2991,Lauta,DE,15.7,Waste,"Steam turbine",yes,2004,,51.45071,14.11215,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1197,"Technische Werke Ludwigshafen AG","Industriestr. 3 ",67063,Ludwigshafen,DE,28,Waste,"Steam turbine",yes,1967,,49.48505,8.42622,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1198,"SUEZ Energie und Verwertung GmbH","Bayerische Str.20",6686,"Lützen OT Zorbau",DE,23,Waste,"Steam turbine",yes,2005,,51.18158,12.01965,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1199,"Entsorgungsgesellschaft Mainz mbH","Kraftwerkallee 1",55120,Mainz,DE,15.6,Waste,"Steam turbine",yes,2009,,50.02594,8.24183,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1222,"Energieversorgung Offenbach AG",,63069,Offenbach,DE,14.5,Waste,"Steam turbine",yes,1972,,50.06533,8.76898,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1229,"EEW Energy from Waste Saarbrücken GmbH","Am Staffelberg 2-4",66954,Pirmasens,DE,15,Waste,"Steam turbine",yes,1999,,49.22822,7.59553,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1232,"EEW Energy from Waste Premnitz GmbH","Dr. Herbert-Rein-Straße 1",14727,Premnitz,DE,2.5,Waste,"Steam turbine",no,2004,,52.53505,12.36259,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1233,"EEW Energy from Waste Premnitz GmbH","Dr. Herbert-Rein-Straße 1",14727,Premnitz,DE,14.5,Waste,"Steam turbine",yes,2009,,52.53505,12.36259,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1243,"Vattenfall Europe New Energy Ecopower GmbH","Ost-West-Straße 25",18147,Rostock,DE,17,Waste,"Steam turbine",yes,2009,,54.14465,12.14123,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1244,"AVA Velsen GmbH","Alte Grube Velsen 16",66127,Saarbrücken-Velsen,DE,16,Waste,"Steam turbine",no,1997,,49.21387,6.83445,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1254,"Zweckverband Müllverwertung Schwandorf","Alustraße 7",92421,Schwandorf,DE,54,Waste,"Steam turbine",yes,1982,,49.30998,12.08795,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1255,"Kraftwerk Schwedt GmbH & Co. KG",,16303,Schwedt,DE,28.9,Waste,"Steam turbine",yes,2011,,53.083056,14.321443,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1262,"REMONDIS Thermische Abfallverwertung GmbH","Butterwecker Weg 6",39418,Staßfurt,DE,24,Waste,"Steam turbine",yes,2008,,51.86615,11.576296,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1286,"Zweckverband für Abfallwirtschaft Südwestthüringen (ZASt)",,98544,Zella-Mehlis,DE,12.1,Waste,"Steam turbine",yes,2007,,50.63879437,10.68695146,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1289,"AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH","Giesestraße 10",58636,Iserlohn,DE,12.61,Waste,"Steam turbine",yes,1981,,51.3971,7.69674,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1291,"IHKW Industrieheizkraftwerk Andernach GmbH","Koblenzer Straße 141",56626,Andernach,DE,12.5,Waste,"Steam turbine",yes,2008,,50.43486,7.43211,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1295,"AVA Abfallverwertung Augsburg GmbH","Am Mittleren Moos 60",86167,Augsburg,DE,10,Waste,"Steam turbine",yes,1994,,48.40113,10.9356,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1316,"EKOCity GmbH","Korzert 15",42349,Wuppertal,DE,30,Waste,"Steam turbine",yes,1976,,51.22515,7.14223,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1330,"Steinbeis Energie GmbH","Stadtstraße 20",25348,Glückstadt,DE,17,Waste,"Steam turbine",yes,2010,,53.78181,9.42577,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1448,"EEW Energy from Waste Saarbrücken GmbH","Am Blücherflöz 12",66538,Neunkirchen,DE,11.6,Waste,"Steam turbine",yes,1977,,49.33857,7.17001,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1449a,"Zweckverband Abfallwirtschaft Raum Würzburg","Gattingerstr. 31",97076,Würzburg,DE,8.7,Waste,"Steam turbine",yes,1984,,49.793,9.99406,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1449b,"Zweckverband Abfallwirtschaft Raum Würzburg","Gattingerstr. 31",97076,Würzburg,DE,12,Waste,"Steam turbine",yes,1998,,49.793,9.99406,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1490,"EBS - Kraftwerk GmbH","Industriestr. 300",50354,Hürth,DE,33.4,Waste,"Steam turbine",yes,2009,,50.8577189,6.850175,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1510,"Spreestromerzeugungs GmbH","An der Heide B5",3130,Spremberg,DE,18.7,Waste,"Steam turbine",yes,2013,,51.520132,14.337383,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1520,"ESWE BioEnergie GmbH","Deponiestraße 14",65205,Wiesbaden,DE,10.5,Waste,"Steam turbine",yes,2014,,50.042129,8.261157,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA1867,"AVG Köln mbH","Geestemünder Straße 23",50735,Köln,DE,18,Waste,"Steam turbine",no,2017,,50.99962,6.940959,,"Other or unspecified energy sources",Waste,,,,BNetzA/UBA
+BNA0492,"RAG Anthrazit Ibbenbüren GmbH",,49477,Ibbenbüren,DE,33.4,"Other fossil fuels","Steam turbine",no,2000,,52.28588,7.74613,,,,,,,BNetzA/UBA
+BNA0997,"STEAG New Energies GmbH",,66333,Völklingen-Fenne,DE,42,"Other fossil fuels","Combustion Engine",yes,2003,,49.249018,6.879244,,,,,,,BNetzA/UBA
+BNA1864,"KÄMMERER Energie GmbH","Römereschstrasse 33",49084,Osnabrück,DE,9.5,"Mixed fossil fuels","Steam turbine",yes,1962,,52.2940363,8.0229623,,,,,,,BNetzA/UBA
+BNA1865,"KÄMMERER Energie GmbH","Römereschstrasse 33",49084,Osnabrück,DE,9.8,"Mixed fossil fuels","Steam turbine",yes,1972,,52.2940363,8.0229623,,,,,,,BNetzA/UBA
