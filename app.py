@@ -235,7 +235,7 @@ show_buffers = st.sidebar.checkbox("Show impact zones", False)
 line_weight = st.sidebar.slider("Line thickness", 2, 10, 5)
 map_theme = st.sidebar.selectbox(
     "Map style",
-    ["CartoDB positron", "CartoDB dark_matter", "OpenStreetMap"]
+    ["CartoDB positron", "CartoDB dark_matter", "OpenStreetMap"],
     format_func=lambda x: {
         "CartoDB positron": "Light",
         "CartoDB dark_matter": "Dark",
