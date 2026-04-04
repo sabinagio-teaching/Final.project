@@ -77,6 +77,9 @@ st.markdown("""
 [data-testid="stSidebar"][aria-expanded="false"] ~ [data-testid="stMain"] {
     margin-left: 0 !important;
 }
+[data-testid="stSidebar"][aria-expanded="false"] {
+    width: 0px !important;
+}
 [data-testid="stMain"] {
     transition: margin-left 0.3s ease;
 }            
