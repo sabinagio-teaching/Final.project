@@ -73,6 +73,13 @@ st.markdown("""
     margin-top: -4px;
     margin-bottom: 10px;
 }
+
+[data-testid="stSidebar"][aria-expanded="false"] ~ [data-testid="stMain"] {
+    margin-left: 0 !important;
+}
+[data-testid="stMain"] {
+    transition: margin-left 0.3s ease;
+}            
 </style>
 """, unsafe_allow_html=True)
 
