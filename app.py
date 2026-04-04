@@ -551,6 +551,10 @@ with right:
 
     line_health_card(healthy_lines, warning_lines, critical_lines)
 
+st.divider()
+table_nodes, table_transmission = st.columns(2)
+
+with table_nodes:
     st.subheader("Node Conditions")
     st.markdown(
         f"<div class='section-note'>Forecasted node conditions for {target_weekday_name} at {target_hour:02d}:00.</div>",
@@ -573,7 +577,8 @@ with right:
         use_container_width=True,
         height=290
     )
-
+    
+with table_transmission:
     st.markdown("### Transmission Line Status")
     st.markdown(
         f"<div class='section-note'>Transmission status forecast for the target time window (+{prediction_horizon}h).</div>",
