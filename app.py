@@ -1,5 +1,7 @@
 import math
 import random
+from datetime import datetime, timedelta
+
 import streamlit as st
 import pandas as pd
 import folium
@@ -53,25 +55,24 @@ st.markdown("""
     margin-bottom: 12px;
 }
 .info-dot {
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    width:18px;
-    height:18px;
-    border-radius:50%;
-    border:1px solid #9aa4b2;
-    color:#cfd8e3;
-    font-size:12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid #9aa4b2;
+    color: #cfd8e3;
+    font-size: 12px;
     cursor: help;
 }
+.section-note {
+    font-size: 0.9rem;
+    color: #475569;
+    margin-top: -4px;
+    margin-bottom: 10px;
+}
 </style>
-""", unsafe_allow_html=True)
-
-st.markdown("""
-<div class="title-box">
-    <h2 style="margin:0;">European Power Grid & Weather Monitor</h2>
-    <div style="opacity:0.85;">Germany • France • Belgium</div>
-</div>
 """, unsafe_allow_html=True)
 
 # -----------------------------
@@ -99,7 +100,7 @@ def line_health_card(healthy_count, warning_count, critical_count):
                 <span>Line Health</span>
                 <span class="info-dot" title="Overview of transmission line conditions across the network. Lines are classified as Healthy, Warning, or Critical based on their simulated operating condition.">i</span>
             </div>
-            <div style="font-size:16px; line-height:1.8;">
+            <div style="font-size:16px; line-height:1.9;">
                 <div><span style="color:#32cd32; font-size:18px;">⬤</span> Healthy: <b>{healthy_count}</b></div>
                 <div><span style="color:#ffa500; font-size:18px;">⬤</span> Warning: <b>{warning_count}</b></div>
                 <div><span style="color:#ff3b30; font-size:18px;">⬤</span> Critical: <b>{critical_count}</b></div>
@@ -154,15 +155,53 @@ def get_line_condition(line_health):
         return "Critical", "red"
 
 # -----------------------------
+# CURRENT TIME CONTEXT
+# -----------------------------
+now = datetime.now()
+current_hour = now.hour
+current_month_num = now.month
+current_month_name = now.strftime("%B")
+current_weekday_name = now.strftime("%A")
+current_weekday_num = now.weekday()
+
+# -----------------------------
 # SIDEBAR CONTROLS
 # -----------------------------
 st.sidebar.title("Controls")
 
-hour = st.sidebar.slider("Simulation hour", 0, 23, 14)
 weather_mode = st.sidebar.selectbox(
     "Weather pattern",
     ["Clear", "Windy", "Rain", "Storm", "Cold Wave", "Heat Wave"]
 )
+
+prediction_horizon_label = st.sidebar.selectbox(
+    "Prediction horizon",
+    ["Next 1 hour", "Next 6 hours", "Next 12 hours", "Next 24 hours"],
+    index=1
+)
+
+horizon_map = {
+    "Next 1 hour": 1,
+    "Next 6 hours": 6,
+    "Next 12 hours": 12,
+    "Next 24 hours": 24,
+}
+prediction_horizon = horizon_map[prediction_horizon_label]
+
+lag_feature_map = {
+    1: "lag_1",
+    6: "lag_6",
+    12: "lag_12",
+    24: "lag_24",
+}
+selected_lag_feature = lag_feature_map[prediction_horizon]
+
+target_time = now + timedelta(hours=prediction_horizon)
+target_hour = target_time.hour
+target_month_num = target_time.month
+target_month_name = target_time.strftime("%B")
+target_weekday_name = target_time.strftime("%A")
+target_weekday_num = target_time.weekday()
 
 show_substations = st.sidebar.checkbox("Show substations", True)
 show_lines = st.sidebar.checkbox("Show transmission lines", True)
@@ -176,10 +215,38 @@ map_theme = st.sidebar.selectbox(
 )
 
 st.sidebar.markdown("---")
+st.sidebar.subheader("Current time context")
+st.sidebar.write(f"**Current Hour:** {current_hour:02d}:00")
+st.sidebar.write(f"**Current Weekday:** {current_weekday_name}")
+st.sidebar.write(f"**Current Month:** {current_month_name}")
+
+st.sidebar.markdown("---")
+st.sidebar.subheader("Prediction target")
+st.sidebar.write(f"**Forecast Horizon:** +{prediction_horizon}h")
+st.sidebar.write(f"**Target Hour:** {target_hour:02d}:00")
+st.sidebar.write(f"**Target Weekday:** {target_weekday_name}")
+st.sidebar.write(f"**Target Month:** {target_month_name}")
+st.sidebar.write(f"**Lag Feature:** {selected_lag_feature}")
+
+st.sidebar.markdown("---")
 st.sidebar.subheader("Grid assumptions")
 base_demand = st.sidebar.slider("Base demand (GW)", 80, 250, 155)
 renewable_share = st.sidebar.slider("Renewable share (%)", 10, 80, 42)
 interconnection_strength = st.sidebar.slider("Cross-border exchange (%)", 10, 100, 70)
+
+# -----------------------------
+# HEADER
+# -----------------------------
+st.markdown(f"""
+<div class="title-box">
+    <h2 style="margin:0;">European Power Grid & Weather Monitor</h2>
+    <div style="opacity:0.85;">
+        Germany • France • Belgium<br>
+        Current Time: {current_weekday_name}, {current_month_name} {now.day} — {current_hour:02d}:00<br>
+        Forecast Horizon: +{prediction_horizon}h → Target Time: {target_hour:02d}:00 ({target_weekday_name})
+    </div>
+</div>
+""", unsafe_allow_html=True)
 
 # -----------------------------
 # COUNTRY / NODE DATA
@@ -215,13 +282,14 @@ node_lookup = {n["name"]: n for n in nodes}
 
 # -----------------------------
 # SIMULATION LOGIC
+# Forecast is aligned with target_hour
 # -----------------------------
-grid_demand = round(base_demand * demand_factor(hour, weather_mode), 1)
+grid_demand = round(base_demand * demand_factor(target_hour, weather_mode), 1)
 renewable_output = round((grid_demand * renewable_share / 100) * renewable_factor(weather_mode), 1)
 conventional_output = round(max(0, grid_demand - renewable_output), 1)
 cross_border_flow = round((grid_demand * interconnection_strength / 100) * 0.18, 1)
 
-random.seed(hour + len(weather_mode))
+random.seed(current_hour + prediction_horizon + len(weather_mode))
 
 node_rows = []
 for n in nodes:
@@ -254,6 +322,14 @@ for n in nodes:
         "load": local_load,
         "temp": temp,
         "wind": wind,
+        "current_hour": current_hour,
+        "current_month": current_month_num,
+        "current_weekday": current_weekday_num,
+        "prediction_horizon_h": prediction_horizon,
+        "target_hour": target_hour,
+        "target_month": target_month_num,
+        "target_weekday": target_weekday_num,
+        "lag_feature": selected_lag_feature,
     })
 
 node_df = pd.DataFrame(node_rows)
@@ -375,10 +451,13 @@ with left:
             popup_html = f"""
             <b>{row['name']}</b><br>
             Country: {row['country']}<br>
+            Forecast Target: {target_hour:02d}:00 ({target_weekday_name})<br>
             Load: {row['load']} GW<br>
             Temp: {row['temp']} °C<br>
             Wind: {row['wind']} km/h<br>
-            Weather: {weather_icon(weather_mode)} {weather_mode}
+            Weather: {weather_icon(weather_mode)} {weather_mode}<br>
+            Horizon: +{prediction_horizon}h<br>
+            Lag Feature: {row['lag_feature']}
             """
 
             folium.CircleMarker(
@@ -425,51 +504,105 @@ with left:
 
 with right:
     blue_card(
+        "Current Hour",
+        f"{current_hour:02d}:00",
+        "Current local hour used as the reference time for the forecast."
+    )
+
+    blue_card(
+        "Current Weekday",
+        current_weekday_name,
+        "Current weekday used as part of the time context."
+    )
+
+    blue_card(
+        "Current Month",
+        current_month_name,
+        "Current month used as part of the time context."
+    )
+
+    blue_card(
+        "Prediction Horizon",
+        f"+{prediction_horizon}h",
+        "Selected forecast horizon. This determines the target time and lag feature."
+    )
+
+    blue_card(
+        "Forecast Target",
+        f"{target_hour:02d}:00",
+        "The predicted grid state shown on the map and cards corresponds to this target hour."
+    )
+
+    blue_card(
         "Weather Mode",
-        weather_mode,
+        f"{weather_icon(weather_mode)} {weather_mode}",
         "Displays the current weather scenario used in the simulation. Weather affects transmission line stress, renewable generation, and overall grid stability."
     )
 
     blue_card(
         "Total Demand",
         f"{total_demand:.1f} GW",
-        "Total electricity consumption across the simulated grid, measured in gigawatts."
+        "Total electricity consumption across the simulated grid, measured in gigawatts, for the forecast target time."
     )
 
     blue_card(
         "Renewable Output",
         f"{renewable_output:.1f} GW",
-        "Amount of electricity generated from renewable sources such as wind and solar."
+        "Amount of electricity generated from renewable sources such as wind and solar for the forecast target time."
     )
 
     blue_card(
         "Conventional Output",
         f"{conventional_output:.1f} GW",
-        "Electricity generated by conventional sources such as gas, coal, or nuclear."
+        "Electricity generated by conventional sources such as gas, coal, or nuclear to meet the remaining forecast demand."
     )
 
     blue_card(
         "Cross-border Flow",
         f"{cross_border_flow:.1f} GW",
-        "Power exchanged between interconnected regions or countries."
+        "Power exchanged between interconnected regions or countries during the forecast target period."
+    )
+
+    blue_card(
+        "Model Lag Feature",
+        selected_lag_feature,
+        "Selected lag feature aligned with the prediction horizon, such as lag_1, lag_6, lag_12, or lag_24."
     )
 
     line_health_card(healthy_lines, warning_lines, critical_lines)
 
     st.subheader("Node Conditions")
+    st.markdown(
+        f"<div class='section-note'>Forecasted node conditions for {target_weekday_name} at {target_hour:02d}:00.</div>",
+        unsafe_allow_html=True
+    )
     st.dataframe(
-        node_df[["name", "country", "load", "temp", "wind"]].rename(columns={
+        node_df[[
+            "name", "country", "load", "temp", "wind",
+            "current_hour", "current_month", "current_weekday",
+            "prediction_horizon_h", "target_hour", "lag_feature"
+        ]].rename(columns={
             "name": "Node",
             "country": "Country",
             "load": "Load (GW)",
             "temp": "Temp (°C)",
-            "wind": "Wind (km/h)"
+            "wind": "Wind (km/h)",
+            "current_hour": "Current Hour",
+            "current_month": "Current Month",
+            "current_weekday": "Current Weekday",
+            "prediction_horizon_h": "Horizon (h)",
+            "target_hour": "Target Hour",
+            "lag_feature": "Lag Feature",
         }),
         use_container_width=True,
-        height=280
+        height=290
     )
 
     st.markdown("### Transmission Line Status")
+    st.markdown(
+        f"<div class='section-note'>Transmission status forecast for the target time window (+{prediction_horizon}h).</div>",
+        unsafe_allow_html=True
+    )
     st.dataframe(
         line_df[["from", "to", "utilization", "line_health", "status"]].rename(columns={
             "from": "From",
@@ -480,4 +613,4 @@ with right:
         }),
         use_container_width=True,
         height=240
-    ) 
+    )
