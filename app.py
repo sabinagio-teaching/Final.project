@@ -52,6 +52,7 @@ st.markdown("""
     color: white;
     padding: 14px 18px;
     border-radius: 16px;
+    margin-top: 40px;
     margin-bottom: 12px;
 }
 .info-dot {
