@@ -74,13 +74,13 @@ st.markdown("""
     margin-bottom: 10px;
 }
 
-[data-testid="stSidebar"][aria-expanded="false"] ~ [data-testid="stMain"] {
+[data-testid="stSidebar"][aria-expanded="false"] ~ [data-testid="stMainBlockContainer"] {
     margin-left: 0 !important;
 }
 [data-testid="stSidebar"][aria-expanded="false"] {
     width: 0px !important;
 }
-[data-testid="stMain"] {
+[data-testid="stMainBlockContainer"] {
     transition: margin-left 0.3s ease;
 }            
 </style>
