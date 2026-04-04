@@ -72,17 +72,7 @@ st.markdown("""
     color: #475569;
     margin-top: -4px;
     margin-bottom: 10px;
-}
-
-[data-testid="stSidebar"][aria-expanded="false"] ~ [data-testid="stMainBlockContainer"] {
-    margin-left: 0 !important;
-}
-[data-testid="stSidebar"][aria-expanded="false"] {
-    width: 0px !important;
-}
-[data-testid="stMainBlockContainer"] {
-    transition: margin-left 0.3s ease;
-}            
+}     
 </style>
 """, unsafe_allow_html=True)
 
