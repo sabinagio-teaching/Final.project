@@ -431,6 +431,7 @@ with left:
                     padding: 4px 8px;
                     border-radius: 8px;
                     border: 1px solid #cbd5e1;
+                    display: inline-block;
                 ">
                     {label}
                 </div>
