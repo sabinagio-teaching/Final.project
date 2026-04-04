@@ -504,10 +504,10 @@ with left:
                     <div style="
                         font-size: 18px;
                         text-align:center;
-                        background: rgba(255,255,255,0.80);
+                        background: rgba(255,255,255,0);
                         border-radius: 10px;
                         padding: 3px 6px;
-                        border: 1px solid #d1d5db;
+                        
                     ">
                         {weather_icon(weather_mode)}<br>
                         <span style="font-size:11px;">{row['temp']}°C</span>
@@ -577,7 +577,7 @@ with table_nodes:
         use_container_width=True,
         height=290
     )
-    
+
 with table_transmission:
     st.markdown("### Transmission Line Status")
     st.markdown(
