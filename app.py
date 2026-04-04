@@ -176,23 +176,46 @@ weather_mode = st.sidebar.selectbox(
 
 prediction_horizon_label = st.sidebar.selectbox(
     "Prediction horizon",
-    ["Next 1 hour", "Next 6 hours", "Next 12 hours", "Next 24 hours"],
-    index=1
+    [
+        "Next 1 hour",
+        "Next 2 hours",
+        "Next 3 hours",
+        "Next 6 hours",
+        "Next 12 hours",
+        "Next 18 hours",
+        "Next 24 hours",
+        "Next 36 hours",
+        "Next 48 hours",
+        "Next 72 hours",
+    ],
+    index=6
 )
 
 horizon_map = {
     "Next 1 hour": 1,
+    "Next 2 hours": 2,
+    "Next 3 hours": 3,
     "Next 6 hours": 6,
     "Next 12 hours": 12,
+    "Next 18 hours": 18,
     "Next 24 hours": 24,
+    "Next 36 hours": 36,
+    "Next 48 hours": 48,
+    "Next 72 hours": 72,
 }
 prediction_horizon = horizon_map[prediction_horizon_label]
 
 lag_feature_map = {
     1: "lag_1",
+    2: "lag_2",
+    3: "lag_3",
     6: "lag_6",
     12: "lag_12",
+    18: "lag_18",
     24: "lag_24",
+    36: "lag_36",
+    48: "lag_48",
+    72: "lag_72",
 }
 selected_lag_feature = lag_feature_map[prediction_horizon]
 
@@ -255,11 +278,9 @@ nodes = [
     {"name": "Brussels Hub", "country": "Belgium", "lat": 50.8503, "lon": 4.3517},
     {"name": "Antwerp Substation", "country": "Belgium", "lat": 51.2194, "lon": 4.4025},
     {"name": "Liège Grid Node", "country": "Belgium", "lat": 50.6326, "lon": 5.5797},
-
     {"name": "Paris Control", "country": "France", "lat": 48.8566, "lon": 2.3522},
     {"name": "Lille Substation", "country": "France", "lat": 50.6292, "lon": 3.0573},
     {"name": "Strasbourg Node", "country": "France", "lat": 48.5734, "lon": 7.7521},
-
     {"name": "Frankfurt Grid Hub", "country": "Germany", "lat": 50.1109, "lon": 8.6821},
     {"name": "Cologne Substation", "country": "Germany", "lat": 50.9375, "lon": 6.9603},
     {"name": "Stuttgart Node", "country": "Germany", "lat": 48.7758, "lon": 9.1829},
@@ -282,7 +303,6 @@ node_lookup = {n["name"]: n for n in nodes}
 
 # -----------------------------
 # SIMULATION LOGIC
-# Forecast is aligned with target_hour
 # -----------------------------
 grid_demand = round(base_demand * demand_factor(target_hour, weather_mode), 1)
 renewable_output = round((grid_demand * renewable_share / 100) * renewable_factor(weather_mode), 1)
@@ -322,13 +342,8 @@ for n in nodes:
         "load": local_load,
         "temp": temp,
         "wind": wind,
-        "current_hour": current_hour,
-        "current_month": current_month_num,
-        "current_weekday": current_weekday_num,
         "prediction_horizon_h": prediction_horizon,
         "target_hour": target_hour,
-        "target_month": target_month_num,
-        "target_weekday": target_weekday_num,
         "lag_feature": selected_lag_feature,
     })
 
@@ -504,36 +519,6 @@ with left:
 
 with right:
     blue_card(
-        "Current Hour",
-        f"{current_hour:02d}:00",
-        "Current local hour used as the reference time for the forecast."
-    )
-
-    blue_card(
-        "Current Weekday",
-        current_weekday_name,
-        "Current weekday used as part of the time context."
-    )
-
-    blue_card(
-        "Current Month",
-        current_month_name,
-        "Current month used as part of the time context."
-    )
-
-    blue_card(
-        "Prediction Horizon",
-        f"+{prediction_horizon}h",
-        "Selected forecast horizon. This determines the target time and lag feature."
-    )
-
-    blue_card(
-        "Forecast Target",
-        f"{target_hour:02d}:00",
-        "The predicted grid state shown on the map and cards corresponds to this target hour."
-    )
-
-    blue_card(
         "Weather Mode",
         f"{weather_icon(weather_mode)} {weather_mode}",
         "Displays the current weather scenario used in the simulation. Weather affects transmission line stress, renewable generation, and overall grid stability."
@@ -563,12 +548,6 @@ with right:
         "Power exchanged between interconnected regions or countries during the forecast target period."
     )
 
-    blue_card(
-        "Model Lag Feature",
-        selected_lag_feature,
-        "Selected lag feature aligned with the prediction horizon, such as lag_1, lag_6, lag_12, or lag_24."
-    )
-
     line_health_card(healthy_lines, warning_lines, critical_lines)
 
     st.subheader("Node Conditions")
@@ -579,7 +558,6 @@ with right:
     st.dataframe(
         node_df[[
             "name", "country", "load", "temp", "wind",
-            "current_hour", "current_month", "current_weekday",
             "prediction_horizon_h", "target_hour", "lag_feature"
         ]].rename(columns={
             "name": "Node",
@@ -587,9 +565,6 @@ with right:
             "load": "Load (GW)",
             "temp": "Temp (°C)",
             "wind": "Wind (km/h)",
-            "current_hour": "Current Hour",
-            "current_month": "Current Month",
-            "current_weekday": "Current Weekday",
             "prediction_horizon_h": "Horizon (h)",
             "target_hour": "Target Hour",
             "lag_feature": "Lag Feature",
