@@ -3,8 +3,8 @@ import random
 import streamlit as st
 import pandas as pd
 import folium
-from streamlit_folium import st_folium
 from folium.plugins import Fullscreen
+from streamlit_folium import st_folium
 
 st.set_page_config(page_title="Power Grid Weather Dashboard", layout="wide")
 
@@ -25,19 +25,25 @@ st.markdown("""
     max-width: 380px;
 }
 .metric-card {
-    background-color: #111827;
-    padding: 14px;
-    border-radius: 14px;
+    background: linear-gradient(135deg, #081325, #0b1b36);
+    padding: 18px 16px;
+    border-radius: 16px;
     color: white;
-    margin-bottom: 10px;
+    margin-bottom: 14px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.18);
 }
 .small-label {
-    font-size: 0.85rem;
-    opacity: 0.8;
+    font-size: 0.95rem;
+    opacity: 0.95;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 .big-number {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 700;
+    line-height: 1.2;
 }
 .title-box {
     background: linear-gradient(90deg, #0f172a, #1e293b);
@@ -45,6 +51,18 @@ st.markdown("""
     padding: 14px 18px;
     border-radius: 16px;
     margin-bottom: 12px;
+}
+.info-dot {
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    width:18px;
+    height:18px;
+    border-radius:50%;
+    border:1px solid #9aa4b2;
+    color:#cfd8e3;
+    font-size:12px;
+    cursor: help;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -55,6 +73,85 @@ st.markdown("""
     <div style="opacity:0.85;">Germany • France • Belgium</div>
 </div>
 """, unsafe_allow_html=True)
+
+# -----------------------------
+# HELPER FUNCTIONS
+# -----------------------------
+def blue_card(title, value, help_text=""):
+    st.markdown(
+        f"""
+        <div class="metric-card">
+            <div class="small-label">
+                <span>{title}</span>
+                <span class="info-dot" title="{help_text}">i</span>
+            </div>
+            <div class="big-number">{value}</div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+def line_health_card(healthy_count, warning_count, critical_count):
+    st.markdown(
+        f"""
+        <div class="metric-card">
+            <div class="small-label">
+                <span>Line Health</span>
+                <span class="info-dot" title="Overview of transmission line conditions across the network. Lines are classified as Healthy, Warning, or Critical based on their simulated operating condition.">i</span>
+            </div>
+            <div style="font-size:16px; line-height:1.8;">
+                <div><span style="color:#32cd32; font-size:18px;">⬤</span> Healthy: <b>{healthy_count}</b></div>
+                <div><span style="color:#ffa500; font-size:18px;">⬤</span> Warning: <b>{warning_count}</b></div>
+                <div><span style="color:#ff3b30; font-size:18px;">⬤</span> Critical: <b>{critical_count}</b></div>
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+def demand_factor(hour_value, mode):
+    day_curve = (
+        1.0
+        + 0.18 * math.sin((hour_value - 7) / 24 * 2 * math.pi)
+        + 0.10 * math.sin((hour_value - 18) / 24 * 2 * math.pi)
+    )
+    weather_adj = {
+        "Clear": 0.00,
+        "Windy": -0.03,
+        "Rain": 0.05,
+        "Storm": 0.12,
+        "Cold Wave": 0.18,
+        "Heat Wave": 0.15,
+    }
+    return max(0.7, day_curve + weather_adj.get(mode, 0))
+
+def renewable_factor(mode):
+    return {
+        "Clear": 0.95,
+        "Windy": 1.20,
+        "Rain": 0.75,
+        "Storm": 0.65,
+        "Cold Wave": 0.70,
+        "Heat Wave": 0.85,
+    }.get(mode, 1.0)
+
+def weather_icon(mode):
+    return {
+        "Clear": "☀️",
+        "Windy": "💨",
+        "Rain": "🌧️",
+        "Storm": "⛈️",
+        "Cold Wave": "❄️",
+        "Heat Wave": "🌡️",
+    }.get(mode, "🌤️")
+
+def get_line_condition(line_health):
+    if line_health > 75:
+        return "Healthy", "green"
+    elif line_health > 50:
+        return "Warning", "orange"
+    else:
+        return "Critical", "red"
 
 # -----------------------------
 # SIDEBAR CONTROLS
@@ -119,46 +216,6 @@ node_lookup = {n["name"]: n for n in nodes}
 # -----------------------------
 # SIMULATION LOGIC
 # -----------------------------
-def demand_factor(hour_value, mode):
-    day_curve = 1.0 + 0.18 * math.sin((hour_value - 7) / 24 * 2 * math.pi) + 0.10 * math.sin((hour_value - 18) / 24 * 2 * math.pi)
-    weather_adj = {
-        "Clear": 0.00,
-        "Windy": -0.03,
-        "Rain": 0.05,
-        "Storm": 0.12,
-        "Cold Wave": 0.18,
-        "Heat Wave": 0.15,
-    }
-    return max(0.7, day_curve + weather_adj.get(mode, 0))
-
-def renewable_factor(mode):
-    return {
-        "Clear": 0.95,
-        "Windy": 1.20,
-        "Rain": 0.75,
-        "Storm": 0.65,
-        "Cold Wave": 0.70,
-        "Heat Wave": 0.85,
-    }.get(mode, 1.0)
-
-def line_status(utilization):
-    if utilization < 55:
-        return "Healthy", "green"
-    elif utilization < 80:
-        return "Warning", "orange"
-    else:
-        return "Critical", "red"
-
-def weather_icon(mode):
-    return {
-        "Clear": "☀️",
-        "Windy": "💨",
-        "Rain": "🌧️",
-        "Storm": "⛈️",
-        "Cold Wave": "❄️",
-        "Heat Wave": "🌡️",
-    }.get(mode, "🌤️")
-
 grid_demand = round(base_demand * demand_factor(hour, weather_mode), 1)
 renewable_output = round((grid_demand * renewable_share / 100) * renewable_factor(weather_mode), 1)
 conventional_output = round(max(0, grid_demand - renewable_output), 1)
@@ -170,6 +227,7 @@ node_rows = []
 for n in nodes:
     country_bias = {"Belgium": 1.00, "France": 1.06, "Germany": 1.10}[n["country"]]
     local_load = round((grid_demand / len(nodes)) * country_bias * random.uniform(0.82, 1.18), 1)
+
     temp = {
         "Clear": random.randint(14, 24),
         "Windy": random.randint(9, 18),
@@ -178,6 +236,7 @@ for n in nodes:
         "Cold Wave": random.randint(-6, 4),
         "Heat Wave": random.randint(28, 38),
     }[weather_mode]
+
     wind = {
         "Clear": random.randint(5, 15),
         "Windy": random.randint(25, 50),
@@ -186,6 +245,7 @@ for n in nodes:
         "Cold Wave": random.randint(10, 24),
         "Heat Wave": random.randint(4, 14),
     }[weather_mode]
+
     node_rows.append({
         "name": n["name"],
         "country": n["country"],
@@ -197,20 +257,15 @@ for n in nodes:
     })
 
 node_df = pd.DataFrame(node_rows)
-import random
-
-
+total_demand = round(node_df["load"].sum(), 1)
 
 line_rows = []
-
 for a, b in lines:
     na = node_df[node_df["name"] == a].iloc[0]
     nb = node_df[node_df["name"] == b].iloc[0]
 
-    # Média da carga
     avg_load = (na["load"] + nb["load"]) / 2
 
-    # Penalização do clima
     weather_penalty = {
         "Clear": 0,
         "Windy": 5,
@@ -220,22 +275,14 @@ for a, b in lines:
         "Heat Wave": 15,
     }[weather_mode]
 
-    # Utilização da linha
     utilization = min(
         100,
         round((avg_load / 24) * 10 + weather_penalty + random.uniform(-5, 5), 1)
     )
 
-    # 🔥 NOVO: cálculo de line health (quanto maior, melhor)
     base_health = 100
-
-    # penalização por utilização
     load_penalty = utilization * 0.6
-
-    # penalização por clima
     weather_health_penalty = weather_penalty * 0.8
-
-    # variação aleatória
     noise = random.uniform(-5, 5)
 
     line_health = max(
@@ -243,19 +290,7 @@ for a, b in lines:
         min(100, round(base_health - load_penalty - weather_health_penalty + noise, 1))
     )
 
-    # 🔥 status baseado na health (mais realista)
-    if line_health > 75:
-        status = "Healthy"
-        color = "green"
-    elif line_health > 50:
-        status = "Moderate"
-        color = "yellow"
-    elif line_health > 30:
-        status = "Stressed"
-        color = "orange"
-    else:
-        status = "Critical"
-        color = "red"
+    status, color = get_line_condition(line_health)
 
     line_rows.append({
         "from": a,
@@ -265,11 +300,12 @@ for a, b in lines:
         "status": status,
         "color": color
     })
+
 line_df = pd.DataFrame(line_rows)
 
-critical_lines = int((line_df["status"] == "Critical").sum())
-warning_lines = int((line_df["status"] == "Warning").sum())
 healthy_lines = int((line_df["status"] == "Healthy").sum())
+warning_lines = int((line_df["status"] == "Warning").sum())
+critical_lines = int((line_df["status"] == "Critical").sum())
 
 # -----------------------------
 # LAYOUT
@@ -277,7 +313,6 @@ healthy_lines = int((line_df["status"] == "Healthy").sum())
 left, right = st.columns([4.8, 1.7], gap="medium")
 
 with left:
-    # Create map
     m = folium.Map(
         location=[49.8, 5.4],
         zoom_start=6,
@@ -286,7 +321,6 @@ with left:
 
     Fullscreen(position="topleft").add_to(m)
 
-    # Country labels
     country_labels = [
         ("Belgium", 50.7, 4.7),
         ("France", 48.9, 3.1),
@@ -311,20 +345,24 @@ with left:
             """)
         ).add_to(m)
 
-    # Draw lines
     if show_lines:
         for _, row in line_df.iterrows():
             a = node_lookup[row["from"]]
             b = node_lookup[row["to"]]
+
             folium.PolyLine(
                 locations=[[a["lat"], a["lon"]], [b["lat"], b["lon"]]],
                 color=row["color"],
                 weight=line_weight,
                 opacity=0.85,
-                tooltip=f"{row['from']} → {row['to']} | {row['status']} | {row['utilization']}%"
+                tooltip=(
+                    f"{row['from']} → {row['to']} | "
+                    f"{row['status']} | "
+                    f"Utilization: {row['utilization']}% | "
+                    f"Health: {row['line_health']}"
+                )
             ).add_to(m)
 
-    # Draw nodes / substations
     if show_substations:
         for _, row in node_df.iterrows():
             if row["load"] < 18:
@@ -363,7 +401,6 @@ with left:
                     fill_opacity=0.08
                 ).add_to(m)
 
-    # Weather overlay
     if show_weather:
         for _, row in node_df.iterrows():
             folium.Marker(
@@ -384,55 +421,44 @@ with left:
             ).add_to(m)
 
     folium.LayerControl().add_to(m)
-
     st_folium(m, height=760, width=None)
 
 with right:
-    st.metric(
-    "Weather Mode",
-    weather_mode,
-    help="Displays the current weather scenario used in the simulation. Weather affects line stress, renewable output, and grid stability."
-)
+    blue_card(
+        "Weather Mode",
+        weather_mode,
+        "Displays the current weather scenario used in the simulation. Weather affects transmission line stress, renewable generation, and overall grid stability."
+    )
 
-total_demand = node_df["load"].sum()
-st.metric(
-    "Total Demand",
-    f"{total_demand:.1f} GW",
-    help="Total electricity consumption across the simulated grid, measured in gigawatts."
-)
+    blue_card(
+        "Total Demand",
+        f"{total_demand:.1f} GW",
+        "Total electricity consumption across the simulated grid, measured in gigawatts."
+    )
 
-st.metric(
-    "Renewable Output",
-    f"{renewable_output:.1f} GW",
-    help="Amount of electricity generated from renewable sources such as wind and solar."
-)
+    blue_card(
+        "Renewable Output",
+        f"{renewable_output:.1f} GW",
+        "Amount of electricity generated from renewable sources such as wind and solar."
+    )
 
-st.metric(
-    "Conventional Output",
-    f"{conventional_output:.1f} GW",
-    help="Electricity generated by conventional sources such as gas, coal, or nuclear."
-)
+    blue_card(
+        "Conventional Output",
+        f"{conventional_output:.1f} GW",
+        "Electricity generated by conventional sources such as gas, coal, or nuclear."
+    )
 
-st.metric(
-    "Cross-border Flow",
-    f"{cross_border_flow:.1f} GW",
-    help="Power exchanged between interconnected regions or countries."
-)
+    blue_card(
+        "Cross-border Flow",
+        f"{cross_border_flow:.1f} GW",
+        "Power exchanged between interconnected regions or countries."
+    )
 
-st.markdown(f"""
-    <div class="metric-card">
-        <div class="small-label">Line Health</div>
-        <div>🟢 Healthy: <b>{healthy_lines}</b></div>
-        <div>🟠 Warning: <b>{warning_lines}</b></div>
-        <div>🔴 Critical: <b>{critical_lines}</b></div>
-    </div>
-    """, unsafe_allow_html=True)
-st.markdown("**Line Health**: Overview of transmission line conditions across the network. Lines are classified as Healthy, Warning, or Critical based on their simulated operating condition.")
+    line_health_card(healthy_lines, warning_lines, critical_lines)
 
-st.subheader("Node Conditions")
-st.dataframe(
-        node_df[["name", "country", "load", "temp", "wind"]]
-        .rename(columns={
+    st.subheader("Node Conditions")
+    st.dataframe(
+        node_df[["name", "country", "load", "temp", "wind"]].rename(columns={
             "name": "Node",
             "country": "Country",
             "load": "Load (GW)",
@@ -443,15 +469,15 @@ st.dataframe(
         height=280
     )
 
-st.markdown("### Transmission Line Status")
-st.dataframe(
-    line_df.rename(columns={
-        "from": "From",
-        "to": "To",
-        "utilization": "Utilization (%)",
-        "status": "Status",
-        "color": "Color"
-    }),
-    use_container_width=True,
-    height=240
-)
+    st.markdown("### Transmission Line Status")
+    st.dataframe(
+        line_df[["from", "to", "utilization", "line_health", "status"]].rename(columns={
+            "from": "From",
+            "to": "To",
+            "utilization": "Utilization (%)",
+            "line_health": "Line Health",
+            "status": "Status"
+        }),
+        use_container_width=True,
+        height=240
+    ) 
